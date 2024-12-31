@@ -1,0 +1,4 @@
+
+Click EVENTS_LIST, 142-1986
+wait, 0.05-0.15
+Click EVENTS_LIST, 142-986

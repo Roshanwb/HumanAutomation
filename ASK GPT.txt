@@ -1,0 +1,49 @@
+Hi gpt, program works fine.. there are some finetuning to do in mouse move. but its for later.
+there are some things we must do.
+
+when i test and think about it there are 3 types of scenarios.
+1. main must do
+2. random interactions.
+3. filler actions.
+
+
+each scenarios i can write separately. our main goal is to do the main interactions. in between each step in main scenario, you can randomly execute (0 to 3) filler action set (MOVEMOUSE/Click EMPTY_AREA/wait a small time) . this random filter action must be decided randomly by the program each time, giving a human like granularity.
+
+after the main scenario, we can do random interactions. they may consist small scenarios which have few steps. for an example, looking at messages scenario.. i can write few steps. as for the execution, you do each step in the "random interactions" in between each step  you can randomly execute (0 to 3) "filler action set". 
+
+so there are 5 types of scenarios
+1.the main scenario file(one text file) witch calls the main must do scenarios (CALL MustDo01 CALL Rando01 CALL MustDo02 .. for example ) and random interactions.this file repeats till i inturrupt.
+2.main must do scenarios(can be many separate text files) contains steps for each main action set.
+3.random interactions (can be many separate text files) contains steps for each random action set.
+4.filler actions (can be many separate text files) contains steps for each filler action set.
+5. there  is a special log-in senario file - i will explain below. 
+
+one thing, we need to calculate the total time we spend for the program. because since we spend random timings, the total time can be longer or shorter. so each round can be longer or shorter. i want it to be fixed . for example in the main senario i will say at the begining TOTALTIME, 100-120; it means total time is a random time between 100 and 120 mins. so we keep a track of the time we spent in each step and then at the end there is a REPEAT , when you see it calculate the remaining time and wait. when we restart the senario from the begening, reset all the timing, randoms and TOTALTIME, recalculate for the current iteration.
+
+from 2.50am to 3.01am we dont execute any thing. after 3.01 + random wait, we executer the special  log-in senario file. then after executing that we continue to execute the usual senarios..
+
+i would like to see a countdown or progressbar in the cli while waiting, so then i know if i can do some other work in the computer.
+
+i have an idea for the interruption of the program. if the mouse cursor outside "WHOLESCREEN" (i.e. second screen) there will be a qustion to inturrupt y/n. if i give Y it will inturrupt.
+
+i know there are many things, but tihs will give a beautiful humanize program. and i hope you are capable of achieving this.
+
+
+
+
+
+
+i think something is missing. now we have a lot of text files to deal with. but the execution starts with the main main_scenario.txt.
+it can contain CALL MustDo01. wich means in MustDo01.txt  is a another senario set.  so there sould be a way to handle "CALL".  
+lets say we have 3 folders for each yupe of senatios and main_scenario.txt, mapped_components.json, and special_login.txt are in the root
+3 folders are  mustdo, randos, fillers.
+each contains many senario texts. the call function finds the relavant senario. 
+as i mentiones earlier, the program should be able to execute zero or more (up to 3)  fillers in betceen each step of senario ( when executing mustdo, randos).
+
+can you implement that please
+
+
+
+i am thinking about the "Exact replication of filler sequences across iterations or fixed patterns" you told. so i think what se can do is i will include more randos scenarios in to the program; and in the program each time it executes a randos file(not a command in a file), program generates Boolean, if true it will execute the randos file ; false it ignores the file execution. this may add more randomness and removes any repetition pattern; 
+
+if you have any other idea, please share..
