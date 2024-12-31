@@ -1,0 +1,8 @@
+[2024-12-30 11:50:10] No last Chrome tab recorded. Skipping.
+[2024-12-30 11:50:10] Set TOTALTIME to 200.92 minutes
+[2024-12-30 11:50:10] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:50:13] Waited for 0.06 minutes
+[2024-12-30 11:50:13] Calling scenario: mustdo\shortexpounisaros.txt
+[2024-12-30 11:50:16] Moved mouse to (1070, 18) smoothly
+[2024-12-30 11:50:16] Clicked on component 'chrometab4' at (1070, 18)
+[2024-12-30 11:50:16] Last Chrome tab set to: chrometab4

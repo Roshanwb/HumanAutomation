@@ -1,0 +1,351 @@
+[2024-12-21 15:35:39] Moved mouse to (430, 267) smoothly
+[2024-12-21 15:35:40] Clicked on component 'overview' at (430, 267)
+[2024-12-21 15:35:40] Waited for 0.95 seconds
+[2024-12-21 15:35:42] Moved mouse to (237, 760) smoothly
+[2024-12-21 15:35:42] Clicked on component 'empty_area' at (237, 760)
+[2024-12-21 15:35:42] Waited for 0.14 seconds
+[2024-12-21 15:35:45] Moved mouse to (1289, 270) smoothly
+[2024-12-21 15:35:45] Clicked on component 'planet1' at (1289, 270)
+[2024-12-21 15:35:47] Waited for 1.78 seconds
+[2024-12-21 15:35:48] Moved mouse to (417, 458) smoothly
+[2024-12-21 15:35:48] Clicked on component 'button_fleet' at (417, 458)
+[2024-12-21 15:35:50] Waited for 1.74 seconds
+[2024-12-21 15:35:52] Moved mouse to (703, 722) smoothly
+[2024-12-21 15:35:53] Clicked on component 'button_selectexpocargos' at (703, 722)
+[2024-12-21 15:35:54] Waited for 1.68 seconds
+[2024-12-21 15:35:58] Waited for 0.07 minutes
+[2024-12-21 15:36:01] Moved mouse to (1837, 345) smoothly
+[2024-12-21 15:36:01] Random mouse move to (1837, 345)
+[2024-12-21 15:36:03] Moved mouse to (1114, 766) smoothly
+[2024-12-21 15:36:03] Clicked on component 'button_continue_fleet' at (1114, 766)
+[2024-12-21 15:36:04] Waited for 1.02 seconds
+[2024-12-21 15:36:06] Moved mouse to (195, 267) smoothly
+[2024-12-21 15:36:06] Clicked on component 'empty_area' at (195, 267)
+[2024-12-21 15:36:06] Waited for 0.17 seconds
+[2024-12-21 15:36:08] Moved mouse to (588, 500) smoothly
+[2024-12-21 15:36:08] Clicked on component 'button_expedition' at (588, 500)
+[2024-12-21 15:36:10] Waited for 1.80 seconds
+[2024-12-21 15:36:12] Moved mouse to (273, 437) smoothly
+[2024-12-21 15:36:12] Random mouse move to (273, 437)
+[2024-12-21 15:36:14] Moved mouse to (997, 858) smoothly
+[2024-12-21 15:36:15] Clicked on component 'button_send' at (997, 858)
+[2024-12-21 15:36:16] Waited for 1.87 seconds
+[2024-12-21 15:36:22] Waited for 0.10 minutes
+[2024-12-21 15:36:25] Moved mouse to (1763, 222) smoothly
+[2024-12-21 15:36:25] Random mouse move to (1763, 222)
+[2024-12-21 15:36:26] Moved mouse to (473, 263) smoothly
+[2024-12-21 15:36:26] Clicked on component 'overview' at (473, 263)
+[2024-12-21 15:36:27] Waited for 0.63 seconds
+[2024-12-21 15:36:28] Moved mouse to (460, 255) smoothly
+[2024-12-21 15:36:28] Clicked on component 'overview' at (460, 255)
+[2024-12-21 15:36:29] Waited for 0.86 seconds
+[2024-12-21 15:36:31] Moved mouse to (1304, 305) smoothly
+[2024-12-21 15:36:31] Clicked on component 'planet2' at (1304, 305)
+[2024-12-21 15:36:33] Waited for 1.22 seconds
+[2024-12-21 15:36:34] Moved mouse to (407, 455) smoothly
+[2024-12-21 15:36:34] Clicked on component 'button_fleet' at (407, 455)
+[2024-12-21 15:36:36] Waited for 1.54 seconds
+[2024-12-21 15:36:38] Moved mouse to (700, 723) smoothly
+[2024-12-21 15:36:38] Clicked on component 'button_selectexpocargos' at (700, 723)
+[2024-12-21 15:36:40] Waited for 1.82 seconds
+[2024-12-21 15:36:42] Moved mouse to (725, 1074) smoothly
+[2024-12-21 15:36:42] Random mouse move to (725, 1074)
+[2024-12-21 15:36:45] Moved mouse to (1122, 758) smoothly
+[2024-12-21 15:36:45] Clicked on component 'button_continue_fleet' at (1122, 758)
+[2024-12-21 15:36:46] Waited for 1.46 seconds
+[2024-12-21 15:36:48] Moved mouse to (608, 476) smoothly
+[2024-12-21 15:36:48] Clicked on component 'button_expedition' at (608, 476)
+[2024-12-21 15:36:49] Waited for 1.01 seconds
+[2024-12-21 15:36:51] Moved mouse to (1126, 858) smoothly
+[2024-12-21 15:36:52] Clicked on component 'button_send' at (1126, 858)
+[2024-12-21 15:36:53] Waited for 1.36 seconds
+[2024-12-21 15:36:54] Moved mouse to (436, 262) smoothly
+[2024-12-21 15:36:54] Clicked on component 'overview' at (436, 262)
+[2024-12-21 15:36:55] Waited for 0.72 seconds
+[2024-12-21 15:36:57] Moved mouse to (1336, 344) smoothly
+[2024-12-21 15:36:58] Clicked on component 'planet3' at (1336, 344)
+[2024-12-21 15:37:00] Waited for 1.97 seconds
+[2024-12-21 15:37:02] Moved mouse to (423, 454) smoothly
+[2024-12-21 15:37:02] Clicked on component 'button_fleet' at (423, 454)
+[2024-12-21 15:37:03] Waited for 1.70 seconds
+[2024-12-21 15:37:11] Waited for 0.13 minutes
+[2024-12-21 15:37:13] Moved mouse to (883, 267) smoothly
+[2024-12-21 15:37:13] Random mouse move to (883, 267)
+[2024-12-21 15:37:15] Moved mouse to (702, 726) smoothly
+[2024-12-21 15:37:15] Clicked on component 'button_selectexpocargos' at (702, 726)
+[2024-12-21 15:37:17] Waited for 1.44 seconds
+[2024-12-21 15:37:19] Moved mouse to (1208, 163) smoothly
+[2024-12-21 15:37:19] Random mouse move to (1208, 163)
+[2024-12-21 15:37:21] Moved mouse to (1117, 756) smoothly
+[2024-12-21 15:37:21] Clicked on component 'button_continue_fleet' at (1117, 756)
+[2024-12-21 15:37:22] Waited for 1.28 seconds
+[2024-12-21 15:37:24] Moved mouse to (600, 502) smoothly
+[2024-12-21 15:37:24] Clicked on component 'button_expedition' at (600, 502)
+[2024-12-21 15:37:26] Waited for 1.43 seconds
+[2024-12-21 15:37:27] Moved mouse to (1285, 878) smoothly
+[2024-12-21 15:37:27] Random mouse move to (1285, 878)
+[2024-12-21 15:37:29] Moved mouse to (965, 891) smoothly
+[2024-12-21 15:37:29] Clicked on component 'button_send' at (965, 891)
+[2024-12-21 15:37:30] Waited for 0.99 seconds
+[2024-12-21 15:37:32] Moved mouse to (225, 510) smoothly
+[2024-12-21 15:37:32] Random mouse move to (225, 510)
+[2024-12-21 15:37:34] Moved mouse to (497, 262) smoothly
+[2024-12-21 15:37:34] Clicked on component 'overview' at (497, 262)
+[2024-12-21 15:37:35] Waited for 0.87 seconds
+[2024-12-21 15:37:37] Moved mouse to (923, 225) smoothly
+[2024-12-21 15:37:37] Clicked on component 'events_list' at (923, 225)
+[2024-12-21 15:37:38] Waited for 1.37 seconds
+[2024-12-21 15:37:40] Moved mouse to (51, 960) smoothly
+[2024-12-21 15:37:40] Clicked on component 'empty_area' at (51, 960)
+[2024-12-21 15:37:40] Waited for 0.18 seconds
+[2024-12-21 15:37:42] Moved mouse to (807, 223) smoothly
+[2024-12-21 15:37:42] Clicked on component 'events_list' at (807, 223)
+[2024-12-21 15:37:44] Waited for 1.81 seconds
+[2024-12-21 15:37:46] Moved mouse to (289, 389) smoothly
+[2024-12-21 15:37:46] Clicked on component 'empty_area' at (289, 389)
+[2024-12-21 15:37:46] Waited for 0.15 seconds
+[2024-12-21 15:37:48] Moved mouse to (604, 218) smoothly
+[2024-12-21 15:37:48] Clicked on component 'messages' at (604, 218)
+[2024-12-21 15:37:49] Waited for 0.90 seconds
+[2024-12-21 15:37:51] Moved mouse to (492, 263) smoothly
+[2024-12-21 15:37:52] Clicked on component 'overview' at (492, 263)
+[2024-12-21 15:37:52] Waited for 0.68 seconds
+[2024-12-21 15:37:54] Moved mouse to (1331, 383) smoothly
+[2024-12-21 15:37:54] Clicked on component 'planet4' at (1331, 383)
+[2024-12-21 15:37:56] Waited for 1.84 seconds
+[2024-12-21 15:37:58] Moved mouse to (497, 456) smoothly
+[2024-12-21 15:37:58] Clicked on component 'button_fleet' at (497, 456)
+[2024-12-21 15:38:00] Waited for 1.54 seconds
+[2024-12-21 15:38:02] Moved mouse to (698, 718) smoothly
+[2024-12-21 15:38:02] Clicked on component 'button_selectexpocargos' at (698, 718)
+[2024-12-21 15:38:04] Waited for 1.69 seconds
+[2024-12-21 15:38:05] Moved mouse to (1243, 667) smoothly
+[2024-12-21 15:38:05] Random mouse move to (1243, 667)
+[2024-12-21 15:38:07] Moved mouse to (1194, 746) smoothly
+[2024-12-21 15:38:07] Clicked on component 'button_continue_fleet' at (1194, 746)
+[2024-12-21 15:38:09] Waited for 1.79 seconds
+[2024-12-21 15:38:11] Moved mouse to (594, 484) smoothly
+[2024-12-21 15:38:12] Clicked on component 'button_expedition' at (594, 484)
+[2024-12-21 15:38:13] Waited for 1.07 seconds
+[2024-12-21 15:38:19] Waited for 0.11 minutes
+[2024-12-21 15:38:21] Moved mouse to (1783, 839) smoothly
+[2024-12-21 15:38:21] Random mouse move to (1783, 839)
+[2024-12-21 15:38:23] Moved mouse to (1162, 873) smoothly
+[2024-12-21 15:38:23] Clicked on component 'button_send' at (1162, 873)
+[2024-12-21 15:38:24] Waited for 1.01 seconds
+[2024-12-21 15:38:26] Moved mouse to (412, 261) smoothly
+[2024-12-21 15:38:26] Clicked on component 'overview' at (412, 261)
+[2024-12-21 15:38:27] Waited for 0.77 seconds
+[2024-12-21 15:38:28] Moved mouse to (1252, 448) smoothly
+[2024-12-21 15:38:28] Clicked on component 'planet5' at (1252, 448)
+[2024-12-21 15:38:30] Waited for 1.34 seconds
+[2024-12-21 15:38:32] Moved mouse to (487, 454) smoothly
+[2024-12-21 15:38:32] Clicked on component 'button_fleet' at (487, 454)
+[2024-12-21 15:38:33] Waited for 1.60 seconds
+[2024-12-21 15:38:40] Waited for 0.11 minutes
+[2024-12-21 15:38:42] Moved mouse to (80, 652) smoothly
+[2024-12-21 15:38:42] Random mouse move to (80, 652)
+[2024-12-21 15:38:44] Moved mouse to (709, 724) smoothly
+[2024-12-21 15:38:44] Clicked on component 'button_selectexpocargos' at (709, 724)
+[2024-12-21 15:38:46] Waited for 1.79 seconds
+[2024-12-21 15:38:48] Moved mouse to (544, 1007) smoothly
+[2024-12-21 15:38:48] Random mouse move to (544, 1007)
+[2024-12-21 15:38:53] Waited for 0.09 minutes
+[2024-12-21 15:38:55] Moved mouse to (703, 722) smoothly
+[2024-12-21 15:38:55] Clicked on component 'button_selectexpocargos' at (703, 722)
+[2024-12-21 15:38:55] Waited for 0.06 seconds
+[2024-12-21 15:38:57] Moved mouse to (1193, 755) smoothly
+[2024-12-21 15:38:57] Clicked on component 'button_continue_fleet' at (1193, 755)
+[2024-12-21 15:38:59] Waited for 1.30 seconds
+[2024-12-21 15:39:01] Moved mouse to (149, 1058) smoothly
+[2024-12-21 15:39:01] Random mouse move to (149, 1058)
+[2024-12-21 15:39:02] Moved mouse to (597, 494) smoothly
+[2024-12-21 15:39:02] Clicked on component 'button_expedition' at (597, 494)
+[2024-12-21 15:39:04] Waited for 1.59 seconds
+[2024-12-21 15:39:05] Moved mouse to (206, 804) smoothly
+[2024-12-21 15:39:05] Clicked on component 'empty_area' at (206, 804)
+[2024-12-21 15:39:05] Waited for 0.15 seconds
+[2024-12-21 15:39:07] Moved mouse to (1111, 888) smoothly
+[2024-12-21 15:39:07] Clicked on component 'button_send' at (1111, 888)
+[2024-12-21 15:39:08] Waited for 1.28 seconds
+[2024-12-21 15:39:10] Moved mouse to (499, 259) smoothly
+[2024-12-21 15:39:10] Clicked on component 'overview' at (499, 259)
+[2024-12-21 15:39:10] Waited for 0.35 seconds
+[2024-12-21 15:39:12] Moved mouse to (1331, 488) smoothly
+[2024-12-21 15:39:12] Clicked on component 'planet6' at (1331, 488)
+[2024-12-21 15:39:14] Waited for 1.86 seconds
+[2024-12-21 15:39:16] Moved mouse to (403, 453) smoothly
+[2024-12-21 15:39:16] Clicked on component 'button_fleet' at (403, 453)
+[2024-12-21 15:39:17] Waited for 0.88 seconds
+[2024-12-21 15:39:20] Moved mouse to (413, 329) smoothly
+[2024-12-21 15:39:20] Random mouse move to (413, 329)
+[2024-12-21 15:39:22] Moved mouse to (711, 714) smoothly
+[2024-12-21 15:39:22] Clicked on component 'button_selectexpocargos' at (711, 714)
+[2024-12-21 15:39:22] Waited for 0.65 seconds
+[2024-12-21 15:39:25] Moved mouse to (1585, 901) smoothly
+[2024-12-21 15:39:25] Random mouse move to (1585, 901)
+[2024-12-21 15:39:27] Moved mouse to (1184, 750) smoothly
+[2024-12-21 15:39:27] Clicked on component 'button_continue_fleet' at (1184, 750)
+[2024-12-21 15:39:28] Waited for 1.03 seconds
+[2024-12-21 15:39:30] Moved mouse to (593, 483) smoothly
+[2024-12-21 15:39:30] Clicked on component 'button_expedition' at (593, 483)
+[2024-12-21 15:39:31] Waited for 0.99 seconds
+[2024-12-21 15:39:33] Moved mouse to (1177, 849) smoothly
+[2024-12-21 15:39:33] Clicked on component 'button_send' at (1177, 849)
+[2024-12-21 15:39:34] Waited for 0.97 seconds
+[2024-12-21 15:39:36] Moved mouse to (1699, 709) smoothly
+[2024-12-21 15:39:36] Random mouse move to (1699, 709)
+[2024-12-21 15:39:38] Moved mouse to (407, 253) smoothly
+[2024-12-21 15:39:38] Clicked on component 'overview' at (407, 253)
+[2024-12-21 15:39:38] Waited for 0.36 seconds
+[2024-12-21 15:39:40] Moved mouse to (723, 217) smoothly
+[2024-12-21 15:39:40] Clicked on component 'events_list' at (723, 217)
+[2024-12-21 15:39:41] Waited for 1.41 seconds
+[2024-12-21 15:39:44] Moved mouse to (1469, 1039) smoothly
+[2024-12-21 15:39:44] Random mouse move to (1469, 1039)
+[2024-12-21 15:39:45] Moved mouse to (766, 226) smoothly
+[2024-12-21 15:39:45] Clicked on component 'events_list' at (766, 226)
+[2024-12-21 15:39:47] Waited for 1.82 seconds
+[2024-12-21 15:39:49] Moved mouse to (42, 887) smoothly
+[2024-12-21 15:39:49] Clicked on component 'empty_area' at (42, 887)
+[2024-12-21 15:39:49] Waited for 0.16 seconds
+[2024-12-21 15:39:51] Moved mouse to (599, 221) smoothly
+[2024-12-21 15:39:51] Clicked on component 'messages' at (599, 221)
+[2024-12-21 15:39:52] Waited for 1.11 seconds
+[2024-12-21 15:39:54] Moved mouse to (497, 261) smoothly
+[2024-12-21 15:39:54] Clicked on component 'overview' at (497, 261)
+[2024-12-21 15:39:55] Waited for 0.97 seconds
+[2024-12-21 15:39:57] Moved mouse to (1265, 538) smoothly
+[2024-12-21 15:39:57] Clicked on component 'planet7' at (1265, 538)
+[2024-12-21 15:39:59] Waited for 1.61 seconds
+[2024-12-21 15:40:00] Moved mouse to (501, 461) smoothly
+[2024-12-21 15:40:00] Clicked on component 'button_fleet' at (501, 461)
+[2024-12-21 15:40:02] Waited for 1.69 seconds
+[2024-12-21 15:40:04] Moved mouse to (710, 728) smoothly
+[2024-12-21 15:40:04] Clicked on component 'button_selectexpocargos' at (710, 728)
+[2024-12-21 15:40:05] Waited for 0.92 seconds
+[2024-12-21 15:40:07] Moved mouse to (208, 378) smoothly
+[2024-12-21 15:40:07] Random mouse move to (208, 378)
+[2024-12-21 15:40:09] Moved mouse to (1141, 753) smoothly
+[2024-12-21 15:40:09] Clicked on component 'button_continue_fleet' at (1141, 753)
+[2024-12-21 15:40:10] Waited for 1.56 seconds
+[2024-12-21 15:40:12] Moved mouse to (581, 493) smoothly
+[2024-12-21 15:40:13] Clicked on component 'button_expedition' at (581, 493)
+[2024-12-21 15:40:14] Waited for 1.70 seconds
+[2024-12-21 15:40:20] Waited for 0.10 minutes
+[2024-12-21 15:40:21] Moved mouse to (1736, 322) smoothly
+[2024-12-21 15:40:21] Random mouse move to (1736, 322)
+[2024-12-21 15:40:23] Moved mouse to (957, 892) smoothly
+[2024-12-21 15:40:23] Clicked on component 'button_send' at (957, 892)
+[2024-12-21 15:40:24] Waited for 1.14 seconds
+[2024-12-21 15:40:26] Moved mouse to (408, 261) smoothly
+[2024-12-21 15:40:26] Clicked on component 'overview' at (408, 261)
+[2024-12-21 15:40:26] Waited for 0.46 seconds
+[2024-12-21 15:40:28] Moved mouse to (904, 214) smoothly
+[2024-12-21 15:40:28] Clicked on component 'events_list' at (904, 214)
+[2024-12-21 15:40:29] Waited for 1.11 seconds
+[2024-12-21 15:40:31] Moved mouse to (844, 214) smoothly
+[2024-12-21 15:40:31] Clicked on component 'events_list' at (844, 214)
+[2024-12-21 15:40:33] Waited for 1.87 seconds
+[2024-12-21 15:40:35] Moved mouse to (1328, 570) smoothly
+[2024-12-21 15:40:35] Clicked on component 'planet8' at (1328, 570)
+[2024-12-21 15:40:36] Waited for 1.48 seconds
+[2024-12-21 15:40:38] Moved mouse to (453, 462) smoothly
+[2024-12-21 15:40:38] Clicked on component 'button_fleet' at (453, 462)
+[2024-12-21 15:40:39] Waited for 1.37 seconds
+[2024-12-21 15:40:41] Moved mouse to (698, 717) smoothly
+[2024-12-21 15:40:42] Clicked on component 'button_selectexpocargos' at (698, 717)
+[2024-12-21 15:40:43] Waited for 1.51 seconds
+[2024-12-21 15:40:45] Moved mouse to (296, 324) smoothly
+[2024-12-21 15:40:45] Clicked on component 'empty_area' at (296, 324)
+[2024-12-21 15:40:46] Waited for 0.13 seconds
+[2024-12-21 15:40:48] Moved mouse to (676, 128) smoothly
+[2024-12-21 15:40:48] Random mouse move to (676, 128)
+[2024-12-21 15:40:50] Moved mouse to (1112, 752) smoothly
+[2024-12-21 15:40:50] Clicked on component 'button_continue_fleet' at (1112, 752)
+[2024-12-21 15:40:51] Waited for 1.31 seconds
+[2024-12-21 15:40:53] Moved mouse to (606, 497) smoothly
+[2024-12-21 15:40:54] Clicked on component 'button_expedition' at (606, 497)
+[2024-12-21 15:40:55] Waited for 1.12 seconds
+[2024-12-21 15:40:57] Moved mouse to (980, 881) smoothly
+[2024-12-21 15:40:57] Clicked on component 'button_send' at (980, 881)
+[2024-12-21 15:40:58] Waited for 1.50 seconds
+[2024-12-21 15:41:00] Moved mouse to (436, 262) smoothly
+[2024-12-21 15:41:00] Clicked on component 'overview' at (436, 262)
+[2024-12-21 15:41:01] Waited for 0.65 seconds
+[2024-12-21 15:41:03] Moved mouse to (1247, 628) smoothly
+[2024-12-21 15:41:03] Clicked on component 'planet9' at (1247, 628)
+[2024-12-21 15:41:05] Waited for 1.97 seconds
+[2024-12-21 15:41:07] Moved mouse to (964, 360) smoothly
+[2024-12-21 15:41:07] Random mouse move to (964, 360)
+[2024-12-21 15:41:09] Moved mouse to (487, 455) smoothly
+[2024-12-21 15:41:09] Clicked on component 'button_fleet' at (487, 455)
+[2024-12-21 15:41:10] Waited for 1.55 seconds
+[2024-12-21 15:41:13] Moved mouse to (696, 723) smoothly
+[2024-12-21 15:41:13] Clicked on component 'button_selectexpocargos' at (696, 723)
+[2024-12-21 15:41:13] Waited for 0.58 seconds
+[2024-12-21 15:41:22] Waited for 0.15 minutes
+[2024-12-21 15:41:25] Moved mouse to (1840, 318) smoothly
+[2024-12-21 15:41:25] Random mouse move to (1840, 318)
+[2024-12-21 15:41:26] Moved mouse to (1110, 767) smoothly
+[2024-12-21 15:41:27] Clicked on component 'button_continue_fleet' at (1110, 767)
+[2024-12-21 15:41:28] Waited for 1.75 seconds
+[2024-12-21 15:41:30] Moved mouse to (610, 491) smoothly
+[2024-12-21 15:41:30] Clicked on component 'button_expedition' at (610, 491)
+[2024-12-21 15:41:31] Waited for 1.26 seconds
+[2024-12-21 15:41:36] Waited for 0.07 minutes
+[2024-12-21 15:41:38] Moved mouse to (1725, 642) smoothly
+[2024-12-21 15:41:38] Random mouse move to (1725, 642)
+[2024-12-21 15:41:40] Moved mouse to (1056, 849) smoothly
+[2024-12-21 15:41:40] Clicked on component 'button_send' at (1056, 849)
+[2024-12-21 15:41:41] Waited for 0.92 seconds
+[2024-12-21 15:41:42] Moved mouse to (404, 266) smoothly
+[2024-12-21 15:41:42] Clicked on component 'overview' at (404, 266)
+[2024-12-21 15:41:43] Waited for 0.93 seconds
+[2024-12-21 15:41:45] Moved mouse to (896, 227) smoothly
+[2024-12-21 15:41:45] Clicked on component 'events_list' at (896, 227)
+[2024-12-21 15:41:47] Waited for 1.83 seconds
+[2024-12-21 15:41:49] Moved mouse to (721, 215) smoothly
+[2024-12-21 15:41:49] Clicked on component 'events_list' at (721, 215)
+[2024-12-21 15:41:50] Waited for 1.31 seconds
+[2024-12-21 15:41:52] Moved mouse to (43, 273) smoothly
+[2024-12-21 15:41:52] Clicked on component 'empty_area' at (43, 273)
+[2024-12-21 15:41:52] Waited for 0.10 seconds
+[2024-12-21 15:41:54] Moved mouse to (1324, 658) smoothly
+[2024-12-21 15:41:54] Clicked on component 'planet10' at (1324, 658)
+[2024-12-21 15:41:55] Waited for 0.89 seconds
+[2024-12-21 15:41:57] Moved mouse to (430, 464) smoothly
+[2024-12-21 15:41:57] Clicked on component 'button_fleet' at (430, 464)
+[2024-12-21 15:41:58] Waited for 0.88 seconds
+[2024-12-21 15:42:00] Moved mouse to (698, 716) smoothly
+[2024-12-21 15:42:00] Clicked on component 'button_selectexpocargos' at (698, 716)
+[2024-12-21 15:42:02] Waited for 1.84 seconds
+[2024-12-21 15:42:04] Moved mouse to (1340, 137) smoothly
+[2024-12-21 15:42:04] Random mouse move to (1340, 137)
+[2024-12-21 15:42:06] Moved mouse to (1163, 763) smoothly
+[2024-12-21 15:42:07] Clicked on component 'button_continue_fleet' at (1163, 763)
+[2024-12-21 15:42:08] Waited for 1.04 seconds
+[2024-12-21 15:42:09] Moved mouse to (583, 511) smoothly
+[2024-12-21 15:42:09] Clicked on component 'button_expedition' at (583, 511)
+[2024-12-21 15:42:11] Waited for 1.88 seconds
+[2024-12-21 15:42:13] Moved mouse to (1100, 871) smoothly
+[2024-12-21 15:42:13] Clicked on component 'button_send' at (1100, 871)
+[2024-12-21 15:42:15] Waited for 1.68 seconds
+[2024-12-21 15:46:32] Waited for 4.29 minutes
+[2024-12-21 15:46:34] Moved mouse to (601, 213) smoothly
+[2024-12-21 15:46:34] Clicked on component 'messages' at (601, 213)
+[2024-12-21 15:46:36] Waited for 1.65 seconds
+[2024-12-21 15:46:38] Moved mouse to (366, 890) smoothly
+[2024-12-21 15:46:38] Random mouse move to (366, 890)
+[2024-12-21 15:46:40] Moved mouse to (1379, 450) smoothly
+[2024-12-21 15:46:40] Random mouse move to (1379, 450)
+[2024-12-21 15:46:42] Moved mouse to (703, 848) smoothly
+[2024-12-21 15:46:42] Random mouse move to (703, 848)
+[2024-12-21 15:48:34] Waited for 1.87 minutes
+[2024-12-21 15:48:35] Moved mouse to (627, 315) smoothly
+[2024-12-21 15:48:35] Clicked on component 'messages_fleet' at (627, 315)
+[2024-12-21 15:48:37] Waited for 1.71 seconds
+[2024-12-21 15:48:39] Moved mouse to (22, 103) smoothly
+[2024-12-21 15:48:39] Random mouse move to (22, 103)
+[2024-12-21 15:48:42] Moved mouse to (1766, 796) smoothly
+[2024-12-21 15:48:42] Random mouse move to (1766, 796)

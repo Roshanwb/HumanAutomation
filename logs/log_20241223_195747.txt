@@ -1,0 +1,11 @@
+[2024-12-23 19:57:47] No last Chrome tab recorded. Skipping.
+[2024-12-23 19:57:47] Set TOTALTIME to 110.96 minutes
+[2024-12-23 19:57:47] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-23 19:57:49] Moved mouse to (1242, 964) smoothly
+[2024-12-23 19:57:49] Random mouse move to (1242, 964)
+[2024-12-23 19:57:49] Error: Scenario file for 'randos_viewevents' not found.
+[2024-12-23 19:57:49] Error: Scenario file for 'randos_viewevents' not found.
+[2024-12-23 19:57:49] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-23 19:57:53] Waited for 0.08 minutes
+[2024-12-23 19:57:53] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-23 19:57:57] Waited for 0.07 minutes

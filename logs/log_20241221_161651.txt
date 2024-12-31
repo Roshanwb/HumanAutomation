@@ -1,0 +1,28 @@
+[2024-12-21 16:16:53] Moved mouse to (491, 17) smoothly
+[2024-12-21 16:16:53] Clicked on component 'chrometab1_close' at (491, 17)
+[2024-12-21 16:16:53] Waited for 0.56 seconds
+[2024-12-21 16:16:55] Moved mouse to (726, 18) smoothly
+[2024-12-21 16:16:55] Clicked on component 'chrometab2_close' at (726, 18)
+[2024-12-21 16:16:55] Waited for 0.36 seconds
+[2024-12-21 16:16:57] Moved mouse to (962, 21) smoothly
+[2024-12-21 16:16:57] Clicked on component 'chrometab3_close' at (962, 21)
+[2024-12-21 16:16:58] Waited for 0.38 seconds
+[2024-12-21 16:16:59] Moved mouse to (1202, 19) smoothly
+[2024-12-21 16:17:00] Clicked on component 'chrometab4_close' at (1202, 19)
+[2024-12-21 16:17:00] Waited for 0.83 seconds
+[2024-12-21 16:17:02] Moved mouse to (1439, 19) smoothly
+[2024-12-21 16:17:02] Clicked on component 'chrometab5_close' at (1439, 19)
+[2024-12-21 16:17:03] Waited for 0.35 seconds
+[2024-12-21 16:17:05] Moved mouse to (152, 26) smoothly
+[2024-12-21 16:17:05] Clicked on component 'chrometab0' at (152, 26)
+[2024-12-21 16:17:06] Waited for 1.69 seconds
+[2024-12-21 16:17:15] Waited for 0.14 minutes
+[2024-12-21 16:17:16] Moved mouse to (1332, 482) smoothly
+[2024-12-21 16:17:16] Clicked on component 'account5' at (1332, 482)
+[2024-12-21 16:17:20] Waited for 3.99 seconds
+[2024-12-21 16:17:23] Moved mouse to (215, 26) smoothly
+[2024-12-21 16:17:23] Clicked on component 'chrometab0' at (215, 26)
+[2024-12-21 16:17:24] Waited for 1.83 seconds
+[2024-12-21 16:17:28] Waited for 0.05 minutes
+[2024-12-21 16:17:30] Moved mouse to (1417, 479) smoothly
+[2024-12-21 16:17:30] Clicked on component 'account5' at (1417, 479)

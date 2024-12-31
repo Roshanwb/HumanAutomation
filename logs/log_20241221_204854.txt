@@ -1,0 +1,15 @@
+[2024-12-21 20:48:54] Executing special login scenario.
+[2024-12-21 20:48:56] Moved mouse to (1436, 18) smoothly
+[2024-12-21 20:48:56] Clicked on component 'chrometab5_close' at (1436, 18)
+[2024-12-21 20:48:56] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-21 20:49:04] Waited for 0.14 minutes
+[2024-12-21 20:49:04] Executing filler: fillers\CLICKEMPTYAREA.txt
+[2024-12-21 20:49:07] Moved mouse to (525, 19) smoothly
+[2024-12-21 20:49:07] Clicked on component 'chrometab2' at (525, 19)
+[2024-12-21 20:49:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 20:49:08] Moved mouse to (1089, 783) smoothly
+[2024-12-21 20:49:08] Random mouse move to (1089, 783)
+[2024-12-21 20:49:08] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 20:49:10] Moved mouse to (685, 49) smoothly
+[2024-12-21 20:49:10] Random mouse move to (685, 49)
+[2024-12-21 20:49:10] Executing filler: fillers\SMALLWAIT.txt

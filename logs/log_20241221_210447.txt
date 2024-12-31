@@ -1,0 +1,102 @@
+[2024-12-21 21:04:47] Total time for this iteration: 110.00 minutes
+[2024-12-21 21:04:47] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-21 21:04:48] Moved mouse to (159, 964) smoothly
+[2024-12-21 21:04:48] Clicked on component 'empty_area' at (159, 964)
+[2024-12-21 21:04:50] Moved mouse to (1283, 396) smoothly
+[2024-12-21 21:04:50] Random mouse move to (1283, 396)
+[2024-12-21 21:04:50] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-21 21:04:53] Waited for 0.05 minutes
+[2024-12-21 21:04:55] Moved mouse to (351, 38) smoothly
+[2024-12-21 21:04:55] Random mouse move to (351, 38)
+[2024-12-21 21:05:05] Waited for 0.18 minutes
+[2024-12-21 21:05:05] Executing filler: fillers\CLICKEMPTYAREA.txt
+[2024-12-21 21:05:07] Moved mouse to (680, 26) smoothly
+[2024-12-21 21:05:07] Clicked on component 'chrometab2' at (680, 26)
+[2024-12-21 21:05:07] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-21 21:05:13] Waited for 0.11 minutes
+[2024-12-21 21:05:13] Executing filler: fillers\VIEWEVENTS.txt
+[2024-12-21 21:05:15] Moved mouse to (463, 255) smoothly
+[2024-12-21 21:05:16] Clicked on component 'overview' at (463, 255)
+[2024-12-21 21:05:16] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-21 21:05:17] Moved mouse to (1586, 692) smoothly
+[2024-12-21 21:05:17] Random mouse move to (1586, 692)
+[2024-12-21 21:05:17] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 21:05:18] Moved mouse to (1338, 791) smoothly
+[2024-12-21 21:05:18] Random mouse move to (1338, 791)
+[2024-12-21 21:05:21] Moved mouse to (755, 267) smoothly
+[2024-12-21 21:05:21] Random mouse move to (755, 267)
+[2024-12-21 21:05:21] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-21 21:05:23] Moved mouse to (1866, 110) smoothly
+[2024-12-21 21:05:23] Random mouse move to (1866, 110)
+[2024-12-21 21:05:23] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-21 21:05:24] Moved mouse to (45, 552) smoothly
+[2024-12-21 21:05:25] Clicked on component 'empty_area' at (45, 552)
+[2024-12-21 21:05:26] Moved mouse to (397, 496) smoothly
+[2024-12-21 21:05:26] Random mouse move to (397, 496)
+[2024-12-21 21:05:26] Executing filler: fillers\RAPIDCLICKEMPTYAREA.txt
+[2024-12-21 21:05:28] Moved mouse to (126, 851) smoothly
+[2024-12-21 21:05:28] Clicked on component 'empty_area' at (126, 851)
+[2024-12-21 21:05:30] Moved mouse to (424, 321) smoothly
+[2024-12-21 21:05:30] Random mouse move to (424, 321)
+[2024-12-21 21:05:30] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-21 21:05:32] Moved mouse to (637, 532) smoothly
+[2024-12-21 21:05:32] Random mouse move to (637, 532)
+[2024-12-21 21:05:34] Moved mouse to (552, 92) smoothly
+[2024-12-21 21:05:34] Random mouse move to (552, 92)
+[2024-12-21 21:05:35] Moved mouse to (1002, 669) smoothly
+[2024-12-21 21:05:35] Random mouse move to (1002, 669)
+[2024-12-21 21:05:37] Moved mouse to (232, 232) smoothly
+[2024-12-21 21:05:37] Clicked on component 'empty_area' at (232, 232)
+[2024-12-21 21:05:40] Moved mouse to (169, 575) smoothly
+[2024-12-21 21:05:40] Clicked on component 'empty_area' at (169, 575)
+[2024-12-21 21:05:40] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-21 21:05:42] Moved mouse to (1481, 304) smoothly
+[2024-12-21 21:05:42] Random mouse move to (1481, 304)
+[2024-12-21 21:05:43] Moved mouse to (820, 543) smoothly
+[2024-12-21 21:05:43] Random mouse move to (820, 543)
+[2024-12-21 21:05:43] Executing filler: fillers\CLICKEMPTYAREA.txt
+[2024-12-21 21:05:46] Moved mouse to (607, 16) smoothly
+[2024-12-21 21:05:46] Clicked on component 'chrometab2' at (607, 16)
+[2024-12-21 21:05:46] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 21:05:48] Moved mouse to (1829, 96) smoothly
+[2024-12-21 21:05:48] Random mouse move to (1829, 96)
+[2024-12-21 21:05:56] Waited for 0.14 minutes
+[2024-12-21 21:05:58] Moved mouse to (465, 257) smoothly
+[2024-12-21 21:05:58] Clicked on component 'overview' at (465, 257)
+[2024-12-21 21:06:01] Moved mouse to (272, 652) smoothly
+[2024-12-21 21:06:01] Clicked on component 'empty_area' at (272, 652)
+[2024-12-21 21:06:01] Executing filler: fillers\RAPIDCLICKEMPTYAREA.txt
+[2024-12-21 21:06:02] Moved mouse to (298, 584) smoothly
+[2024-12-21 21:06:02] Clicked on component 'empty_area' at (298, 584)
+[2024-12-21 21:06:04] Moved mouse to (602, 690) smoothly
+[2024-12-21 21:06:04] Random mouse move to (602, 690)
+[2024-12-21 21:06:06] Moved mouse to (30, 528) smoothly
+[2024-12-21 21:06:06] Clicked on component 'empty_area' at (30, 528)
+[2024-12-21 21:06:08] Moved mouse to (244, 264) smoothly
+[2024-12-21 21:06:08] Clicked on component 'empty_area' at (244, 264)
+[2024-12-21 21:06:08] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 21:06:09] Moved mouse to (624, 406) smoothly
+[2024-12-21 21:06:09] Random mouse move to (624, 406)
+[2024-12-21 21:06:09] Executing filler: fillers\VIEWEVENTS.txt
+[2024-12-21 21:06:11] Moved mouse to (412, 268) smoothly
+[2024-12-21 21:06:11] Clicked on component 'overview' at (412, 268)
+[2024-12-21 21:06:11] Executing filler: fillers\RAPIDCLICKEMPTYAREA.txt
+[2024-12-21 21:06:13] Moved mouse to (308, 508) smoothly
+[2024-12-21 21:06:13] Clicked on component 'empty_area' at (308, 508)
+[2024-12-21 21:06:15] Moved mouse to (1392, 32) smoothly
+[2024-12-21 21:06:15] Random mouse move to (1392, 32)
+[2024-12-21 21:06:17] Moved mouse to (168, 302) smoothly
+[2024-12-21 21:06:17] Clicked on component 'empty_area' at (168, 302)
+[2024-12-21 21:06:18] Moved mouse to (295, 451) smoothly
+[2024-12-21 21:06:19] Clicked on component 'empty_area' at (295, 451)
+[2024-12-21 21:06:19] Executing filler: fillers\RAPIDCLICKEMPTYAREA.txt
+[2024-12-21 21:06:21] Moved mouse to (305, 862) smoothly
+[2024-12-21 21:06:21] Clicked on component 'empty_area' at (305, 862)
+[2024-12-21 21:06:21] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-21 21:06:23] Moved mouse to (43, 931) smoothly
+[2024-12-21 21:06:23] Random mouse move to (43, 931)
+[2024-12-21 21:06:25] Moved mouse to (1391, 416) smoothly
+[2024-12-21 21:06:25] Random mouse move to (1391, 416)
+[2024-12-21 21:06:25] Executing filler: fillers\CLICKEMPTYAREA.txt
+[2024-12-21 21:06:28] Moved mouse to (556, 18) smoothly
+[2024-12-21 21:06:28] Clicked on component 'chrometab2' at (556, 18)

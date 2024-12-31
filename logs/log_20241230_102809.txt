@@ -1,0 +1,2820 @@
+[2024-12-30 10:28:09] No last Chrome tab recorded. Skipping.
+[2024-12-30 10:28:09] Set TOTALTIME to 212.56 minutes
+[2024-12-30 10:28:09] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:28:11] Moved mouse to (751, 492) smoothly
+[2024-12-30 10:28:11] Random mouse move to (751, 492)
+[2024-12-30 10:28:12] Moved mouse to (115, 855) smoothly
+[2024-12-30 10:28:12] Random mouse move to (115, 855)
+[2024-12-30 10:28:12] Waited for 0.01 minutes
+[2024-12-30 10:28:12] Calling scenario: mustdo\shortexpounisaros.txt
+[2024-12-30 10:28:14] Moved mouse to (1049, 17) smoothly
+[2024-12-30 10:28:14] Clicked on component 'chrometab4' at (1049, 17)
+[2024-12-30 10:28:14] Last Chrome tab set to: chrometab4
+[2024-12-30 10:28:14] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:28:16] Moved mouse to (1560, 800) smoothly
+[2024-12-30 10:28:16] Random mouse move to (1560, 800)
+[2024-12-30 10:28:18] Moved mouse to (277, 193) smoothly
+[2024-12-30 10:28:18] Random mouse move to (277, 193)
+[2024-12-30 10:28:19] Waited for 0.03 minutes
+[2024-12-30 10:28:24] Waited for 0.08 minutes
+[2024-12-30 10:28:24] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:28:26] Moved mouse to (66, 602) smoothly
+[2024-12-30 10:28:26] Random mouse move to (66, 602)
+[2024-12-30 10:28:26] Executing randos scenario: readmessages
+[2024-12-30 10:28:26] Calling scenario: randos\readmessages.txt
+[2024-12-30 10:28:28] Moved mouse to (610, 205) smoothly
+[2024-12-30 10:28:28] Clicked on component 'messages' at (610, 205)
+[2024-12-30 10:28:31] Moved mouse to (602, 307) smoothly
+[2024-12-30 10:28:31] Clicked on component 'messages_fleet' at (602, 307)
+[2024-12-30 10:28:31] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:28:33] Moved mouse to (331, 445) smoothly
+[2024-12-30 10:28:33] Random mouse move to (331, 445)
+[2024-12-30 10:28:34] Moved mouse to (226, 337) smoothly
+[2024-12-30 10:28:34] Random mouse move to (226, 337)
+[2024-12-30 10:28:38] Waited for 0.07 minutes
+[2024-12-30 10:28:39] Moved mouse to (235, 366) smoothly
+[2024-12-30 10:28:39] Random mouse move to (235, 366)
+[2024-12-30 10:28:39] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:28:42] Moved mouse to (1701, 25) smoothly
+[2024-12-30 10:28:42] Random mouse move to (1701, 25)
+[2024-12-30 10:28:44] Moved mouse to (744, 709) smoothly
+[2024-12-30 10:28:44] Random mouse move to (744, 709)
+[2024-12-30 10:28:46] Moved mouse to (575, 367) smoothly
+[2024-12-30 10:28:46] Clicked on component 'messages_esp' at (575, 367)
+[2024-12-30 10:28:46] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:28:48] Moved mouse to (1707, 9) smoothly
+[2024-12-30 10:28:48] Random mouse move to (1707, 9)
+[2024-12-30 10:28:50] Moved mouse to (337, 489) smoothly
+[2024-12-30 10:28:50] Random mouse move to (337, 489)
+[2024-12-30 10:28:55] Waited for 0.09 minutes
+[2024-12-30 10:29:30] Waited for 0.57 minutes
+[2024-12-30 10:29:30] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:29:32] Moved mouse to (1547, 305) smoothly
+[2024-12-30 10:29:32] Random mouse move to (1547, 305)
+[2024-12-30 10:29:33] Moved mouse to (737, 373) smoothly
+[2024-12-30 10:29:33] Clicked on component 'messages_combat' at (737, 373)
+[2024-12-30 10:29:57] Waited for 0.42 minutes
+[2024-12-30 10:29:59] Moved mouse to (830, 374) smoothly
+[2024-12-30 10:29:59] Clicked on component 'messages_expo' at (830, 374)
+[2024-12-30 10:30:40] Waited for 0.69 minutes
+[2024-12-30 10:30:42] Moved mouse to (966, 366) smoothly
+[2024-12-30 10:30:42] Clicked on component 'messages_transport' at (966, 366)
+[2024-12-30 10:30:42] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:30:45] Moved mouse to (1863, 269) smoothly
+[2024-12-30 10:30:45] Random mouse move to (1863, 269)
+[2024-12-30 10:30:46] Moved mouse to (1744, 554) smoothly
+[2024-12-30 10:30:46] Random mouse move to (1744, 554)
+[2024-12-30 10:31:06] Waited for 0.32 minutes
+[2024-12-30 10:31:08] Moved mouse to (1191, 366) smoothly
+[2024-12-30 10:31:08] Clicked on component 'messages_other' at (1191, 366)
+[2024-12-30 10:31:40] Waited for 0.55 minutes
+[2024-12-30 10:31:42] Moved mouse to (13, 435) smoothly
+[2024-12-30 10:31:42] Clicked on component 'empty_area' at (13, 435)
+[2024-12-30 10:31:42] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:31:50] Waited for 0.13 minutes
+[2024-12-30 10:31:52] Moved mouse to (1097, 212) smoothly
+[2024-12-30 10:31:52] Random mouse move to (1097, 212)
+[2024-12-30 10:31:54] Moved mouse to (1731, 643) smoothly
+[2024-12-30 10:31:54] Random mouse move to (1731, 643)
+[2024-12-30 10:31:56] Moved mouse to (690, 446) smoothly
+[2024-12-30 10:31:56] Random mouse move to (690, 446)
+[2024-12-30 10:31:56] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:31:57] Moved mouse to (1304, 583) smoothly
+[2024-12-30 10:31:57] Random mouse move to (1304, 583)
+[2024-12-30 10:31:59] Moved mouse to (371, 13) smoothly
+[2024-12-30 10:31:59] Random mouse move to (371, 13)
+[2024-12-30 10:32:02] Moved mouse to (275, 737) smoothly
+[2024-12-30 10:32:02] Clicked on component 'empty_area' at (275, 737)
+[2024-12-30 10:32:02] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:32:04] Moved mouse to (432, 837) smoothly
+[2024-12-30 10:32:04] Random mouse move to (432, 837)
+[2024-12-30 10:32:05] Moved mouse to (1395, 573) smoothly
+[2024-12-30 10:32:05] Random mouse move to (1395, 573)
+[2024-12-30 10:32:07] Moved mouse to (434, 773) smoothly
+[2024-12-30 10:32:07] Random mouse move to (434, 773)
+[2024-12-30 10:32:10] Moved mouse to (464, 775) smoothly
+[2024-12-30 10:32:10] Random mouse move to (464, 775)
+[2024-12-30 10:32:10] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:32:18] Waited for 0.15 minutes
+[2024-12-30 10:32:18] Executing randos scenario: viewevents
+[2024-12-30 10:32:18] Calling scenario: randos\viewevents.txt
+[2024-12-30 10:32:20] Moved mouse to (756, 210) smoothly
+[2024-12-30 10:32:20] Clicked on component 'events_list' at (756, 210)
+[2024-12-30 10:32:25] Waited for 0.10 minutes
+[2024-12-30 10:32:27] Moved mouse to (945, 220) smoothly
+[2024-12-30 10:32:27] Clicked on component 'events_list' at (945, 220)
+[2024-12-30 10:32:29] Moved mouse to (416, 461) smoothly
+[2024-12-30 10:32:30] Clicked on component 'button_fleet' at (416, 461)
+[2024-12-30 10:32:32] Moved mouse to (1260, 257) smoothly
+[2024-12-30 10:32:32] Clicked on component 'planet1' at (1260, 257)
+[2024-12-30 10:32:32] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:32:34] Moved mouse to (82, 916) smoothly
+[2024-12-30 10:32:34] Random mouse move to (82, 916)
+[2024-12-30 10:32:36] Moved mouse to (728, 60) smoothly
+[2024-12-30 10:32:36] Random mouse move to (728, 60)
+[2024-12-30 10:32:38] Moved mouse to (708, 728) smoothly
+[2024-12-30 10:32:38] Clicked on component 'button_selectexpocargos' at (708, 728)
+[2024-12-30 10:32:40] Moved mouse to (692, 718) smoothly
+[2024-12-30 10:32:40] Clicked on component 'button_selectexpocargos' at (692, 718)
+[2024-12-30 10:32:40] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:32:48] Waited for 0.15 minutes
+[2024-12-30 10:32:50] Moved mouse to (1144, 761) smoothly
+[2024-12-30 10:32:50] Clicked on component 'button_continue_fleet' at (1144, 761)
+[2024-12-30 10:32:52] Moved mouse to (579, 485) smoothly
+[2024-12-30 10:32:52] Clicked on component 'button_expedition' at (579, 485)
+[2024-12-30 10:32:52] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:32:57] Waited for 0.09 minutes
+[2024-12-30 10:32:59] Moved mouse to (969, 875) smoothly
+[2024-12-30 10:33:00] Clicked on component 'button_send' at (969, 875)
+[2024-12-30 10:33:00] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:33:06] Waited for 0.12 minutes
+[2024-12-30 10:33:07] Moved mouse to (1257, 316) smoothly
+[2024-12-30 10:33:07] Clicked on component 'planet2' at (1257, 316)
+[2024-12-30 10:33:07] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:33:15] Waited for 0.15 minutes
+[2024-12-30 10:33:17] Moved mouse to (702, 714) smoothly
+[2024-12-30 10:33:18] Clicked on component 'button_selectexpocargos' at (702, 714)
+[2024-12-30 10:33:20] Moved mouse to (692, 729) smoothly
+[2024-12-30 10:33:20] Clicked on component 'button_selectexpocargos' at (692, 729)
+[2024-12-30 10:33:22] Moved mouse to (1175, 753) smoothly
+[2024-12-30 10:33:22] Clicked on component 'button_continue_fleet' at (1175, 753)
+[2024-12-30 10:33:22] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:33:23] Moved mouse to (1534, 248) smoothly
+[2024-12-30 10:33:23] Random mouse move to (1534, 248)
+[2024-12-30 10:33:26] Moved mouse to (613, 475) smoothly
+[2024-12-30 10:33:26] Clicked on component 'button_expedition' at (613, 475)
+[2024-12-30 10:33:26] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:33:28] Moved mouse to (384, 255) smoothly
+[2024-12-30 10:33:28] Random mouse move to (384, 255)
+[2024-12-30 10:33:30] Moved mouse to (1057, 992) smoothly
+[2024-12-30 10:33:30] Random mouse move to (1057, 992)
+[2024-12-30 10:33:34] Waited for 0.07 minutes
+[2024-12-30 10:33:36] Moved mouse to (1060, 883) smoothly
+[2024-12-30 10:33:36] Clicked on component 'button_send' at (1060, 883)
+[2024-12-30 10:33:36] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:33:38] Moved mouse to (119, 565) smoothly
+[2024-12-30 10:33:38] Random mouse move to (119, 565)
+[2024-12-30 10:33:41] Moved mouse to (729, 779) smoothly
+[2024-12-30 10:33:41] Random mouse move to (729, 779)
+[2024-12-30 10:33:42] Moved mouse to (1289, 349) smoothly
+[2024-12-30 10:33:42] Clicked on component 'planet3' at (1289, 349)
+[2024-12-30 10:33:44] Moved mouse to (711, 717) smoothly
+[2024-12-30 10:33:44] Clicked on component 'button_selectexpocargos' at (711, 717)
+[2024-12-30 10:33:44] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:33:46] Moved mouse to (1540, 452) smoothly
+[2024-12-30 10:33:46] Random mouse move to (1540, 452)
+[2024-12-30 10:33:49] Moved mouse to (362, 830) smoothly
+[2024-12-30 10:33:49] Random mouse move to (362, 830)
+[2024-12-30 10:33:55] Waited for 0.11 minutes
+[2024-12-30 10:33:56] Moved mouse to (699, 718) smoothly
+[2024-12-30 10:33:56] Clicked on component 'button_selectexpocargos' at (699, 718)
+[2024-12-30 10:33:59] Moved mouse to (1165, 764) smoothly
+[2024-12-30 10:33:59] Clicked on component 'button_continue_fleet' at (1165, 764)
+[2024-12-30 10:34:01] Moved mouse to (599, 485) smoothly
+[2024-12-30 10:34:01] Clicked on component 'button_expedition' at (599, 485)
+[2024-12-30 10:34:01] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:34:04] Moved mouse to (897, 173) smoothly
+[2024-12-30 10:34:04] Random mouse move to (897, 173)
+[2024-12-30 10:34:05] Moved mouse to (1056, 893) smoothly
+[2024-12-30 10:34:05] Clicked on component 'button_send' at (1056, 893)
+[2024-12-30 10:34:07] Moved mouse to (1270, 399) smoothly
+[2024-12-30 10:34:07] Clicked on component 'planet4' at (1270, 399)
+[2024-12-30 10:34:07] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:34:13] Waited for 0.09 minutes
+[2024-12-30 10:34:15] Moved mouse to (695, 730) smoothly
+[2024-12-30 10:34:15] Clicked on component 'button_selectexpocargos' at (695, 730)
+[2024-12-30 10:34:15] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:34:17] Moved mouse to (493, 346) smoothly
+[2024-12-30 10:34:17] Random mouse move to (493, 346)
+[2024-12-30 10:34:19] Moved mouse to (685, 535) smoothly
+[2024-12-30 10:34:19] Random mouse move to (685, 535)
+[2024-12-30 10:34:21] Moved mouse to (696, 726) smoothly
+[2024-12-30 10:34:21] Clicked on component 'button_selectexpocargos' at (696, 726)
+[2024-12-30 10:34:21] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:34:22] Moved mouse to (1645, 717) smoothly
+[2024-12-30 10:34:22] Random mouse move to (1645, 717)
+[2024-12-30 10:34:25] Moved mouse to (1641, 1003) smoothly
+[2024-12-30 10:34:25] Random mouse move to (1641, 1003)
+[2024-12-30 10:34:27] Moved mouse to (1183, 758) smoothly
+[2024-12-30 10:34:27] Clicked on component 'button_continue_fleet' at (1183, 758)
+[2024-12-30 10:34:28] Moved mouse to (597, 473) smoothly
+[2024-12-30 10:34:28] Clicked on component 'button_expedition' at (597, 473)
+[2024-12-30 10:34:30] Moved mouse to (965, 872) smoothly
+[2024-12-30 10:34:30] Clicked on component 'button_send' at (965, 872)
+[2024-12-30 10:34:33] Moved mouse to (1256, 446) smoothly
+[2024-12-30 10:34:33] Clicked on component 'planet5' at (1256, 446)
+[2024-12-30 10:34:34] Moved mouse to (704, 723) smoothly
+[2024-12-30 10:34:34] Clicked on component 'button_selectexpocargos' at (704, 723)
+[2024-12-30 10:34:34] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:34:39] Waited for 0.09 minutes
+[2024-12-30 10:34:41] Moved mouse to (710, 725) smoothly
+[2024-12-30 10:34:41] Clicked on component 'button_selectexpocargos' at (710, 725)
+[2024-12-30 10:34:41] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:34:47] Waited for 0.11 minutes
+[2024-12-30 10:34:49] Moved mouse to (1117, 748) smoothly
+[2024-12-30 10:34:49] Clicked on component 'button_continue_fleet' at (1117, 748)
+[2024-12-30 10:34:49] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:34:51] Moved mouse to (1552, 359) smoothly
+[2024-12-30 10:34:51] Random mouse move to (1552, 359)
+[2024-12-30 10:34:53] Moved mouse to (1301, 561) smoothly
+[2024-12-30 10:34:53] Random mouse move to (1301, 561)
+[2024-12-30 10:34:56] Waited for 0.05 minutes
+[2024-12-30 10:34:57] Moved mouse to (606, 505) smoothly
+[2024-12-30 10:34:57] Clicked on component 'button_expedition' at (606, 505)
+[2024-12-30 10:34:59] Moved mouse to (1008, 869) smoothly
+[2024-12-30 10:34:59] Clicked on component 'button_send' at (1008, 869)
+[2024-12-30 10:35:00] Moved mouse to (1297, 488) smoothly
+[2024-12-30 10:35:00] Clicked on component 'planet6' at (1297, 488)
+[2024-12-30 10:35:00] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:03] Moved mouse to (1426, 1019) smoothly
+[2024-12-30 10:35:03] Random mouse move to (1426, 1019)
+[2024-12-30 10:35:05] Moved mouse to (724, 965) smoothly
+[2024-12-30 10:35:05] Random mouse move to (724, 965)
+[2024-12-30 10:35:06] Moved mouse to (691, 719) smoothly
+[2024-12-30 10:35:06] Clicked on component 'button_selectexpocargos' at (691, 719)
+[2024-12-30 10:35:08] Moved mouse to (693, 725) smoothly
+[2024-12-30 10:35:08] Clicked on component 'button_selectexpocargos' at (693, 725)
+[2024-12-30 10:35:09] Moved mouse to (1184, 754) smoothly
+[2024-12-30 10:35:09] Clicked on component 'button_continue_fleet' at (1184, 754)
+[2024-12-30 10:35:11] Moved mouse to (591, 479) smoothly
+[2024-12-30 10:35:11] Clicked on component 'button_expedition' at (591, 479)
+[2024-12-30 10:35:11] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:35:15] Waited for 0.08 minutes
+[2024-12-30 10:35:17] Moved mouse to (1067, 875) smoothly
+[2024-12-30 10:35:17] Clicked on component 'button_send' at (1067, 875)
+[2024-12-30 10:35:17] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:20] Moved mouse to (946, 794) smoothly
+[2024-12-30 10:35:20] Random mouse move to (946, 794)
+[2024-12-30 10:35:21] Moved mouse to (739, 264) smoothly
+[2024-12-30 10:35:21] Random mouse move to (739, 264)
+[2024-12-30 10:35:23] Moved mouse to (1288, 535) smoothly
+[2024-12-30 10:35:23] Clicked on component 'planet7' at (1288, 535)
+[2024-12-30 10:35:23] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:25] Moved mouse to (1461, 674) smoothly
+[2024-12-30 10:35:25] Random mouse move to (1461, 674)
+[2024-12-30 10:35:26] Moved mouse to (1063, 704) smoothly
+[2024-12-30 10:35:26] Random mouse move to (1063, 704)
+[2024-12-30 10:35:29] Moved mouse to (711, 717) smoothly
+[2024-12-30 10:35:29] Clicked on component 'button_selectexpocargos' at (711, 717)
+[2024-12-30 10:35:29] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:31] Moved mouse to (1020, 177) smoothly
+[2024-12-30 10:35:31] Random mouse move to (1020, 177)
+[2024-12-30 10:35:32] Moved mouse to (1917, 583) smoothly
+[2024-12-30 10:35:32] Random mouse move to (1917, 583)
+[2024-12-30 10:35:34] Moved mouse to (700, 716) smoothly
+[2024-12-30 10:35:34] Clicked on component 'button_selectexpocargos' at (700, 716)
+[2024-12-30 10:35:36] Moved mouse to (1116, 742) smoothly
+[2024-12-30 10:35:36] Clicked on component 'button_continue_fleet' at (1116, 742)
+[2024-12-30 10:35:36] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:39] Moved mouse to (1853, 826) smoothly
+[2024-12-30 10:35:39] Random mouse move to (1853, 826)
+[2024-12-30 10:35:41] Moved mouse to (1095, 254) smoothly
+[2024-12-30 10:35:41] Random mouse move to (1095, 254)
+[2024-12-30 10:35:43] Moved mouse to (599, 496) smoothly
+[2024-12-30 10:35:43] Clicked on component 'button_expedition' at (599, 496)
+[2024-12-30 10:35:44] Moved mouse to (1005, 882) smoothly
+[2024-12-30 10:35:45] Clicked on component 'button_send' at (1005, 882)
+[2024-12-30 10:35:45] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:46] Moved mouse to (905, 619) smoothly
+[2024-12-30 10:35:46] Random mouse move to (905, 619)
+[2024-12-30 10:35:48] Moved mouse to (509, 526) smoothly
+[2024-12-30 10:35:48] Random mouse move to (509, 526)
+[2024-12-30 10:35:49] Moved mouse to (1300, 575) smoothly
+[2024-12-30 10:35:49] Clicked on component 'planet8' at (1300, 575)
+[2024-12-30 10:35:51] Moved mouse to (698, 717) smoothly
+[2024-12-30 10:35:51] Clicked on component 'button_selectexpocargos' at (698, 717)
+[2024-12-30 10:35:53] Moved mouse to (704, 727) smoothly
+[2024-12-30 10:35:53] Clicked on component 'button_selectexpocargos' at (704, 727)
+[2024-12-30 10:35:53] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:35:55] Moved mouse to (681, 705) smoothly
+[2024-12-30 10:35:55] Random mouse move to (681, 705)
+[2024-12-30 10:35:57] Moved mouse to (575, 224) smoothly
+[2024-12-30 10:35:57] Random mouse move to (575, 224)
+[2024-12-30 10:35:59] Moved mouse to (1126, 768) smoothly
+[2024-12-30 10:36:00] Clicked on component 'button_continue_fleet' at (1126, 768)
+[2024-12-30 10:36:00] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:36:07] Waited for 0.13 minutes
+[2024-12-30 10:36:08] Moved mouse to (586, 495) smoothly
+[2024-12-30 10:36:09] Clicked on component 'button_expedition' at (586, 495)
+[2024-12-30 10:36:10] Moved mouse to (1135, 860) smoothly
+[2024-12-30 10:36:10] Clicked on component 'button_send' at (1135, 860)
+[2024-12-30 10:36:10] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:36:11] Moved mouse to (189, 877) smoothly
+[2024-12-30 10:36:11] Random mouse move to (189, 877)
+[2024-12-30 10:36:13] Moved mouse to (1284, 620) smoothly
+[2024-12-30 10:36:14] Clicked on component 'planet9' at (1284, 620)
+[2024-12-30 10:36:14] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:36:15] Moved mouse to (968, 216) smoothly
+[2024-12-30 10:36:15] Random mouse move to (968, 216)
+[2024-12-30 10:36:16] Moved mouse to (578, 903) smoothly
+[2024-12-30 10:36:16] Random mouse move to (578, 903)
+[2024-12-30 10:36:18] Moved mouse to (446, 455) smoothly
+[2024-12-30 10:36:18] Clicked on component 'button_fleet' at (446, 455)
+[2024-12-30 10:36:20] Moved mouse to (696, 721) smoothly
+[2024-12-30 10:36:20] Clicked on component 'button_selectexpocargos' at (696, 721)
+[2024-12-30 10:36:20] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:36:27] Waited for 0.13 minutes
+[2024-12-30 10:36:29] Moved mouse to (697, 727) smoothly
+[2024-12-30 10:36:30] Clicked on component 'button_selectexpocargos' at (697, 727)
+[2024-12-30 10:36:30] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:36:31] Moved mouse to (1790, 567) smoothly
+[2024-12-30 10:36:31] Random mouse move to (1790, 567)
+[2024-12-30 10:36:33] Moved mouse to (397, 973) smoothly
+[2024-12-30 10:36:33] Random mouse move to (397, 973)
+[2024-12-30 10:36:34] Moved mouse to (1112, 757) smoothly
+[2024-12-30 10:36:34] Clicked on component 'button_continue_fleet' at (1112, 757)
+[2024-12-30 10:36:36] Moved mouse to (596, 473) smoothly
+[2024-12-30 10:36:36] Clicked on component 'button_expedition' at (596, 473)
+[2024-12-30 10:36:38] Moved mouse to (975, 880) smoothly
+[2024-12-30 10:36:38] Clicked on component 'button_send' at (975, 880)
+[2024-12-30 10:36:38] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:36:45] Waited for 0.13 minutes
+[2024-12-30 10:36:47] Moved mouse to (1290, 672) smoothly
+[2024-12-30 10:36:47] Clicked on component 'planet10' at (1290, 672)
+[2024-12-30 10:36:49] Moved mouse to (702, 721) smoothly
+[2024-12-30 10:36:49] Clicked on component 'button_selectexpocargos' at (702, 721)
+[2024-12-30 10:36:51] Moved mouse to (703, 725) smoothly
+[2024-12-30 10:36:51] Clicked on component 'button_selectexpocargos' at (703, 725)
+[2024-12-30 10:36:51] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:36:53] Moved mouse to (119, 1003) smoothly
+[2024-12-30 10:36:53] Random mouse move to (119, 1003)
+[2024-12-30 10:36:55] Moved mouse to (1085, 991) smoothly
+[2024-12-30 10:36:55] Random mouse move to (1085, 991)
+[2024-12-30 10:36:57] Moved mouse to (1150, 768) smoothly
+[2024-12-30 10:36:57] Clicked on component 'button_continue_fleet' at (1150, 768)
+[2024-12-30 10:36:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:36:59] Moved mouse to (467, 76) smoothly
+[2024-12-30 10:36:59] Random mouse move to (467, 76)
+[2024-12-30 10:37:01] Moved mouse to (573, 99) smoothly
+[2024-12-30 10:37:01] Random mouse move to (573, 99)
+[2024-12-30 10:37:07] Waited for 0.11 minutes
+[2024-12-30 10:37:09] Moved mouse to (593, 507) smoothly
+[2024-12-30 10:37:09] Clicked on component 'button_expedition' at (593, 507)
+[2024-12-30 10:37:09] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:37:12] Moved mouse to (936, 529) smoothly
+[2024-12-30 10:37:12] Random mouse move to (936, 529)
+[2024-12-30 10:37:13] Moved mouse to (308, 981) smoothly
+[2024-12-30 10:37:13] Random mouse move to (308, 981)
+[2024-12-30 10:37:15] Moved mouse to (1091, 879) smoothly
+[2024-12-30 10:37:15] Clicked on component 'button_send' at (1091, 879)
+[2024-12-30 10:37:15] Executing randos scenario: navigateallmoons
+[2024-12-30 10:37:15] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 10:37:26] Waited for 0.19 minutes
+[2024-12-30 10:37:26] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:37:28] Moved mouse to (1141, 292) smoothly
+[2024-12-30 10:37:28] Random mouse move to (1141, 292)
+[2024-12-30 10:37:30] Moved mouse to (1859, 864) smoothly
+[2024-12-30 10:37:30] Random mouse move to (1859, 864)
+[2024-12-30 10:37:32] Moved mouse to (1251, 680) smoothly
+[2024-12-30 10:37:32] Random mouse move to (1251, 680)
+[2024-12-30 10:37:32] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:37:34] Moved mouse to (346, 60) smoothly
+[2024-12-30 10:37:34] Random mouse move to (346, 60)
+[2024-12-30 10:37:35] Moved mouse to (199, 136) smoothly
+[2024-12-30 10:37:35] Random mouse move to (199, 136)
+[2024-12-30 10:37:39] Waited for 0.07 minutes
+[2024-12-30 10:37:42] Moved mouse to (486, 256) smoothly
+[2024-12-30 10:37:42] Clicked on component 'overview' at (486, 256)
+[2024-12-30 10:37:42] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 10:37:42] Executing randos scenario: navigatetomoon1
+[2024-12-30 10:37:42] Calling scenario: randos\navigatetomoon1.txt
+[2024-12-30 10:37:50] Waited for 0.15 minutes
+[2024-12-30 10:37:51] Moved mouse to (1561, 139) smoothly
+[2024-12-30 10:37:51] Random mouse move to (1561, 139)
+[2024-12-30 10:37:54] Moved mouse to (1418, 273) smoothly
+[2024-12-30 10:37:54] Clicked on component 'moon1' at (1418, 273)
+[2024-12-30 10:37:54] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:37:56] Moved mouse to (1889, 745) smoothly
+[2024-12-30 10:37:56] Random mouse move to (1889, 745)
+[2024-12-30 10:37:58] Moved mouse to (1013, 291) smoothly
+[2024-12-30 10:37:58] Random mouse move to (1013, 291)
+[2024-12-30 10:38:00] Moved mouse to (1447, 657) smoothly
+[2024-12-30 10:38:00] Random mouse move to (1447, 657)
+[2024-12-30 10:38:00] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:38:02] Moved mouse to (1845, 968) smoothly
+[2024-12-30 10:38:02] Random mouse move to (1845, 968)
+[2024-12-30 10:38:03] Moved mouse to (576, 224) smoothly
+[2024-12-30 10:38:03] Random mouse move to (576, 224)
+[2024-12-30 10:38:03] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:38:05] Moved mouse to (342, 435) smoothly
+[2024-12-30 10:38:05] Random mouse move to (342, 435)
+[2024-12-30 10:38:06] Moved mouse to (22, 750) smoothly
+[2024-12-30 10:38:06] Random mouse move to (22, 750)
+[2024-12-30 10:38:06] Waited for 0.01 minutes
+[2024-12-30 10:38:08] Moved mouse to (1864, 560) smoothly
+[2024-12-30 10:38:08] Random mouse move to (1864, 560)
+[2024-12-30 10:38:08] Executing randos scenario: navigatetomoon2
+[2024-12-30 10:38:08] Calling scenario: randos\navigatetomoon2.txt
+[2024-12-30 10:38:21] Waited for 0.21 minutes
+[2024-12-30 10:38:22] Moved mouse to (391, 249) smoothly
+[2024-12-30 10:38:22] Random mouse move to (391, 249)
+[2024-12-30 10:38:22] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:38:24] Moved mouse to (22, 201) smoothly
+[2024-12-30 10:38:24] Random mouse move to (22, 201)
+[2024-12-30 10:38:27] Moved mouse to (1428, 312) smoothly
+[2024-12-30 10:38:27] Clicked on component 'moon2' at (1428, 312)
+[2024-12-30 10:38:27] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:38:29] Moved mouse to (1671, 746) smoothly
+[2024-12-30 10:38:29] Random mouse move to (1671, 746)
+[2024-12-30 10:38:31] Moved mouse to (178, 977) smoothly
+[2024-12-30 10:38:31] Random mouse move to (178, 977)
+[2024-12-30 10:38:31] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:38:33] Moved mouse to (1861, 825) smoothly
+[2024-12-30 10:38:33] Random mouse move to (1861, 825)
+[2024-12-30 10:38:34] Moved mouse to (509, 901) smoothly
+[2024-12-30 10:38:34] Random mouse move to (509, 901)
+[2024-12-30 10:38:35] Waited for 0.02 minutes
+[2024-12-30 10:38:37] Moved mouse to (931, 428) smoothly
+[2024-12-30 10:38:37] Random mouse move to (931, 428)
+[2024-12-30 10:38:37] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:38:39] Moved mouse to (317, 1016) smoothly
+[2024-12-30 10:38:39] Random mouse move to (317, 1016)
+[2024-12-30 10:38:40] Moved mouse to (1270, 710) smoothly
+[2024-12-30 10:38:40] Random mouse move to (1270, 710)
+[2024-12-30 10:38:45] Waited for 0.09 minutes
+[2024-12-30 10:38:45] Skipping randos scenario: navigatetomoon3
+[2024-12-30 10:38:45] Error: Scenario file for 'navigatetomoon3' not found.
+[2024-12-30 10:38:45] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:38:47] Moved mouse to (1319, 339) smoothly
+[2024-12-30 10:38:47] Random mouse move to (1319, 339)
+[2024-12-30 10:38:49] Moved mouse to (1263, 592) smoothly
+[2024-12-30 10:38:49] Random mouse move to (1263, 592)
+[2024-12-30 10:38:49] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:38:55] Waited for 0.11 minutes
+[2024-12-30 10:38:55] Executing randos scenario: navigatetomoon4
+[2024-12-30 10:38:55] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 10:39:05] Waited for 0.18 minutes
+[2024-12-30 10:39:05] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:39:07] Moved mouse to (849, 912) smoothly
+[2024-12-30 10:39:07] Random mouse move to (849, 912)
+[2024-12-30 10:39:09] Moved mouse to (773, 919) smoothly
+[2024-12-30 10:39:09] Random mouse move to (773, 919)
+[2024-12-30 10:39:14] Waited for 0.10 minutes
+[2024-12-30 10:39:16] Moved mouse to (819, 868) smoothly
+[2024-12-30 10:39:16] Random mouse move to (819, 868)
+[2024-12-30 10:39:17] Moved mouse to (1420, 389) smoothly
+[2024-12-30 10:39:17] Clicked on component 'moon4' at (1420, 389)
+[2024-12-30 10:39:20] Moved mouse to (811, 416) smoothly
+[2024-12-30 10:39:20] Random mouse move to (811, 416)
+[2024-12-30 10:39:20] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:39:22] Moved mouse to (1076, 175) smoothly
+[2024-12-30 10:39:22] Random mouse move to (1076, 175)
+[2024-12-30 10:39:23] Moved mouse to (69, 391) smoothly
+[2024-12-30 10:39:23] Random mouse move to (69, 391)
+[2024-12-30 10:39:24] Moved mouse to (964, 150) smoothly
+[2024-12-30 10:39:25] Random mouse move to (964, 150)
+[2024-12-30 10:39:25] Executing randos scenario: navigatetomoon5
+[2024-12-30 10:39:25] Calling scenario: randos\navigatetomoon5.txt
+[2024-12-30 10:39:34] Waited for 0.15 minutes
+[2024-12-30 10:39:35] Moved mouse to (878, 331) smoothly
+[2024-12-30 10:39:35] Random mouse move to (878, 331)
+[2024-12-30 10:39:37] Moved mouse to (1433, 437) smoothly
+[2024-12-30 10:39:38] Clicked on component 'moon5' at (1433, 437)
+[2024-12-30 10:39:38] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:39:39] Moved mouse to (189, 983) smoothly
+[2024-12-30 10:39:39] Random mouse move to (189, 983)
+[2024-12-30 10:39:41] Moved mouse to (1175, 360) smoothly
+[2024-12-30 10:39:41] Random mouse move to (1175, 360)
+[2024-12-30 10:39:43] Moved mouse to (598, 320) smoothly
+[2024-12-30 10:39:43] Random mouse move to (598, 320)
+[2024-12-30 10:39:45] Moved mouse to (0, 752) smoothly
+[2024-12-30 10:39:45] Random mouse move to (0, 752)
+[2024-12-30 10:39:45] Executing randos scenario: navigatetomoon6
+[2024-12-30 10:39:45] Calling scenario: randos\navigatetomoon6.txt
+[2024-12-30 10:39:53] Waited for 0.13 minutes
+[2024-12-30 10:39:55] Moved mouse to (349, 780) smoothly
+[2024-12-30 10:39:55] Random mouse move to (349, 780)
+[2024-12-30 10:39:57] Moved mouse to (1415, 492) smoothly
+[2024-12-30 10:39:57] Clicked on component 'moon6' at (1415, 492)
+[2024-12-30 10:39:57] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:39:58] Moved mouse to (953, 125) smoothly
+[2024-12-30 10:39:58] Random mouse move to (953, 125)
+[2024-12-30 10:40:00] Moved mouse to (1124, 80) smoothly
+[2024-12-30 10:40:00] Random mouse move to (1124, 80)
+[2024-12-30 10:40:02] Moved mouse to (1641, 88) smoothly
+[2024-12-30 10:40:02] Random mouse move to (1641, 88)
+[2024-12-30 10:40:02] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:40:04] Moved mouse to (959, 1) smoothly
+[2024-12-30 10:40:04] Random mouse move to (959, 1)
+[2024-12-30 10:40:06] Moved mouse to (914, 260) smoothly
+[2024-12-30 10:40:06] Random mouse move to (914, 260)
+[2024-12-30 10:40:06] Executing randos scenario: navigatetomoon7
+[2024-12-30 10:40:06] Calling scenario: randos\navigatetomoon7.txt
+[2024-12-30 10:40:14] Waited for 0.14 minutes
+[2024-12-30 10:40:16] Moved mouse to (144, 919) smoothly
+[2024-12-30 10:40:16] Random mouse move to (144, 919)
+[2024-12-30 10:40:19] Moved mouse to (1425, 526) smoothly
+[2024-12-30 10:40:19] Clicked on component 'moon7' at (1425, 526)
+[2024-12-30 10:40:19] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:40:21] Moved mouse to (1636, 665) smoothly
+[2024-12-30 10:40:21] Random mouse move to (1636, 665)
+[2024-12-30 10:40:22] Moved mouse to (1570, 469) smoothly
+[2024-12-30 10:40:22] Random mouse move to (1570, 469)
+[2024-12-30 10:40:22] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:40:23] Moved mouse to (1568, 116) smoothly
+[2024-12-30 10:40:23] Random mouse move to (1568, 116)
+[2024-12-30 10:40:25] Moved mouse to (535, 805) smoothly
+[2024-12-30 10:40:25] Random mouse move to (535, 805)
+[2024-12-30 10:40:31] Waited for 0.12 minutes
+[2024-12-30 10:40:34] Moved mouse to (759, 317) smoothly
+[2024-12-30 10:40:34] Random mouse move to (759, 317)
+[2024-12-30 10:40:34] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:40:36] Moved mouse to (331, 937) smoothly
+[2024-12-30 10:40:36] Random mouse move to (331, 937)
+[2024-12-30 10:40:36] Executing randos scenario: navigatetomoon8
+[2024-12-30 10:40:36] Calling scenario: randos\navigatetomoon8.txt
+[2024-12-30 10:40:43] Waited for 0.13 minutes
+[2024-12-30 10:40:43] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:40:50] Waited for 0.12 minutes
+[2024-12-30 10:40:53] Moved mouse to (1275, 417) smoothly
+[2024-12-30 10:40:53] Random mouse move to (1275, 417)
+[2024-12-30 10:40:53] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:40:54] Moved mouse to (1395, 150) smoothly
+[2024-12-30 10:40:54] Random mouse move to (1395, 150)
+[2024-12-30 10:40:57] Moved mouse to (1412, 580) smoothly
+[2024-12-30 10:40:57] Clicked on component 'moon8' at (1412, 580)
+[2024-12-30 10:40:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:40:59] Moved mouse to (159, 228) smoothly
+[2024-12-30 10:40:59] Random mouse move to (159, 228)
+[2024-12-30 10:41:01] Moved mouse to (1083, 71) smoothly
+[2024-12-30 10:41:01] Random mouse move to (1083, 71)
+[2024-12-30 10:41:07] Waited for 0.11 minutes
+[2024-12-30 10:41:09] Moved mouse to (700, 664) smoothly
+[2024-12-30 10:41:09] Random mouse move to (700, 664)
+[2024-12-30 10:41:09] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:41:10] Moved mouse to (808, 455) smoothly
+[2024-12-30 10:41:10] Random mouse move to (808, 455)
+[2024-12-30 10:41:10] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:41:13] Moved mouse to (1896, 863) smoothly
+[2024-12-30 10:41:13] Random mouse move to (1896, 863)
+[2024-12-30 10:41:14] Moved mouse to (581, 739) smoothly
+[2024-12-30 10:41:14] Random mouse move to (581, 739)
+[2024-12-30 10:41:14] Skipping randos scenario: navigatetomoon9
+[2024-12-30 10:41:14] Error: Scenario file for 'navigatetomoon9' not found.
+[2024-12-30 10:41:16] Moved mouse to (1277, 980) smoothly
+[2024-12-30 10:41:16] Random mouse move to (1277, 980)
+[2024-12-30 10:41:16] Executing randos scenario: navigatetomoon10
+[2024-12-30 10:41:16] Calling scenario: randos\navigatetomoon10.txt
+[2024-12-30 10:41:27] Waited for 0.18 minutes
+[2024-12-30 10:41:27] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:41:28] Moved mouse to (586, 532) smoothly
+[2024-12-30 10:41:28] Random mouse move to (586, 532)
+[2024-12-30 10:41:30] Moved mouse to (1914, 357) smoothly
+[2024-12-30 10:41:30] Random mouse move to (1914, 357)
+[2024-12-30 10:41:34] Waited for 0.07 minutes
+[2024-12-30 10:41:37] Moved mouse to (521, 1016) smoothly
+[2024-12-30 10:41:37] Random mouse move to (521, 1016)
+[2024-12-30 10:41:39] Moved mouse to (1430, 679) smoothly
+[2024-12-30 10:41:39] Clicked on component 'moon10' at (1430, 679)
+[2024-12-30 10:41:39] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:41:46] Waited for 0.13 minutes
+[2024-12-30 10:41:48] Moved mouse to (1156, 168) smoothly
+[2024-12-30 10:41:48] Random mouse move to (1156, 168)
+[2024-12-30 10:41:48] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:41:50] Moved mouse to (672, 946) smoothly
+[2024-12-30 10:41:50] Random mouse move to (672, 946)
+[2024-12-30 10:41:52] Moved mouse to (135, 640) smoothly
+[2024-12-30 10:41:52] Random mouse move to (135, 640)
+[2024-12-30 10:41:58] Waited for 0.12 minutes
+[2024-12-30 10:42:00] Moved mouse to (995, 409) smoothly
+[2024-12-30 10:42:00] Random mouse move to (995, 409)
+[2024-12-30 10:42:00] Executing randos scenario: navigatetomoon11
+[2024-12-30 10:42:00] Calling scenario: randos\navigatetomoon11.txt
+[2024-12-30 10:42:12] Waited for 0.20 minutes
+[2024-12-30 10:42:12] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:42:14] Moved mouse to (1108, 895) smoothly
+[2024-12-30 10:42:14] Random mouse move to (1108, 895)
+[2024-12-30 10:42:16] Moved mouse to (1644, 463) smoothly
+[2024-12-30 10:42:16] Random mouse move to (1644, 463)
+[2024-12-30 10:42:18] Moved mouse to (301, 934) smoothly
+[2024-12-30 10:42:18] Random mouse move to (301, 934)
+[2024-12-30 10:42:20] Moved mouse to (1432, 719) smoothly
+[2024-12-30 10:42:20] Clicked on component 'moon11' at (1432, 719)
+[2024-12-30 10:42:22] Moved mouse to (275, 1014) smoothly
+[2024-12-30 10:42:22] Random mouse move to (275, 1014)
+[2024-12-30 10:42:24] Moved mouse to (809, 490) smoothly
+[2024-12-30 10:42:24] Random mouse move to (809, 490)
+[2024-12-30 10:42:26] Moved mouse to (342, 622) smoothly
+[2024-12-30 10:42:26] Random mouse move to (342, 622)
+[2024-12-30 10:42:26] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:42:27] Moved mouse to (406, 491) smoothly
+[2024-12-30 10:42:27] Random mouse move to (406, 491)
+[2024-12-30 10:42:30] Moved mouse to (940, 330) smoothly
+[2024-12-30 10:42:30] Random mouse move to (940, 330)
+[2024-12-30 10:42:31] Waited for 0.03 minutes
+[2024-12-30 10:42:31] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:42:32] Moved mouse to (349, 364) smoothly
+[2024-12-30 10:42:32] Random mouse move to (349, 364)
+[2024-12-30 10:42:34] Moved mouse to (1536, 716) smoothly
+[2024-12-30 10:42:34] Random mouse move to (1536, 716)
+[2024-12-30 10:42:34] Calling scenario: mustdo\shortexpounigaspara.txt
+[2024-12-30 10:42:37] Moved mouse to (776, 13) smoothly
+[2024-12-30 10:42:37] Clicked on component 'chrometab3' at (776, 13)
+[2024-12-30 10:42:37] Last Chrome tab set to: chrometab3
+[2024-12-30 10:42:42] Waited for 0.08 minutes
+[2024-12-30 10:42:43] Moved mouse to (414, 268) smoothly
+[2024-12-30 10:42:44] Clicked on component 'overview' at (414, 268)
+[2024-12-30 10:42:45] Moved mouse to (249, 260) smoothly
+[2024-12-30 10:42:45] Clicked on component 'empty_area' at (249, 260)
+[2024-12-30 10:42:45] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:42:47] Moved mouse to (1866, 49) smoothly
+[2024-12-30 10:42:47] Random mouse move to (1866, 49)
+[2024-12-30 10:42:49] Moved mouse to (664, 470) smoothly
+[2024-12-30 10:42:49] Random mouse move to (664, 470)
+[2024-12-30 10:42:54] Waited for 0.08 minutes
+[2024-12-30 10:42:55] Moved mouse to (1247, 269) smoothly
+[2024-12-30 10:42:55] Clicked on component 'planet1' at (1247, 269)
+[2024-12-30 10:42:58] Moved mouse to (416, 461) smoothly
+[2024-12-30 10:42:58] Clicked on component 'button_fleet' at (416, 461)
+[2024-12-30 10:43:00] Moved mouse to (709, 714) smoothly
+[2024-12-30 10:43:00] Clicked on component 'button_selectexpocargos' at (709, 714)
+[2024-12-30 10:43:00] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:43:02] Moved mouse to (263, 241) smoothly
+[2024-12-30 10:43:02] Random mouse move to (263, 241)
+[2024-12-30 10:43:03] Moved mouse to (377, 730) smoothly
+[2024-12-30 10:43:03] Random mouse move to (377, 730)
+[2024-12-30 10:43:05] Moved mouse to (711, 718) smoothly
+[2024-12-30 10:43:05] Clicked on component 'button_selectexpocargos' at (711, 718)
+[2024-12-30 10:43:07] Moved mouse to (1126, 762) smoothly
+[2024-12-30 10:43:07] Clicked on component 'button_continue_fleet' at (1126, 762)
+[2024-12-30 10:43:09] Moved mouse to (610, 512) smoothly
+[2024-12-30 10:43:10] Clicked on component 'button_expedition' at (610, 512)
+[2024-12-30 10:43:11] Moved mouse to (938, 884) smoothly
+[2024-12-30 10:43:11] Clicked on component 'button_send' at (938, 884)
+[2024-12-30 10:43:11] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:43:13] Moved mouse to (679, 733) smoothly
+[2024-12-30 10:43:13] Random mouse move to (679, 733)
+[2024-12-30 10:43:14] Moved mouse to (1263, 305) smoothly
+[2024-12-30 10:43:14] Clicked on component 'planet2' at (1263, 305)
+[2024-12-30 10:43:16] Moved mouse to (709, 716) smoothly
+[2024-12-30 10:43:16] Clicked on component 'button_selectexpocargos' at (709, 716)
+[2024-12-30 10:43:18] Moved mouse to (709, 721) smoothly
+[2024-12-30 10:43:18] Clicked on component 'button_selectexpocargos' at (709, 721)
+[2024-12-30 10:43:20] Moved mouse to (1119, 746) smoothly
+[2024-12-30 10:43:20] Clicked on component 'button_continue_fleet' at (1119, 746)
+[2024-12-30 10:43:23] Moved mouse to (601, 505) smoothly
+[2024-12-30 10:43:23] Clicked on component 'button_expedition' at (601, 505)
+[2024-12-30 10:43:25] Moved mouse to (1170, 874) smoothly
+[2024-12-30 10:43:25] Clicked on component 'button_send' at (1170, 874)
+[2024-12-30 10:43:26] Moved mouse to (1257, 349) smoothly
+[2024-12-30 10:43:26] Clicked on component 'planet3' at (1257, 349)
+[2024-12-30 10:43:28] Moved mouse to (694, 722) smoothly
+[2024-12-30 10:43:28] Clicked on component 'button_selectexpocargos' at (694, 722)
+[2024-12-30 10:43:31] Moved mouse to (690, 726) smoothly
+[2024-12-30 10:43:31] Clicked on component 'button_selectexpocargos' at (690, 726)
+[2024-12-30 10:43:31] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:43:33] Moved mouse to (1336, 892) smoothly
+[2024-12-30 10:43:33] Random mouse move to (1336, 892)
+[2024-12-30 10:43:35] Moved mouse to (1446, 942) smoothly
+[2024-12-30 10:43:35] Random mouse move to (1446, 942)
+[2024-12-30 10:43:37] Moved mouse to (1118, 755) smoothly
+[2024-12-30 10:43:37] Clicked on component 'button_continue_fleet' at (1118, 755)
+[2024-12-30 10:43:38] Moved mouse to (604, 492) smoothly
+[2024-12-30 10:43:38] Clicked on component 'button_expedition' at (604, 492)
+[2024-12-30 10:43:40] Moved mouse to (1061, 856) smoothly
+[2024-12-30 10:43:40] Clicked on component 'button_send' at (1061, 856)
+[2024-12-30 10:43:40] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:43:41] Moved mouse to (64, 292) smoothly
+[2024-12-30 10:43:41] Random mouse move to (64, 292)
+[2024-12-30 10:43:43] Moved mouse to (1356, 432) smoothly
+[2024-12-30 10:43:43] Random mouse move to (1356, 432)
+[2024-12-30 10:43:43] Waited for 0.02 minutes
+[2024-12-30 10:43:46] Moved mouse to (1279, 387) smoothly
+[2024-12-30 10:43:46] Clicked on component 'planet4' at (1279, 387)
+[2024-12-30 10:43:46] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:43:47] Moved mouse to (1271, 586) smoothly
+[2024-12-30 10:43:47] Random mouse move to (1271, 586)
+[2024-12-30 10:43:49] Moved mouse to (1377, 321) smoothly
+[2024-12-30 10:43:49] Random mouse move to (1377, 321)
+[2024-12-30 10:43:51] Moved mouse to (711, 723) smoothly
+[2024-12-30 10:43:51] Clicked on component 'button_selectexpocargos' at (711, 723)
+[2024-12-30 10:43:54] Moved mouse to (689, 725) smoothly
+[2024-12-30 10:43:54] Clicked on component 'button_selectexpocargos' at (689, 725)
+[2024-12-30 10:43:56] Moved mouse to (1157, 747) smoothly
+[2024-12-30 10:43:56] Clicked on component 'button_continue_fleet' at (1157, 747)
+[2024-12-30 10:43:56] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:43:57] Moved mouse to (1457, 248) smoothly
+[2024-12-30 10:43:57] Random mouse move to (1457, 248)
+[2024-12-30 10:43:59] Moved mouse to (1281, 857) smoothly
+[2024-12-30 10:43:59] Random mouse move to (1281, 857)
+[2024-12-30 10:44:02] Moved mouse to (583, 509) smoothly
+[2024-12-30 10:44:02] Clicked on component 'button_expedition' at (583, 509)
+[2024-12-30 10:44:04] Moved mouse to (942, 866) smoothly
+[2024-12-30 10:44:04] Clicked on component 'button_send' at (942, 866)
+[2024-12-30 10:44:06] Moved mouse to (1291, 445) smoothly
+[2024-12-30 10:44:06] Clicked on component 'planet5' at (1291, 445)
+[2024-12-30 10:44:06] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:44:08] Moved mouse to (755, 115) smoothly
+[2024-12-30 10:44:08] Random mouse move to (755, 115)
+[2024-12-30 10:44:09] Moved mouse to (697, 717) smoothly
+[2024-12-30 10:44:09] Clicked on component 'button_selectexpocargos' at (697, 717)
+[2024-12-30 10:44:11] Moved mouse to (709, 728) smoothly
+[2024-12-30 10:44:12] Clicked on component 'button_selectexpocargos' at (709, 728)
+[2024-12-30 10:44:13] Moved mouse to (1122, 756) smoothly
+[2024-12-30 10:44:13] Clicked on component 'button_continue_fleet' at (1122, 756)
+[2024-12-30 10:44:16] Moved mouse to (591, 500) smoothly
+[2024-12-30 10:44:16] Clicked on component 'button_expedition' at (591, 500)
+[2024-12-30 10:44:18] Moved mouse to (1125, 858) smoothly
+[2024-12-30 10:44:18] Clicked on component 'button_send' at (1125, 858)
+[2024-12-30 10:44:18] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:44:25] Waited for 0.12 minutes
+[2024-12-30 10:44:26] Moved mouse to (1300, 486) smoothly
+[2024-12-30 10:44:26] Clicked on component 'planet6' at (1300, 486)
+[2024-12-30 10:44:26] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:44:32] Waited for 0.10 minutes
+[2024-12-30 10:44:33] Moved mouse to (700, 716) smoothly
+[2024-12-30 10:44:33] Clicked on component 'button_selectexpocargos' at (700, 716)
+[2024-12-30 10:44:33] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:44:34] Moved mouse to (1815, 484) smoothly
+[2024-12-30 10:44:34] Random mouse move to (1815, 484)
+[2024-12-30 10:44:37] Moved mouse to (1810, 552) smoothly
+[2024-12-30 10:44:37] Random mouse move to (1810, 552)
+[2024-12-30 10:44:39] Moved mouse to (702, 719) smoothly
+[2024-12-30 10:44:39] Clicked on component 'button_selectexpocargos' at (702, 719)
+[2024-12-30 10:44:39] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:44:41] Moved mouse to (1783, 21) smoothly
+[2024-12-30 10:44:41] Random mouse move to (1783, 21)
+[2024-12-30 10:44:43] Moved mouse to (1186, 752) smoothly
+[2024-12-30 10:44:43] Clicked on component 'button_continue_fleet' at (1186, 752)
+[2024-12-30 10:44:46] Moved mouse to (610, 493) smoothly
+[2024-12-30 10:44:46] Clicked on component 'button_expedition' at (610, 493)
+[2024-12-30 10:44:47] Moved mouse to (974, 875) smoothly
+[2024-12-30 10:44:47] Clicked on component 'button_send' at (974, 875)
+[2024-12-30 10:44:47] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:44:50] Moved mouse to (1910, 957) smoothly
+[2024-12-30 10:44:50] Random mouse move to (1910, 957)
+[2024-12-30 10:44:51] Moved mouse to (1271, 531) smoothly
+[2024-12-30 10:44:51] Clicked on component 'planet7' at (1271, 531)
+[2024-12-30 10:44:51] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:44:53] Moved mouse to (1579, 23) smoothly
+[2024-12-30 10:44:53] Random mouse move to (1579, 23)
+[2024-12-30 10:44:55] Moved mouse to (704, 720) smoothly
+[2024-12-30 10:44:55] Clicked on component 'button_selectexpocargos' at (704, 720)
+[2024-12-30 10:44:55] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:44:56] Moved mouse to (1848, 210) smoothly
+[2024-12-30 10:44:56] Random mouse move to (1848, 210)
+[2024-12-30 10:44:58] Moved mouse to (690, 730) smoothly
+[2024-12-30 10:44:58] Clicked on component 'button_selectexpocargos' at (690, 730)
+[2024-12-30 10:44:58] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:45:00] Moved mouse to (1801, 453) smoothly
+[2024-12-30 10:45:00] Random mouse move to (1801, 453)
+[2024-12-30 10:45:02] Moved mouse to (1341, 398) smoothly
+[2024-12-30 10:45:02] Random mouse move to (1341, 398)
+[2024-12-30 10:45:04] Moved mouse to (1123, 757) smoothly
+[2024-12-30 10:45:04] Clicked on component 'button_continue_fleet' at (1123, 757)
+[2024-12-30 10:45:06] Moved mouse to (593, 482) smoothly
+[2024-12-30 10:45:06] Clicked on component 'button_expedition' at (593, 482)
+[2024-12-30 10:45:08] Moved mouse to (993, 875) smoothly
+[2024-12-30 10:45:08] Clicked on component 'button_send' at (993, 875)
+[2024-12-30 10:45:08] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:45:10] Moved mouse to (1271, 587) smoothly
+[2024-12-30 10:45:10] Random mouse move to (1271, 587)
+[2024-12-30 10:45:12] Moved mouse to (153, 131) smoothly
+[2024-12-30 10:45:12] Random mouse move to (153, 131)
+[2024-12-30 10:45:14] Moved mouse to (1253, 573) smoothly
+[2024-12-30 10:45:14] Clicked on component 'planet8' at (1253, 573)
+[2024-12-30 10:45:16] Moved mouse to (695, 725) smoothly
+[2024-12-30 10:45:16] Clicked on component 'button_selectexpocargos' at (695, 725)
+[2024-12-30 10:45:19] Moved mouse to (709, 714) smoothly
+[2024-12-30 10:45:19] Clicked on component 'button_selectexpocargos' at (709, 714)
+[2024-12-30 10:45:20] Moved mouse to (1105, 768) smoothly
+[2024-12-30 10:45:21] Clicked on component 'button_continue_fleet' at (1105, 768)
+[2024-12-30 10:45:23] Moved mouse to (607, 488) smoothly
+[2024-12-30 10:45:23] Clicked on component 'button_expedition' at (607, 488)
+[2024-12-30 10:45:23] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:45:24] Moved mouse to (1646, 535) smoothly
+[2024-12-30 10:45:24] Random mouse move to (1646, 535)
+[2024-12-30 10:45:26] Moved mouse to (1024, 858) smoothly
+[2024-12-30 10:45:26] Clicked on component 'button_send' at (1024, 858)
+[2024-12-30 10:45:28] Moved mouse to (1252, 620) smoothly
+[2024-12-30 10:45:28] Clicked on component 'planet9' at (1252, 620)
+[2024-12-30 10:45:28] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:45:29] Moved mouse to (1844, 486) smoothly
+[2024-12-30 10:45:29] Random mouse move to (1844, 486)
+[2024-12-30 10:45:31] Moved mouse to (1150, 672) smoothly
+[2024-12-30 10:45:31] Random mouse move to (1150, 672)
+[2024-12-30 10:45:33] Moved mouse to (706, 721) smoothly
+[2024-12-30 10:45:33] Clicked on component 'button_selectexpocargos' at (706, 721)
+[2024-12-30 10:45:35] Moved mouse to (1153, 764) smoothly
+[2024-12-30 10:45:35] Clicked on component 'button_continue_fleet' at (1153, 764)
+[2024-12-30 10:45:35] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:45:41] Waited for 0.10 minutes
+[2024-12-30 10:45:43] Moved mouse to (605, 508) smoothly
+[2024-12-30 10:45:43] Clicked on component 'button_expedition' at (605, 508)
+[2024-12-30 10:45:45] Moved mouse to (1150, 875) smoothly
+[2024-12-30 10:45:45] Clicked on component 'button_send' at (1150, 875)
+[2024-12-30 10:45:47] Moved mouse to (1286, 671) smoothly
+[2024-12-30 10:45:47] Clicked on component 'planet10' at (1286, 671)
+[2024-12-30 10:45:49] Moved mouse to (702, 714) smoothly
+[2024-12-30 10:45:49] Clicked on component 'button_selectexpocargos' at (702, 714)
+[2024-12-30 10:45:50] Moved mouse to (691, 716) smoothly
+[2024-12-30 10:45:51] Clicked on component 'button_selectexpocargos' at (691, 716)
+[2024-12-30 10:45:52] Moved mouse to (1194, 745) smoothly
+[2024-12-30 10:45:53] Clicked on component 'button_continue_fleet' at (1194, 745)
+[2024-12-30 10:45:55] Moved mouse to (603, 485) smoothly
+[2024-12-30 10:45:55] Clicked on component 'button_expedition' at (603, 485)
+[2024-12-30 10:45:55] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:45:57] Moved mouse to (1023, 1014) smoothly
+[2024-12-30 10:45:57] Random mouse move to (1023, 1014)
+[2024-12-30 10:45:59] Moved mouse to (1135, 886) smoothly
+[2024-12-30 10:45:59] Clicked on component 'button_send' at (1135, 886)
+[2024-12-30 10:45:59] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:46:07] Waited for 0.14 minutes
+[2024-12-30 10:46:07] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:46:11] Waited for 0.08 minutes
+[2024-12-30 10:46:11] Executing randos scenario: navigateallmoons
+[2024-12-30 10:46:11] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 10:46:19] Waited for 0.15 minutes
+[2024-12-30 10:46:22] Moved mouse to (304, 853) smoothly
+[2024-12-30 10:46:22] Random mouse move to (304, 853)
+[2024-12-30 10:46:22] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:46:24] Moved mouse to (1413, 53) smoothly
+[2024-12-30 10:46:24] Random mouse move to (1413, 53)
+[2024-12-30 10:46:25] Moved mouse to (366, 198) smoothly
+[2024-12-30 10:46:25] Random mouse move to (366, 198)
+[2024-12-30 10:46:29] Waited for 0.07 minutes
+[2024-12-30 10:46:31] Moved mouse to (445, 260) smoothly
+[2024-12-30 10:46:31] Clicked on component 'overview' at (445, 260)
+[2024-12-30 10:46:31] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:46:35] Waited for 0.07 minutes
+[2024-12-30 10:46:35] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 10:46:35] Skipping randos scenario: navigatetomoon1
+[2024-12-30 10:46:35] Error: Scenario file for 'navigatetomoon1' not found.
+[2024-12-30 10:46:36] Moved mouse to (1893, 644) smoothly
+[2024-12-30 10:46:36] Random mouse move to (1893, 644)
+[2024-12-30 10:46:36] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:46:38] Moved mouse to (374, 616) smoothly
+[2024-12-30 10:46:38] Random mouse move to (374, 616)
+[2024-12-30 10:46:40] Moved mouse to (1299, 338) smoothly
+[2024-12-30 10:46:40] Random mouse move to (1299, 338)
+[2024-12-30 10:46:46] Waited for 0.10 minutes
+[2024-12-30 10:46:46] Executing randos scenario: navigatetomoon2
+[2024-12-30 10:46:46] Calling scenario: randos\navigatetomoon2.txt
+[2024-12-30 10:46:53] Waited for 0.12 minutes
+[2024-12-30 10:46:53] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:46:54] Moved mouse to (837, 40) smoothly
+[2024-12-30 10:46:54] Random mouse move to (837, 40)
+[2024-12-30 10:46:57] Moved mouse to (82, 131) smoothly
+[2024-12-30 10:46:57] Random mouse move to (82, 131)
+[2024-12-30 10:46:57] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:46:58] Moved mouse to (107, 255) smoothly
+[2024-12-30 10:46:58] Random mouse move to (107, 255)
+[2024-12-30 10:47:01] Moved mouse to (673, 869) smoothly
+[2024-12-30 10:47:01] Random mouse move to (673, 869)
+[2024-12-30 10:47:02] Moved mouse to (1428, 306) smoothly
+[2024-12-30 10:47:02] Clicked on component 'moon2' at (1428, 306)
+[2024-12-30 10:47:02] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:47:04] Moved mouse to (1350, 770) smoothly
+[2024-12-30 10:47:04] Random mouse move to (1350, 770)
+[2024-12-30 10:47:05] Moved mouse to (1603, 584) smoothly
+[2024-12-30 10:47:05] Random mouse move to (1603, 584)
+[2024-12-30 10:47:10] Waited for 0.09 minutes
+[2024-12-30 10:47:12] Moved mouse to (1226, 333) smoothly
+[2024-12-30 10:47:12] Random mouse move to (1226, 333)
+[2024-12-30 10:47:12] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:47:14] Moved mouse to (186, 941) smoothly
+[2024-12-30 10:47:14] Random mouse move to (186, 941)
+[2024-12-30 10:47:16] Moved mouse to (1136, 889) smoothly
+[2024-12-30 10:47:16] Random mouse move to (1136, 889)
+[2024-12-30 10:47:16] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:47:18] Moved mouse to (1516, 803) smoothly
+[2024-12-30 10:47:18] Random mouse move to (1516, 803)
+[2024-12-30 10:47:20] Moved mouse to (1049, 429) smoothly
+[2024-12-30 10:47:20] Random mouse move to (1049, 429)
+[2024-12-30 10:47:20] Executing randos scenario: navigatetomoon3
+[2024-12-30 10:47:20] Calling scenario: randos\navigatetomoon3.txt
+[2024-12-30 10:47:32] Waited for 0.21 minutes
+[2024-12-30 10:47:32] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:47:34] Moved mouse to (493, 326) smoothly
+[2024-12-30 10:47:34] Random mouse move to (493, 326)
+[2024-12-30 10:47:35] Moved mouse to (109, 35) smoothly
+[2024-12-30 10:47:35] Random mouse move to (109, 35)
+[2024-12-30 10:47:37] Moved mouse to (1708, 383) smoothly
+[2024-12-30 10:47:37] Random mouse move to (1708, 383)
+[2024-12-30 10:47:37] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:47:39] Moved mouse to (1579, 530) smoothly
+[2024-12-30 10:47:39] Random mouse move to (1579, 530)
+[2024-12-30 10:47:41] Moved mouse to (896, 334) smoothly
+[2024-12-30 10:47:41] Random mouse move to (896, 334)
+[2024-12-30 10:47:43] Moved mouse to (1424, 354) smoothly
+[2024-12-30 10:47:43] Clicked on component 'moon3' at (1424, 354)
+[2024-12-30 10:47:44] Moved mouse to (1246, 932) smoothly
+[2024-12-30 10:47:44] Random mouse move to (1246, 932)
+[2024-12-30 10:47:44] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:47:47] Moved mouse to (975, 251) smoothly
+[2024-12-30 10:47:47] Random mouse move to (975, 251)
+[2024-12-30 10:47:48] Moved mouse to (1067, 683) smoothly
+[2024-12-30 10:47:48] Random mouse move to (1067, 683)
+[2024-12-30 10:47:48] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:47:50] Moved mouse to (714, 936) smoothly
+[2024-12-30 10:47:50] Random mouse move to (714, 936)
+[2024-12-30 10:47:52] Moved mouse to (359, 532) smoothly
+[2024-12-30 10:47:52] Random mouse move to (359, 532)
+[2024-12-30 10:47:52] Skipping randos scenario: navigatetomoon4
+[2024-12-30 10:47:52] Error: Scenario file for 'navigatetomoon4' not found.
+[2024-12-30 10:47:52] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:47:54] Moved mouse to (691, 71) smoothly
+[2024-12-30 10:47:54] Random mouse move to (691, 71)
+[2024-12-30 10:47:55] Moved mouse to (1455, 921) smoothly
+[2024-12-30 10:47:55] Random mouse move to (1455, 921)
+[2024-12-30 10:47:58] Waited for 0.05 minutes
+[2024-12-30 10:48:00] Moved mouse to (983, 599) smoothly
+[2024-12-30 10:48:00] Random mouse move to (983, 599)
+[2024-12-30 10:48:00] Executing randos scenario: navigatetomoon5
+[2024-12-30 10:48:00] Calling scenario: randos\navigatetomoon5.txt
+[2024-12-30 10:48:11] Waited for 0.19 minutes
+[2024-12-30 10:48:11] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:48:19] Waited for 0.14 minutes
+[2024-12-30 10:48:22] Moved mouse to (1501, 385) smoothly
+[2024-12-30 10:48:22] Random mouse move to (1501, 385)
+[2024-12-30 10:48:22] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:48:23] Moved mouse to (822, 622) smoothly
+[2024-12-30 10:48:23] Random mouse move to (822, 622)
+[2024-12-30 10:48:24] Moved mouse to (1422, 441) smoothly
+[2024-12-30 10:48:24] Clicked on component 'moon5' at (1422, 441)
+[2024-12-30 10:48:26] Moved mouse to (1670, 1023) smoothly
+[2024-12-30 10:48:26] Random mouse move to (1670, 1023)
+[2024-12-30 10:48:26] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:48:32] Waited for 0.11 minutes
+[2024-12-30 10:48:34] Moved mouse to (90, 814) smoothly
+[2024-12-30 10:48:34] Random mouse move to (90, 814)
+[2024-12-30 10:48:34] Executing randos scenario: navigatetomoon6
+[2024-12-30 10:48:34] Calling scenario: randos\navigatetomoon6.txt
+[2024-12-30 10:48:42] Waited for 0.14 minutes
+[2024-12-30 10:48:42] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:48:46] Waited for 0.07 minutes
+[2024-12-30 10:48:48] Moved mouse to (1636, 501) smoothly
+[2024-12-30 10:48:48] Random mouse move to (1636, 501)
+[2024-12-30 10:48:50] Moved mouse to (1423, 494) smoothly
+[2024-12-30 10:48:50] Clicked on component 'moon6' at (1423, 494)
+[2024-12-30 10:48:50] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:48:52] Moved mouse to (153, 140) smoothly
+[2024-12-30 10:48:52] Random mouse move to (153, 140)
+[2024-12-30 10:48:54] Moved mouse to (475, 850) smoothly
+[2024-12-30 10:48:54] Random mouse move to (475, 850)
+[2024-12-30 10:48:56] Waited for 0.05 minutes
+[2024-12-30 10:48:58] Moved mouse to (585, 837) smoothly
+[2024-12-30 10:48:58] Random mouse move to (585, 837)
+[2024-12-30 10:48:58] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:48:59] Moved mouse to (85, 205) smoothly
+[2024-12-30 10:48:59] Random mouse move to (85, 205)
+[2024-12-30 10:49:01] Moved mouse to (1471, 927) smoothly
+[2024-12-30 10:49:01] Random mouse move to (1471, 927)
+[2024-12-30 10:49:05] Waited for 0.08 minutes
+[2024-12-30 10:49:07] Moved mouse to (942, 773) smoothly
+[2024-12-30 10:49:07] Random mouse move to (942, 773)
+[2024-12-30 10:49:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:49:09] Moved mouse to (47, 746) smoothly
+[2024-12-30 10:49:09] Random mouse move to (47, 746)
+[2024-12-30 10:49:09] Executing randos scenario: navigatetomoon7
+[2024-12-30 10:49:09] Calling scenario: randos\navigatetomoon7.txt
+[2024-12-30 10:49:18] Waited for 0.15 minutes
+[2024-12-30 10:49:20] Moved mouse to (397, 337) smoothly
+[2024-12-30 10:49:20] Random mouse move to (397, 337)
+[2024-12-30 10:49:20] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:49:22] Moved mouse to (1349, 73) smoothly
+[2024-12-30 10:49:22] Random mouse move to (1349, 73)
+[2024-12-30 10:49:24] Moved mouse to (81, 917) smoothly
+[2024-12-30 10:49:24] Random mouse move to (81, 917)
+[2024-12-30 10:49:26] Waited for 0.04 minutes
+[2024-12-30 10:49:28] Moved mouse to (1430, 523) smoothly
+[2024-12-30 10:49:28] Clicked on component 'moon7' at (1430, 523)
+[2024-12-30 10:49:30] Moved mouse to (1610, 477) smoothly
+[2024-12-30 10:49:30] Random mouse move to (1610, 477)
+[2024-12-30 10:49:32] Moved mouse to (1507, 278) smoothly
+[2024-12-30 10:49:32] Random mouse move to (1507, 278)
+[2024-12-30 10:49:32] Executing randos scenario: navigatetomoon8
+[2024-12-30 10:49:32] Calling scenario: randos\navigatetomoon8.txt
+[2024-12-30 10:49:44] Waited for 0.19 minutes
+[2024-12-30 10:49:46] Moved mouse to (823, 599) smoothly
+[2024-12-30 10:49:46] Random mouse move to (823, 599)
+[2024-12-30 10:49:46] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:49:47] Moved mouse to (1163, 456) smoothly
+[2024-12-30 10:49:47] Random mouse move to (1163, 456)
+[2024-12-30 10:49:48] Moved mouse to (1657, 214) smoothly
+[2024-12-30 10:49:48] Random mouse move to (1657, 214)
+[2024-12-30 10:49:52] Waited for 0.08 minutes
+[2024-12-30 10:49:54] Moved mouse to (1432, 580) smoothly
+[2024-12-30 10:49:54] Clicked on component 'moon8' at (1432, 580)
+[2024-12-30 10:49:54] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:49:58] Waited for 0.07 minutes
+[2024-12-30 10:49:59] Moved mouse to (931, 12) smoothly
+[2024-12-30 10:49:59] Random mouse move to (931, 12)
+[2024-12-30 10:49:59] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:50:06] Waited for 0.13 minutes
+[2024-12-30 10:50:08] Moved mouse to (1738, 97) smoothly
+[2024-12-30 10:50:08] Random mouse move to (1738, 97)
+[2024-12-30 10:50:08] Skipping randos scenario: navigatetomoon9
+[2024-12-30 10:50:08] Error: Scenario file for 'navigatetomoon9' not found.
+[2024-12-30 10:50:09] Moved mouse to (1376, 661) smoothly
+[2024-12-30 10:50:09] Random mouse move to (1376, 661)
+[2024-12-30 10:50:09] Skipping randos scenario: navigatetomoon10
+[2024-12-30 10:50:09] Error: Scenario file for 'navigatetomoon10' not found.
+[2024-12-30 10:50:09] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:50:11] Moved mouse to (1528, 618) smoothly
+[2024-12-30 10:50:11] Random mouse move to (1528, 618)
+[2024-12-30 10:50:14] Moved mouse to (1704, 464) smoothly
+[2024-12-30 10:50:14] Random mouse move to (1704, 464)
+[2024-12-30 10:50:16] Moved mouse to (290, 110) smoothly
+[2024-12-30 10:50:16] Random mouse move to (290, 110)
+[2024-12-30 10:50:16] Skipping randos scenario: navigatetomoon11
+[2024-12-30 10:50:16] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 10:50:16] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:50:18] Moved mouse to (1045, 459) smoothly
+[2024-12-30 10:50:18] Random mouse move to (1045, 459)
+[2024-12-30 10:50:20] Moved mouse to (1733, 217) smoothly
+[2024-12-30 10:50:20] Random mouse move to (1733, 217)
+[2024-12-30 10:50:22] Moved mouse to (298, 22) smoothly
+[2024-12-30 10:50:22] Random mouse move to (298, 22)
+[2024-12-30 10:50:24] Moved mouse to (634, 988) smoothly
+[2024-12-30 10:50:24] Random mouse move to (634, 988)
+[2024-12-30 10:50:24] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:50:28] Waited for 0.08 minutes
+[2024-12-30 10:50:28] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:50:33] Waited for 0.09 minutes
+[2024-12-30 10:50:34] Moved mouse to (641, 26) smoothly
+[2024-12-30 10:50:34] Clicked on component 'chrometab2' at (641, 26)
+[2024-12-30 10:50:34] Last Chrome tab set to: chrometab2
+[2024-12-30 10:50:34] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:50:37] Moved mouse to (944, 506) smoothly
+[2024-12-30 10:50:37] Random mouse move to (944, 506)
+[2024-12-30 10:50:39] Moved mouse to (1861, 679) smoothly
+[2024-12-30 10:50:39] Random mouse move to (1861, 679)
+[2024-12-30 10:50:39] Skipping randos scenario: longwait
+[2024-12-30 10:50:39] Error: Scenario file for 'longwait' not found.
+[2024-12-30 10:50:39] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 10:50:39] Executing randos scenario: navigateallmoons
+[2024-12-30 10:50:39] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 10:50:51] Waited for 0.21 minutes
+[2024-12-30 10:50:51] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:50:52] Moved mouse to (1753, 852) smoothly
+[2024-12-30 10:50:52] Random mouse move to (1753, 852)
+[2024-12-30 10:50:54] Moved mouse to (1566, 362) smoothly
+[2024-12-30 10:50:54] Random mouse move to (1566, 362)
+[2024-12-30 10:50:56] Moved mouse to (13, 278) smoothly
+[2024-12-30 10:50:56] Random mouse move to (13, 278)
+[2024-12-30 10:50:56] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:51:04] Waited for 0.13 minutes
+[2024-12-30 10:51:06] Moved mouse to (466, 267) smoothly
+[2024-12-30 10:51:06] Clicked on component 'overview' at (466, 267)
+[2024-12-30 10:51:06] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 10:51:06] Skipping randos scenario: navigatetomoon1
+[2024-12-30 10:51:06] Error: Scenario file for 'navigatetomoon1' not found.
+[2024-12-30 10:51:08] Moved mouse to (1597, 525) smoothly
+[2024-12-30 10:51:08] Random mouse move to (1597, 525)
+[2024-12-30 10:51:08] Skipping randos scenario: navigatetomoon2
+[2024-12-30 10:51:08] Error: Scenario file for 'navigatetomoon2' not found.
+[2024-12-30 10:51:08] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:51:10] Moved mouse to (526, 130) smoothly
+[2024-12-30 10:51:10] Random mouse move to (526, 130)
+[2024-12-30 10:51:12] Moved mouse to (1026, 266) smoothly
+[2024-12-30 10:51:12] Random mouse move to (1026, 266)
+[2024-12-30 10:51:12] Executing randos scenario: navigatetomoon3
+[2024-12-30 10:51:12] Calling scenario: randos\navigatetomoon3.txt
+[2024-12-30 10:51:25] Waited for 0.22 minutes
+[2024-12-30 10:51:26] Moved mouse to (1736, 140) smoothly
+[2024-12-30 10:51:26] Random mouse move to (1736, 140)
+[2024-12-30 10:51:26] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:51:28] Moved mouse to (694, 41) smoothly
+[2024-12-30 10:51:28] Random mouse move to (694, 41)
+[2024-12-30 10:51:30] Moved mouse to (1183, 135) smoothly
+[2024-12-30 10:51:30] Random mouse move to (1183, 135)
+[2024-12-30 10:51:36] Waited for 0.11 minutes
+[2024-12-30 10:51:38] Moved mouse to (1419, 346) smoothly
+[2024-12-30 10:51:38] Clicked on component 'moon3' at (1419, 346)
+[2024-12-30 10:51:40] Moved mouse to (737, 969) smoothly
+[2024-12-30 10:51:40] Random mouse move to (737, 969)
+[2024-12-30 10:51:42] Moved mouse to (182, 420) smoothly
+[2024-12-30 10:51:42] Random mouse move to (182, 420)
+[2024-12-30 10:51:42] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:51:45] Waited for 0.06 minutes
+[2024-12-30 10:51:45] Skipping randos scenario: navigatetomoon4
+[2024-12-30 10:51:45] Error: Scenario file for 'navigatetomoon4' not found.
+[2024-12-30 10:51:45] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:51:48] Waited for 0.06 minutes
+[2024-12-30 10:51:49] Moved mouse to (268, 821) smoothly
+[2024-12-30 10:51:49] Random mouse move to (268, 821)
+[2024-12-30 10:51:49] Skipping randos scenario: navigatetomoon5
+[2024-12-30 10:51:49] Error: Scenario file for 'navigatetomoon5' not found.
+[2024-12-30 10:51:51] Moved mouse to (1710, 494) smoothly
+[2024-12-30 10:51:51] Random mouse move to (1710, 494)
+[2024-12-30 10:51:51] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:51:57] Waited for 0.11 minutes
+[2024-12-30 10:51:57] Skipping randos scenario: navigatetomoon6
+[2024-12-30 10:51:57] Error: Scenario file for 'navigatetomoon6' not found.
+[2024-12-30 10:52:00] Moved mouse to (1231, 37) smoothly
+[2024-12-30 10:52:00] Random mouse move to (1231, 37)
+[2024-12-30 10:52:00] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:52:02] Moved mouse to (1667, 239) smoothly
+[2024-12-30 10:52:02] Random mouse move to (1667, 239)
+[2024-12-30 10:52:04] Moved mouse to (1033, 703) smoothly
+[2024-12-30 10:52:04] Random mouse move to (1033, 703)
+[2024-12-30 10:52:04] Skipping randos scenario: navigatetomoon7
+[2024-12-30 10:52:04] Error: Scenario file for 'navigatetomoon7' not found.
+[2024-12-30 10:52:04] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:52:06] Moved mouse to (823, 36) smoothly
+[2024-12-30 10:52:06] Random mouse move to (823, 36)
+[2024-12-30 10:52:08] Moved mouse to (582, 375) smoothly
+[2024-12-30 10:52:08] Random mouse move to (582, 375)
+[2024-12-30 10:52:08] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:52:09] Moved mouse to (1543, 461) smoothly
+[2024-12-30 10:52:09] Random mouse move to (1543, 461)
+[2024-12-30 10:52:11] Moved mouse to (460, 128) smoothly
+[2024-12-30 10:52:11] Random mouse move to (460, 128)
+[2024-12-30 10:52:11] Executing randos scenario: navigatetomoon8
+[2024-12-30 10:52:11] Calling scenario: randos\navigatetomoon8.txt
+[2024-12-30 10:52:23] Waited for 0.21 minutes
+[2024-12-30 10:52:23] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:52:30] Waited for 0.12 minutes
+[2024-12-30 10:52:32] Moved mouse to (1554, 272) smoothly
+[2024-12-30 10:52:32] Random mouse move to (1554, 272)
+[2024-12-30 10:52:35] Moved mouse to (1421, 582) smoothly
+[2024-12-30 10:52:35] Clicked on component 'moon8' at (1421, 582)
+[2024-12-30 10:52:35] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:52:37] Moved mouse to (460, 543) smoothly
+[2024-12-30 10:52:37] Random mouse move to (460, 543)
+[2024-12-30 10:52:38] Moved mouse to (67, 584) smoothly
+[2024-12-30 10:52:38] Random mouse move to (67, 584)
+[2024-12-30 10:52:40] Moved mouse to (895, 557) smoothly
+[2024-12-30 10:52:40] Random mouse move to (895, 557)
+[2024-12-30 10:52:42] Moved mouse to (177, 221) smoothly
+[2024-12-30 10:52:42] Random mouse move to (177, 221)
+[2024-12-30 10:52:42] Executing randos scenario: navigatetomoon9
+[2024-12-30 10:52:42] Calling scenario: randos\navigatetomoon9.txt
+[2024-12-30 10:52:49] Waited for 0.12 minutes
+[2024-12-30 10:52:51] Moved mouse to (1530, 962) smoothly
+[2024-12-30 10:52:51] Random mouse move to (1530, 962)
+[2024-12-30 10:52:53] Moved mouse to (1422, 628) smoothly
+[2024-12-30 10:52:53] Clicked on component 'moon9' at (1422, 628)
+[2024-12-30 10:52:54] Moved mouse to (605, 677) smoothly
+[2024-12-30 10:52:54] Random mouse move to (605, 677)
+[2024-12-30 10:52:54] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:52:57] Moved mouse to (452, 204) smoothly
+[2024-12-30 10:52:57] Random mouse move to (452, 204)
+[2024-12-30 10:52:58] Moved mouse to (1140, 83) smoothly
+[2024-12-30 10:52:58] Random mouse move to (1140, 83)
+[2024-12-30 10:53:05] Waited for 0.11 minutes
+[2024-12-30 10:53:05] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:53:07] Moved mouse to (359, 339) smoothly
+[2024-12-30 10:53:07] Random mouse move to (359, 339)
+[2024-12-30 10:53:09] Moved mouse to (1670, 120) smoothly
+[2024-12-30 10:53:09] Random mouse move to (1670, 120)
+[2024-12-30 10:53:09] Skipping randos scenario: navigatetomoon10
+[2024-12-30 10:53:09] Error: Scenario file for 'navigatetomoon10' not found.
+[2024-12-30 10:53:11] Moved mouse to (1864, 649) smoothly
+[2024-12-30 10:53:11] Random mouse move to (1864, 649)
+[2024-12-30 10:53:11] Skipping randos scenario: navigatetomoon11
+[2024-12-30 10:53:11] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 10:53:11] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:53:13] Moved mouse to (1240, 979) smoothly
+[2024-12-30 10:53:13] Random mouse move to (1240, 979)
+[2024-12-30 10:53:15] Moved mouse to (1303, 285) smoothly
+[2024-12-30 10:53:15] Random mouse move to (1303, 285)
+[2024-12-30 10:53:16] Waited for 0.03 minutes
+[2024-12-30 10:53:18] Moved mouse to (883, 514) smoothly
+[2024-12-30 10:53:18] Random mouse move to (883, 514)
+[2024-12-30 10:53:19] Moved mouse to (784, 920) smoothly
+[2024-12-30 10:53:19] Random mouse move to (784, 920)
+[2024-12-30 10:53:19] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:53:21] Moved mouse to (266, 38) smoothly
+[2024-12-30 10:53:21] Random mouse move to (266, 38)
+[2024-12-30 10:53:21] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:53:23] Moved mouse to (1251, 292) smoothly
+[2024-12-30 10:53:23] Random mouse move to (1251, 292)
+[2024-12-30 10:53:24] Moved mouse to (244, 89) smoothly
+[2024-12-30 10:53:24] Random mouse move to (244, 89)
+[2024-12-30 10:53:27] Waited for 0.06 minutes
+[2024-12-30 10:53:27] Skipping randos scenario: navigateallplanets
+[2024-12-30 10:53:27] Error: Scenario file for 'navigateallplanets' not found.
+[2024-12-30 10:53:27] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:53:29] Moved mouse to (234, 966) smoothly
+[2024-12-30 10:53:29] Random mouse move to (234, 966)
+[2024-12-30 10:53:29] Executing randos scenario: navigatetomoon4
+[2024-12-30 10:53:29] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 10:53:41] Waited for 0.22 minutes
+[2024-12-30 10:53:41] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:53:43] Moved mouse to (331, 540) smoothly
+[2024-12-30 10:53:43] Random mouse move to (331, 540)
+[2024-12-30 10:53:45] Moved mouse to (827, 98) smoothly
+[2024-12-30 10:53:45] Random mouse move to (827, 98)
+[2024-12-30 10:53:47] Moved mouse to (570, 549) smoothly
+[2024-12-30 10:53:47] Random mouse move to (570, 549)
+[2024-12-30 10:53:47] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:53:49] Moved mouse to (1435, 628) smoothly
+[2024-12-30 10:53:49] Random mouse move to (1435, 628)
+[2024-12-30 10:53:52] Moved mouse to (1635, 400) smoothly
+[2024-12-30 10:53:52] Random mouse move to (1635, 400)
+[2024-12-30 10:53:53] Moved mouse to (1415, 391) smoothly
+[2024-12-30 10:53:53] Clicked on component 'moon4' at (1415, 391)
+[2024-12-30 10:53:53] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:53:56] Waited for 0.05 minutes
+[2024-12-30 10:53:58] Moved mouse to (641, 651) smoothly
+[2024-12-30 10:53:58] Random mouse move to (641, 651)
+[2024-12-30 10:53:58] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:54:02] Waited for 0.08 minutes
+[2024-12-30 10:54:02] Skipping randos scenario: navigatetomoon11
+[2024-12-30 10:54:02] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 10:54:02] Skipping randos scenario: viewevents
+[2024-12-30 10:54:02] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 10:54:02] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:54:03] Moved mouse to (932, 888) smoothly
+[2024-12-30 10:54:03] Random mouse move to (932, 888)
+[2024-12-30 10:54:06] Moved mouse to (218, 699) smoothly
+[2024-12-30 10:54:06] Random mouse move to (218, 699)
+[2024-12-30 10:54:11] Waited for 0.10 minutes
+[2024-12-30 10:54:11] Executing randos scenario: viewevents
+[2024-12-30 10:54:11] Calling scenario: randos\viewevents.txt
+[2024-12-30 10:54:12] Moved mouse to (790, 208) smoothly
+[2024-12-30 10:54:12] Clicked on component 'events_list' at (790, 208)
+[2024-12-30 10:54:19] Waited for 0.13 minutes
+[2024-12-30 10:54:19] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:54:21] Moved mouse to (1586, 888) smoothly
+[2024-12-30 10:54:21] Random mouse move to (1586, 888)
+[2024-12-30 10:54:23] Moved mouse to (1411, 564) smoothly
+[2024-12-30 10:54:23] Random mouse move to (1411, 564)
+[2024-12-30 10:54:27] Waited for 0.07 minutes
+[2024-12-30 10:54:29] Moved mouse to (846, 227) smoothly
+[2024-12-30 10:54:29] Clicked on component 'events_list' at (846, 227)
+[2024-12-30 10:54:29] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:54:35] Waited for 0.10 minutes
+[2024-12-30 10:54:38] Moved mouse to (1109, 21) smoothly
+[2024-12-30 10:54:38] Clicked on component 'chrometab4' at (1109, 21)
+[2024-12-30 10:54:38] Last Chrome tab set to: chrometab4
+[2024-12-30 10:54:38] Executing randos scenario: longwait
+[2024-12-30 10:54:38] Calling scenario: randos\longwait.txt
+[2024-12-30 10:55:56] Waited for 1.31 minutes
+[2024-12-30 10:55:56] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 10:55:56] Skipping randos scenario: navigateallmoons
+[2024-12-30 10:55:56] Error: Scenario file for 'navigateallmoons' not found.
+[2024-12-30 10:55:56] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:55:58] Moved mouse to (249, 922) smoothly
+[2024-12-30 10:55:58] Random mouse move to (249, 922)
+[2024-12-30 10:55:58] Skipping randos scenario: navigateallplanets
+[2024-12-30 10:55:58] Error: Scenario file for 'navigateallplanets' not found.
+[2024-12-30 10:55:58] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:56:06] Waited for 0.14 minutes
+[2024-12-30 10:56:06] Skipping randos scenario: navigatetomoon4
+[2024-12-30 10:56:06] Error: Scenario file for 'navigatetomoon4' not found.
+[2024-12-30 10:56:06] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:56:12] Waited for 0.11 minutes
+[2024-12-30 10:56:12] Skipping randos scenario: navigatetomoon11
+[2024-12-30 10:56:12] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 10:56:12] Executing randos scenario: viewevents
+[2024-12-30 10:56:12] Calling scenario: randos\viewevents.txt
+[2024-12-30 10:56:14] Moved mouse to (894, 206) smoothly
+[2024-12-30 10:56:14] Clicked on component 'events_list' at (894, 206)
+[2024-12-30 10:56:18] Waited for 0.08 minutes
+[2024-12-30 10:56:20] Moved mouse to (766, 214) smoothly
+[2024-12-30 10:56:20] Clicked on component 'events_list' at (766, 214)
+[2024-12-30 10:56:20] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:56:23] Waited for 0.06 minutes
+[2024-12-30 10:56:23] Skipping randos scenario: viewevents
+[2024-12-30 10:56:23] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 10:56:25] Moved mouse to (795, 12) smoothly
+[2024-12-30 10:56:25] Clicked on component 'chrometab3' at (795, 12)
+[2024-12-30 10:56:25] Last Chrome tab set to: chrometab3
+[2024-12-30 10:56:25] Skipping randos scenario: longwait
+[2024-12-30 10:56:25] Error: Scenario file for 'longwait' not found.
+[2024-12-30 10:56:25] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 10:56:25] Executing randos scenario: navigateallmoons
+[2024-12-30 10:56:25] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 10:56:38] Waited for 0.22 minutes
+[2024-12-30 10:56:40] Moved mouse to (1339, 573) smoothly
+[2024-12-30 10:56:40] Random mouse move to (1339, 573)
+[2024-12-30 10:56:40] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:56:42] Moved mouse to (1341, 807) smoothly
+[2024-12-30 10:56:42] Random mouse move to (1341, 807)
+[2024-12-30 10:56:44] Moved mouse to (397, 256) smoothly
+[2024-12-30 10:56:44] Clicked on component 'overview' at (397, 256)
+[2024-12-30 10:56:44] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 10:56:44] Executing randos scenario: navigatetomoon1
+[2024-12-30 10:56:44] Calling scenario: randos\navigatetomoon1.txt
+[2024-12-30 10:56:53] Waited for 0.16 minutes
+[2024-12-30 10:56:55] Moved mouse to (1254, 677) smoothly
+[2024-12-30 10:56:55] Random mouse move to (1254, 677)
+[2024-12-30 10:56:57] Moved mouse to (1414, 261) smoothly
+[2024-12-30 10:56:57] Clicked on component 'moon1' at (1414, 261)
+[2024-12-30 10:56:59] Moved mouse to (1574, 303) smoothly
+[2024-12-30 10:56:59] Random mouse move to (1574, 303)
+[2024-12-30 10:56:59] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:57:02] Waited for 0.06 minutes
+[2024-12-30 10:57:04] Moved mouse to (340, 463) smoothly
+[2024-12-30 10:57:04] Random mouse move to (340, 463)
+[2024-12-30 10:57:04] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:57:06] Moved mouse to (81, 78) smoothly
+[2024-12-30 10:57:06] Random mouse move to (81, 78)
+[2024-12-30 10:57:08] Moved mouse to (75, 620) smoothly
+[2024-12-30 10:57:08] Random mouse move to (75, 620)
+[2024-12-30 10:57:08] Skipping randos scenario: navigatetomoon2
+[2024-12-30 10:57:08] Error: Scenario file for 'navigatetomoon2' not found.
+[2024-12-30 10:57:08] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:57:10] Moved mouse to (1125, 882) smoothly
+[2024-12-30 10:57:10] Random mouse move to (1125, 882)
+[2024-12-30 10:57:11] Moved mouse to (364, 415) smoothly
+[2024-12-30 10:57:11] Random mouse move to (364, 415)
+[2024-12-30 10:57:17] Waited for 0.10 minutes
+[2024-12-30 10:57:18] Moved mouse to (380, 424) smoothly
+[2024-12-30 10:57:18] Random mouse move to (380, 424)
+[2024-12-30 10:57:18] Executing randos scenario: navigatetomoon3
+[2024-12-30 10:57:18] Calling scenario: randos\navigatetomoon3.txt
+[2024-12-30 10:57:24] Waited for 0.11 minutes
+[2024-12-30 10:57:26] Moved mouse to (890, 688) smoothly
+[2024-12-30 10:57:26] Random mouse move to (890, 688)
+[2024-12-30 10:57:28] Moved mouse to (1422, 346) smoothly
+[2024-12-30 10:57:28] Clicked on component 'moon3' at (1422, 346)
+[2024-12-30 10:57:30] Moved mouse to (131, 1012) smoothly
+[2024-12-30 10:57:30] Random mouse move to (131, 1012)
+[2024-12-30 10:57:30] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:57:38] Waited for 0.15 minutes
+[2024-12-30 10:57:41] Moved mouse to (1368, 672) smoothly
+[2024-12-30 10:57:41] Random mouse move to (1368, 672)
+[2024-12-30 10:57:41] Executing randos scenario: navigatetomoon4
+[2024-12-30 10:57:41] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 10:57:53] Waited for 0.21 minutes
+[2024-12-30 10:57:54] Moved mouse to (1723, 610) smoothly
+[2024-12-30 10:57:54] Random mouse move to (1723, 610)
+[2024-12-30 10:57:54] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:57:56] Moved mouse to (315, 874) smoothly
+[2024-12-30 10:57:56] Random mouse move to (315, 874)
+[2024-12-30 10:57:58] Moved mouse to (1901, 13) smoothly
+[2024-12-30 10:57:58] Random mouse move to (1901, 13)
+[2024-12-30 10:58:03] Waited for 0.10 minutes
+[2024-12-30 10:58:05] Moved mouse to (1429, 401) smoothly
+[2024-12-30 10:58:06] Clicked on component 'moon4' at (1429, 401)
+[2024-12-30 10:58:06] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:58:08] Moved mouse to (794, 516) smoothly
+[2024-12-30 10:58:08] Random mouse move to (794, 516)
+[2024-12-30 10:58:09] Moved mouse to (473, 823) smoothly
+[2024-12-30 10:58:09] Random mouse move to (473, 823)
+[2024-12-30 10:58:09] Waited for 0.01 minutes
+[2024-12-30 10:58:11] Moved mouse to (1015, 685) smoothly
+[2024-12-30 10:58:11] Random mouse move to (1015, 685)
+[2024-12-30 10:58:11] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:58:16] Waited for 0.09 minutes
+[2024-12-30 10:58:16] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:58:18] Moved mouse to (297, 490) smoothly
+[2024-12-30 10:58:18] Random mouse move to (297, 490)
+[2024-12-30 10:58:19] Moved mouse to (1639, 833) smoothly
+[2024-12-30 10:58:19] Random mouse move to (1639, 833)
+[2024-12-30 10:58:19] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:58:21] Moved mouse to (1222, 931) smoothly
+[2024-12-30 10:58:21] Random mouse move to (1222, 931)
+[2024-12-30 10:58:23] Moved mouse to (1032, 631) smoothly
+[2024-12-30 10:58:23] Random mouse move to (1032, 631)
+[2024-12-30 10:58:23] Skipping randos scenario: navigatetomoon5
+[2024-12-30 10:58:23] Error: Scenario file for 'navigatetomoon5' not found.
+[2024-12-30 10:58:24] Moved mouse to (1082, 71) smoothly
+[2024-12-30 10:58:24] Random mouse move to (1082, 71)
+[2024-12-30 10:58:24] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:58:27] Moved mouse to (1247, 587) smoothly
+[2024-12-30 10:58:27] Random mouse move to (1247, 587)
+[2024-12-30 10:58:28] Moved mouse to (1436, 50) smoothly
+[2024-12-30 10:58:28] Random mouse move to (1436, 50)
+[2024-12-30 10:58:32] Waited for 0.08 minutes
+[2024-12-30 10:58:32] Skipping randos scenario: navigatetomoon6
+[2024-12-30 10:58:32] Error: Scenario file for 'navigatetomoon6' not found.
+[2024-12-30 10:58:32] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:58:37] Waited for 0.09 minutes
+[2024-12-30 10:58:40] Moved mouse to (1052, 118) smoothly
+[2024-12-30 10:58:40] Random mouse move to (1052, 118)
+[2024-12-30 10:58:40] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 10:58:41] Moved mouse to (1401, 130) smoothly
+[2024-12-30 10:58:41] Random mouse move to (1401, 130)
+[2024-12-30 10:58:43] Moved mouse to (1258, 579) smoothly
+[2024-12-30 10:58:43] Random mouse move to (1258, 579)
+[2024-12-30 10:58:43] Executing randos scenario: navigatetomoon7
+[2024-12-30 10:58:43] Calling scenario: randos\navigatetomoon7.txt
+[2024-12-30 10:58:53] Waited for 0.18 minutes
+[2024-12-30 10:58:56] Moved mouse to (860, 360) smoothly
+[2024-12-30 10:58:56] Random mouse move to (860, 360)
+[2024-12-30 10:58:57] Moved mouse to (1423, 534) smoothly
+[2024-12-30 10:58:57] Clicked on component 'moon7' at (1423, 534)
+[2024-12-30 10:58:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:58:59] Moved mouse to (118, 739) smoothly
+[2024-12-30 10:58:59] Random mouse move to (118, 739)
+[2024-12-30 10:59:01] Moved mouse to (1622, 516) smoothly
+[2024-12-30 10:59:01] Random mouse move to (1622, 516)
+[2024-12-30 10:59:02] Waited for 0.02 minutes
+[2024-12-30 10:59:04] Moved mouse to (703, 736) smoothly
+[2024-12-30 10:59:04] Random mouse move to (703, 736)
+[2024-12-30 10:59:05] Moved mouse to (1121, 381) smoothly
+[2024-12-30 10:59:05] Random mouse move to (1121, 381)
+[2024-12-30 10:59:05] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:59:10] Waited for 0.09 minutes
+[2024-12-30 10:59:10] Skipping randos scenario: navigatetomoon8
+[2024-12-30 10:59:10] Error: Scenario file for 'navigatetomoon8' not found.
+[2024-12-30 10:59:11] Moved mouse to (375, 862) smoothly
+[2024-12-30 10:59:11] Random mouse move to (375, 862)
+[2024-12-30 10:59:11] Executing randos scenario: navigatetomoon9
+[2024-12-30 10:59:11] Calling scenario: randos\navigatetomoon9.txt
+[2024-12-30 10:59:22] Waited for 0.18 minutes
+[2024-12-30 10:59:25] Moved mouse to (1430, 29) smoothly
+[2024-12-30 10:59:25] Random mouse move to (1430, 29)
+[2024-12-30 10:59:25] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:59:26] Moved mouse to (1083, 775) smoothly
+[2024-12-30 10:59:26] Random mouse move to (1083, 775)
+[2024-12-30 10:59:28] Moved mouse to (867, 207) smoothly
+[2024-12-30 10:59:28] Random mouse move to (867, 207)
+[2024-12-30 10:59:30] Waited for 0.04 minutes
+[2024-12-30 10:59:33] Moved mouse to (1425, 622) smoothly
+[2024-12-30 10:59:33] Clicked on component 'moon9' at (1425, 622)
+[2024-12-30 10:59:33] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:59:35] Moved mouse to (464, 841) smoothly
+[2024-12-30 10:59:35] Random mouse move to (464, 841)
+[2024-12-30 10:59:37] Moved mouse to (93, 649) smoothly
+[2024-12-30 10:59:37] Random mouse move to (93, 649)
+[2024-12-30 10:59:37] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 10:59:38] Moved mouse to (1067, 423) smoothly
+[2024-12-30 10:59:38] Random mouse move to (1067, 423)
+[2024-12-30 10:59:40] Moved mouse to (102, 353) smoothly
+[2024-12-30 10:59:40] Random mouse move to (102, 353)
+[2024-12-30 10:59:44] Waited for 0.07 minutes
+[2024-12-30 10:59:47] Moved mouse to (1383, 786) smoothly
+[2024-12-30 10:59:47] Random mouse move to (1383, 786)
+[2024-12-30 10:59:47] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 10:59:55] Waited for 0.14 minutes
+[2024-12-30 10:59:55] Skipping randos scenario: navigatetomoon10
+[2024-12-30 10:59:55] Error: Scenario file for 'navigatetomoon10' not found.
+[2024-12-30 10:59:55] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 10:59:57] Moved mouse to (1466, 690) smoothly
+[2024-12-30 10:59:57] Random mouse move to (1466, 690)
+[2024-12-30 10:59:58] Moved mouse to (389, 51) smoothly
+[2024-12-30 10:59:58] Random mouse move to (389, 51)
+[2024-12-30 10:59:58] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:00:00] Moved mouse to (1127, 995) smoothly
+[2024-12-30 11:00:00] Random mouse move to (1127, 995)
+[2024-12-30 11:00:02] Moved mouse to (322, 998) smoothly
+[2024-12-30 11:00:02] Random mouse move to (322, 998)
+[2024-12-30 11:00:02] Executing randos scenario: navigatetomoon11
+[2024-12-30 11:00:02] Calling scenario: randos\navigatetomoon11.txt
+[2024-12-30 11:00:14] Waited for 0.21 minutes
+[2024-12-30 11:00:15] Moved mouse to (167, 310) smoothly
+[2024-12-30 11:00:15] Random mouse move to (167, 310)
+[2024-12-30 11:00:17] Moved mouse to (1424, 721) smoothly
+[2024-12-30 11:00:18] Clicked on component 'moon11' at (1424, 721)
+[2024-12-30 11:00:19] Moved mouse to (989, 41) smoothly
+[2024-12-30 11:00:19] Random mouse move to (989, 41)
+[2024-12-30 11:00:19] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:00:21] Moved mouse to (934, 887) smoothly
+[2024-12-30 11:00:21] Random mouse move to (934, 887)
+[2024-12-30 11:00:23] Moved mouse to (121, 336) smoothly
+[2024-12-30 11:00:23] Random mouse move to (121, 336)
+[2024-12-30 11:00:25] Moved mouse to (214, 319) smoothly
+[2024-12-30 11:00:25] Random mouse move to (214, 319)
+[2024-12-30 11:00:26] Moved mouse to (52, 854) smoothly
+[2024-12-30 11:00:26] Random mouse move to (52, 854)
+[2024-12-30 11:00:26] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:00:28] Moved mouse to (1780, 306) smoothly
+[2024-12-30 11:00:28] Random mouse move to (1780, 306)
+[2024-12-30 11:00:28] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:00:30] Moved mouse to (383, 823) smoothly
+[2024-12-30 11:00:30] Random mouse move to (383, 823)
+[2024-12-30 11:00:31] Moved mouse to (393, 1012) smoothly
+[2024-12-30 11:00:31] Random mouse move to (393, 1012)
+[2024-12-30 11:00:31] Skipping randos scenario: navigateallplanets
+[2024-12-30 11:00:31] Error: Scenario file for 'navigateallplanets' not found.
+[2024-12-30 11:00:31] Skipping randos scenario: navigatetomoon4
+[2024-12-30 11:00:31] Error: Scenario file for 'navigatetomoon4' not found.
+[2024-12-30 11:00:31] Executing randos scenario: navigatetomoon11
+[2024-12-30 11:00:31] Calling scenario: randos\navigatetomoon11.txt
+[2024-12-30 11:00:42] Waited for 0.19 minutes
+[2024-12-30 11:00:43] Moved mouse to (42, 420) smoothly
+[2024-12-30 11:00:43] Random mouse move to (42, 420)
+[2024-12-30 11:00:45] Moved mouse to (1421, 722) smoothly
+[2024-12-30 11:00:45] Clicked on component 'moon11' at (1421, 722)
+[2024-12-30 11:00:45] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:00:47] Moved mouse to (287, 804) smoothly
+[2024-12-30 11:00:47] Random mouse move to (287, 804)
+[2024-12-30 11:00:49] Moved mouse to (1466, 140) smoothly
+[2024-12-30 11:00:49] Random mouse move to (1466, 140)
+[2024-12-30 11:00:55] Waited for 0.11 minutes
+[2024-12-30 11:00:57] Moved mouse to (657, 858) smoothly
+[2024-12-30 11:00:57] Random mouse move to (657, 858)
+[2024-12-30 11:00:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:00:59] Moved mouse to (1163, 92) smoothly
+[2024-12-30 11:00:59] Random mouse move to (1163, 92)
+[2024-12-30 11:01:01] Moved mouse to (1818, 73) smoothly
+[2024-12-30 11:01:01] Random mouse move to (1818, 73)
+[2024-12-30 11:01:04] Waited for 0.06 minutes
+[2024-12-30 11:01:04] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:01:06] Moved mouse to (904, 435) smoothly
+[2024-12-30 11:01:06] Random mouse move to (904, 435)
+[2024-12-30 11:01:06] Skipping randos scenario: viewevents
+[2024-12-30 11:01:06] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 11:01:06] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:01:08] Moved mouse to (1051, 311) smoothly
+[2024-12-30 11:01:08] Random mouse move to (1051, 311)
+[2024-12-30 11:01:10] Moved mouse to (743, 642) smoothly
+[2024-12-30 11:01:10] Random mouse move to (743, 642)
+[2024-12-30 11:01:10] Skipping randos scenario: viewevents
+[2024-12-30 11:01:10] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 11:01:10] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:01:12] Moved mouse to (1200, 334) smoothly
+[2024-12-30 11:01:12] Random mouse move to (1200, 334)
+[2024-12-30 11:01:14] Moved mouse to (581, 601) smoothly
+[2024-12-30 11:01:14] Random mouse move to (581, 601)
+[2024-12-30 11:01:20] Waited for 0.11 minutes
+[2024-12-30 11:01:20] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:01:27] Waited for 0.13 minutes
+[2024-12-30 11:01:29] Moved mouse to (1052, 13) smoothly
+[2024-12-30 11:01:29] Clicked on component 'chrometab4' at (1052, 13)
+[2024-12-30 11:01:29] Last Chrome tab set to: chrometab4
+[2024-12-30 11:01:29] Skipping randos scenario: longwait
+[2024-12-30 11:01:29] Error: Scenario file for 'longwait' not found.
+[2024-12-30 11:01:29] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:01:31] Moved mouse to (1902, 709) smoothly
+[2024-12-30 11:01:31] Random mouse move to (1902, 709)
+[2024-12-30 11:01:31] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 11:01:31] Executing randos scenario: navigateallmoons
+[2024-12-30 11:01:31] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 11:01:41] Waited for 0.17 minutes
+[2024-12-30 11:01:41] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:01:43] Moved mouse to (1770, 125) smoothly
+[2024-12-30 11:01:43] Random mouse move to (1770, 125)
+[2024-12-30 11:01:45] Moved mouse to (736, 488) smoothly
+[2024-12-30 11:01:45] Random mouse move to (736, 488)
+[2024-12-30 11:01:46] Moved mouse to (1508, 816) smoothly
+[2024-12-30 11:01:46] Random mouse move to (1508, 816)
+[2024-12-30 11:01:46] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:01:48] Moved mouse to (9, 837) smoothly
+[2024-12-30 11:01:48] Random mouse move to (9, 837)
+[2024-12-30 11:01:50] Moved mouse to (443, 267) smoothly
+[2024-12-30 11:01:50] Clicked on component 'overview' at (443, 267)
+[2024-12-30 11:01:50] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 11:01:50] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:01:51] Moved mouse to (1443, 1014) smoothly
+[2024-12-30 11:01:51] Random mouse move to (1443, 1014)
+[2024-12-30 11:01:53] Moved mouse to (448, 275) smoothly
+[2024-12-30 11:01:53] Random mouse move to (448, 275)
+[2024-12-30 11:01:53] Skipping randos scenario: navigatetomoon1
+[2024-12-30 11:01:53] Error: Scenario file for 'navigatetomoon1' not found.
+[2024-12-30 11:01:55] Moved mouse to (1420, 393) smoothly
+[2024-12-30 11:01:55] Random mouse move to (1420, 393)
+[2024-12-30 11:01:55] Skipping randos scenario: navigatetomoon2
+[2024-12-30 11:01:55] Error: Scenario file for 'navigatetomoon2' not found.
+[2024-12-30 11:01:56] Moved mouse to (1345, 49) smoothly
+[2024-12-30 11:01:56] Random mouse move to (1345, 49)
+[2024-12-30 11:01:56] Executing randos scenario: navigatetomoon3
+[2024-12-30 11:01:56] Calling scenario: randos\navigatetomoon3.txt
+[2024-12-30 11:02:05] Waited for 0.17 minutes
+[2024-12-30 11:02:05] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:02:07] Moved mouse to (228, 968) smoothly
+[2024-12-30 11:02:07] Random mouse move to (228, 968)
+[2024-12-30 11:02:09] Moved mouse to (1229, 1012) smoothly
+[2024-12-30 11:02:09] Random mouse move to (1229, 1012)
+[2024-12-30 11:02:11] Waited for 0.05 minutes
+[2024-12-30 11:02:13] Moved mouse to (143, 18) smoothly
+[2024-12-30 11:02:13] Random mouse move to (143, 18)
+[2024-12-30 11:02:13] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:02:15] Moved mouse to (77, 524) smoothly
+[2024-12-30 11:02:15] Random mouse move to (77, 524)
+[2024-12-30 11:02:17] Moved mouse to (1426, 352) smoothly
+[2024-12-30 11:02:17] Clicked on component 'moon3' at (1426, 352)
+[2024-12-30 11:02:19] Moved mouse to (413, 95) smoothly
+[2024-12-30 11:02:19] Random mouse move to (413, 95)
+[2024-12-30 11:02:19] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:02:21] Moved mouse to (1347, 54) smoothly
+[2024-12-30 11:02:21] Random mouse move to (1347, 54)
+[2024-12-30 11:02:22] Moved mouse to (1872, 318) smoothly
+[2024-12-30 11:02:22] Random mouse move to (1872, 318)
+[2024-12-30 11:02:22] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:02:24] Moved mouse to (1613, 869) smoothly
+[2024-12-30 11:02:24] Random mouse move to (1613, 869)
+[2024-12-30 11:02:26] Moved mouse to (56, 826) smoothly
+[2024-12-30 11:02:26] Random mouse move to (56, 826)
+[2024-12-30 11:02:26] Skipping randos scenario: navigatetomoon4
+[2024-12-30 11:02:26] Error: Scenario file for 'navigatetomoon4' not found.
+[2024-12-30 11:02:27] Moved mouse to (352, 897) smoothly
+[2024-12-30 11:02:27] Random mouse move to (352, 897)
+[2024-12-30 11:02:27] Skipping randos scenario: navigatetomoon5
+[2024-12-30 11:02:27] Error: Scenario file for 'navigatetomoon5' not found.
+[2024-12-30 11:02:27] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:02:31] Waited for 0.08 minutes
+[2024-12-30 11:02:33] Moved mouse to (362, 103) smoothly
+[2024-12-30 11:02:33] Random mouse move to (362, 103)
+[2024-12-30 11:02:33] Executing randos scenario: navigatetomoon6
+[2024-12-30 11:02:33] Calling scenario: randos\navigatetomoon6.txt
+[2024-12-30 11:02:41] Waited for 0.13 minutes
+[2024-12-30 11:02:41] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:02:48] Waited for 0.13 minutes
+[2024-12-30 11:02:50] Moved mouse to (1338, 760) smoothly
+[2024-12-30 11:02:50] Random mouse move to (1338, 760)
+[2024-12-30 11:02:51] Moved mouse to (1427, 487) smoothly
+[2024-12-30 11:02:52] Clicked on component 'moon6' at (1427, 487)
+[2024-12-30 11:02:54] Moved mouse to (807, 922) smoothly
+[2024-12-30 11:02:54] Random mouse move to (807, 922)
+[2024-12-30 11:02:54] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:02:55] Moved mouse to (1316, 633) smoothly
+[2024-12-30 11:02:55] Random mouse move to (1316, 633)
+[2024-12-30 11:02:57] Moved mouse to (1176, 219) smoothly
+[2024-12-30 11:02:57] Random mouse move to (1176, 219)
+[2024-12-30 11:02:57] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:03:06] Waited for 0.14 minutes
+[2024-12-30 11:03:08] Moved mouse to (589, 765) smoothly
+[2024-12-30 11:03:08] Random mouse move to (589, 765)
+[2024-12-30 11:03:08] Executing randos scenario: navigatetomoon7
+[2024-12-30 11:03:08] Calling scenario: randos\navigatetomoon7.txt
+[2024-12-30 11:03:18] Waited for 0.17 minutes
+[2024-12-30 11:03:19] Moved mouse to (1312, 651) smoothly
+[2024-12-30 11:03:19] Random mouse move to (1312, 651)
+[2024-12-30 11:03:19] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:03:21] Moved mouse to (1834, 500) smoothly
+[2024-12-30 11:03:21] Random mouse move to (1834, 500)
+[2024-12-30 11:03:23] Moved mouse to (1025, 863) smoothly
+[2024-12-30 11:03:23] Random mouse move to (1025, 863)
+[2024-12-30 11:03:25] Waited for 0.04 minutes
+[2024-12-30 11:03:27] Moved mouse to (1419, 536) smoothly
+[2024-12-30 11:03:27] Clicked on component 'moon7' at (1419, 536)
+[2024-12-30 11:03:29] Moved mouse to (582, 75) smoothly
+[2024-12-30 11:03:29] Random mouse move to (582, 75)
+[2024-12-30 11:03:29] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:03:31] Moved mouse to (652, 54) smoothly
+[2024-12-30 11:03:31] Random mouse move to (652, 54)
+[2024-12-30 11:03:32] Moved mouse to (1168, 1014) smoothly
+[2024-12-30 11:03:32] Random mouse move to (1168, 1014)
+[2024-12-30 11:03:32] Waited for 0.01 minutes
+[2024-12-30 11:03:32] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:03:34] Moved mouse to (441, 941) smoothly
+[2024-12-30 11:03:34] Random mouse move to (441, 941)
+[2024-12-30 11:03:36] Moved mouse to (1236, 327) smoothly
+[2024-12-30 11:03:36] Random mouse move to (1236, 327)
+[2024-12-30 11:03:36] Skipping randos scenario: navigatetomoon8
+[2024-12-30 11:03:36] Error: Scenario file for 'navigatetomoon8' not found.
+[2024-12-30 11:03:36] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:03:39] Moved mouse to (1086, 1023) smoothly
+[2024-12-30 11:03:39] Random mouse move to (1086, 1023)
+[2024-12-30 11:03:41] Moved mouse to (856, 496) smoothly
+[2024-12-30 11:03:41] Random mouse move to (856, 496)
+[2024-12-30 11:03:46] Waited for 0.10 minutes
+[2024-12-30 11:03:48] Moved mouse to (1715, 186) smoothly
+[2024-12-30 11:03:48] Random mouse move to (1715, 186)
+[2024-12-30 11:03:48] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:03:50] Moved mouse to (1538, 285) smoothly
+[2024-12-30 11:03:50] Random mouse move to (1538, 285)
+[2024-12-30 11:03:53] Moved mouse to (1280, 293) smoothly
+[2024-12-30 11:03:53] Random mouse move to (1280, 293)
+[2024-12-30 11:03:53] Executing randos scenario: navigatetomoon9
+[2024-12-30 11:03:53] Calling scenario: randos\navigatetomoon9.txt
+[2024-12-30 11:04:05] Waited for 0.21 minutes
+[2024-12-30 11:04:07] Moved mouse to (555, 592) smoothly
+[2024-12-30 11:04:07] Random mouse move to (555, 592)
+[2024-12-30 11:04:09] Moved mouse to (1425, 618) smoothly
+[2024-12-30 11:04:09] Clicked on component 'moon9' at (1425, 618)
+[2024-12-30 11:04:11] Moved mouse to (982, 618) smoothly
+[2024-12-30 11:04:11] Random mouse move to (982, 618)
+[2024-12-30 11:04:11] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:04:15] Waited for 0.08 minutes
+[2024-12-30 11:04:17] Moved mouse to (325, 561) smoothly
+[2024-12-30 11:04:17] Random mouse move to (325, 561)
+[2024-12-30 11:04:17] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:04:20] Waited for 0.06 minutes
+[2024-12-30 11:04:20] Skipping randos scenario: navigatetomoon10
+[2024-12-30 11:04:20] Error: Scenario file for 'navigatetomoon10' not found.
+[2024-12-30 11:04:20] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:04:27] Waited for 0.12 minutes
+[2024-12-30 11:04:30] Moved mouse to (853, 793) smoothly
+[2024-12-30 11:04:30] Random mouse move to (853, 793)
+[2024-12-30 11:04:30] Executing randos scenario: navigatetomoon11
+[2024-12-30 11:04:30] Calling scenario: randos\navigatetomoon11.txt
+[2024-12-30 11:04:39] Waited for 0.17 minutes
+[2024-12-30 11:04:41] Moved mouse to (1121, 442) smoothly
+[2024-12-30 11:04:41] Random mouse move to (1121, 442)
+[2024-12-30 11:04:41] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:04:45] Waited for 0.07 minutes
+[2024-12-30 11:04:47] Moved mouse to (1424, 717) smoothly
+[2024-12-30 11:04:47] Clicked on component 'moon11' at (1424, 717)
+[2024-12-30 11:04:47] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:04:49] Moved mouse to (456, 819) smoothly
+[2024-12-30 11:04:49] Random mouse move to (456, 819)
+[2024-12-30 11:04:51] Moved mouse to (1765, 1005) smoothly
+[2024-12-30 11:04:51] Random mouse move to (1765, 1005)
+[2024-12-30 11:04:53] Waited for 0.04 minutes
+[2024-12-30 11:04:55] Moved mouse to (965, 62) smoothly
+[2024-12-30 11:04:55] Random mouse move to (965, 62)
+[2024-12-30 11:04:55] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:04:56] Moved mouse to (1043, 155) smoothly
+[2024-12-30 11:04:56] Random mouse move to (1043, 155)
+[2024-12-30 11:04:59] Moved mouse to (954, 530) smoothly
+[2024-12-30 11:04:59] Random mouse move to (954, 530)
+[2024-12-30 11:05:03] Waited for 0.07 minutes
+[2024-12-30 11:05:04] Moved mouse to (1781, 482) smoothly
+[2024-12-30 11:05:04] Random mouse move to (1781, 482)
+[2024-12-30 11:05:04] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:05:06] Moved mouse to (1070, 644) smoothly
+[2024-12-30 11:05:06] Random mouse move to (1070, 644)
+[2024-12-30 11:05:08] Moved mouse to (1074, 64) smoothly
+[2024-12-30 11:05:08] Random mouse move to (1074, 64)
+[2024-12-30 11:05:13] Waited for 0.09 minutes
+[2024-12-30 11:05:14] Moved mouse to (15, 973) smoothly
+[2024-12-30 11:05:14] Random mouse move to (15, 973)
+[2024-12-30 11:05:14] Skipping randos scenario: navigateallplanets
+[2024-12-30 11:05:14] Error: Scenario file for 'navigateallplanets' not found.
+[2024-12-30 11:05:14] Executing randos scenario: navigatetomoon4
+[2024-12-30 11:05:14] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 11:05:22] Waited for 0.15 minutes
+[2024-12-30 11:05:22] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:05:24] Moved mouse to (544, 822) smoothly
+[2024-12-30 11:05:24] Random mouse move to (544, 822)
+[2024-12-30 11:05:26] Moved mouse to (1098, 453) smoothly
+[2024-12-30 11:05:26] Random mouse move to (1098, 453)
+[2024-12-30 11:05:29] Moved mouse to (1425, 400) smoothly
+[2024-12-30 11:05:29] Clicked on component 'moon4' at (1425, 400)
+[2024-12-30 11:05:29] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:05:31] Moved mouse to (1083, 16) smoothly
+[2024-12-30 11:05:31] Random mouse move to (1083, 16)
+[2024-12-30 11:05:33] Moved mouse to (523, 701) smoothly
+[2024-12-30 11:05:33] Random mouse move to (523, 701)
+[2024-12-30 11:05:35] Moved mouse to (310, 676) smoothly
+[2024-12-30 11:05:35] Random mouse move to (310, 676)
+[2024-12-30 11:05:35] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:05:36] Moved mouse to (1393, 194) smoothly
+[2024-12-30 11:05:36] Random mouse move to (1393, 194)
+[2024-12-30 11:05:38] Moved mouse to (809, 789) smoothly
+[2024-12-30 11:05:38] Random mouse move to (809, 789)
+[2024-12-30 11:05:38] Skipping randos scenario: navigatetomoon11
+[2024-12-30 11:05:38] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 11:05:38] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:05:39] Moved mouse to (233, 538) smoothly
+[2024-12-30 11:05:39] Random mouse move to (233, 538)
+[2024-12-30 11:05:41] Moved mouse to (1152, 561) smoothly
+[2024-12-30 11:05:41] Random mouse move to (1152, 561)
+[2024-12-30 11:05:47] Waited for 0.10 minutes
+[2024-12-30 11:05:47] Skipping randos scenario: viewevents
+[2024-12-30 11:05:47] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 11:05:47] Executing randos scenario: viewevents
+[2024-12-30 11:05:47] Calling scenario: randos\viewevents.txt
+[2024-12-30 11:05:49] Moved mouse to (712, 212) smoothly
+[2024-12-30 11:05:49] Clicked on component 'events_list' at (712, 212)
+[2024-12-30 11:05:57] Waited for 0.14 minutes
+[2024-12-30 11:05:57] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:06:01] Waited for 0.07 minutes
+[2024-12-30 11:06:03] Moved mouse to (893, 215) smoothly
+[2024-12-30 11:06:03] Clicked on component 'events_list' at (893, 215)
+[2024-12-30 11:06:03] Calling scenario: mustdo\shortexpounisaros.txt
+[2024-12-30 11:06:05] Moved mouse to (1084, 19) smoothly
+[2024-12-30 11:06:05] Clicked on component 'chrometab4' at (1084, 19)
+[2024-12-30 11:06:05] Last Chrome tab set to: chrometab4
+[2024-12-30 11:06:05] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:06:07] Moved mouse to (167, 14) smoothly
+[2024-12-30 11:06:07] Random mouse move to (167, 14)
+[2024-12-30 11:06:14] Waited for 0.13 minutes
+[2024-12-30 11:06:14] Executing randos scenario: readmessages
+[2024-12-30 11:06:14] Calling scenario: randos\readmessages.txt
+[2024-12-30 11:06:15] Moved mouse to (604, 205) smoothly
+[2024-12-30 11:06:16] Clicked on component 'messages' at (604, 205)
+[2024-12-30 11:06:18] Moved mouse to (626, 320) smoothly
+[2024-12-30 11:06:18] Clicked on component 'messages_fleet' at (626, 320)
+[2024-12-30 11:06:18] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:06:19] Moved mouse to (1602, 294) smoothly
+[2024-12-30 11:06:19] Random mouse move to (1602, 294)
+[2024-12-30 11:06:21] Moved mouse to (424, 345) smoothly
+[2024-12-30 11:06:21] Random mouse move to (424, 345)
+[2024-12-30 11:06:26] Waited for 0.09 minutes
+[2024-12-30 11:06:28] Moved mouse to (854, 524) smoothly
+[2024-12-30 11:06:28] Random mouse move to (854, 524)
+[2024-12-30 11:06:30] Moved mouse to (615, 377) smoothly
+[2024-12-30 11:06:30] Clicked on component 'messages_esp' at (615, 377)
+[2024-12-30 11:07:08] Waited for 0.63 minutes
+[2024-12-30 11:07:08] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:07:10] Moved mouse to (529, 121) smoothly
+[2024-12-30 11:07:10] Random mouse move to (529, 121)
+[2024-12-30 11:07:11] Moved mouse to (1335, 389) smoothly
+[2024-12-30 11:07:11] Random mouse move to (1335, 389)
+[2024-12-30 11:07:15] Waited for 0.08 minutes
+[2024-12-30 11:07:18] Moved mouse to (811, 377) smoothly
+[2024-12-30 11:07:18] Clicked on component 'messages_combat' at (811, 377)
+[2024-12-30 11:08:02] Waited for 0.74 minutes
+[2024-12-30 11:08:02] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:08:03] Moved mouse to (1802, 217) smoothly
+[2024-12-30 11:08:03] Random mouse move to (1802, 217)
+[2024-12-30 11:08:05] Moved mouse to (476, 814) smoothly
+[2024-12-30 11:08:05] Random mouse move to (476, 814)
+[2024-12-30 11:08:07] Moved mouse to (894, 378) smoothly
+[2024-12-30 11:08:07] Clicked on component 'messages_expo' at (894, 378)
+[2024-12-30 11:08:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:08:09] Moved mouse to (85, 596) smoothly
+[2024-12-30 11:08:09] Random mouse move to (85, 596)
+[2024-12-30 11:08:24] Waited for 0.26 minutes
+[2024-12-30 11:08:24] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:08:27] Moved mouse to (649, 64) smoothly
+[2024-12-30 11:08:27] Random mouse move to (649, 64)
+[2024-12-30 11:08:28] Moved mouse to (1841, 127) smoothly
+[2024-12-30 11:08:28] Random mouse move to (1841, 127)
+[2024-12-30 11:08:32] Waited for 0.08 minutes
+[2024-12-30 11:08:34] Moved mouse to (1081, 379) smoothly
+[2024-12-30 11:08:34] Clicked on component 'messages_transport' at (1081, 379)
+[2024-12-30 11:08:34] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:08:36] Moved mouse to (1517, 1004) smoothly
+[2024-12-30 11:08:36] Random mouse move to (1517, 1004)
+[2024-12-30 11:08:39] Moved mouse to (1711, 740) smoothly
+[2024-12-30 11:08:39] Random mouse move to (1711, 740)
+[2024-12-30 11:08:44] Waited for 0.09 minutes
+[2024-12-30 11:09:12] Waited for 0.48 minutes
+[2024-12-30 11:09:13] Moved mouse to (1185, 379) smoothly
+[2024-12-30 11:09:13] Clicked on component 'messages_other' at (1185, 379)
+[2024-12-30 11:09:19] Waited for 0.11 minutes
+[2024-12-30 11:09:19] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:09:28] Waited for 0.14 minutes
+[2024-12-30 11:09:30] Moved mouse to (210, 205) smoothly
+[2024-12-30 11:09:30] Clicked on component 'empty_area' at (210, 205)
+[2024-12-30 11:09:32] Moved mouse to (629, 752) smoothly
+[2024-12-30 11:09:32] Random mouse move to (629, 752)
+[2024-12-30 11:09:32] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:09:34] Moved mouse to (1844, 930) smoothly
+[2024-12-30 11:09:34] Random mouse move to (1844, 930)
+[2024-12-30 11:09:36] Moved mouse to (1373, 129) smoothly
+[2024-12-30 11:09:36] Random mouse move to (1373, 129)
+[2024-12-30 11:09:42] Waited for 0.10 minutes
+[2024-12-30 11:09:43] Moved mouse to (1776, 804) smoothly
+[2024-12-30 11:09:43] Random mouse move to (1776, 804)
+[2024-12-30 11:09:45] Moved mouse to (35, 811) smoothly
+[2024-12-30 11:09:45] Random mouse move to (35, 811)
+[2024-12-30 11:09:47] Moved mouse to (99, 599) smoothly
+[2024-12-30 11:09:47] Clicked on component 'empty_area' at (99, 599)
+[2024-12-30 11:09:49] Moved mouse to (99, 502) smoothly
+[2024-12-30 11:09:49] Random mouse move to (99, 502)
+[2024-12-30 11:09:51] Moved mouse to (232, 481) smoothly
+[2024-12-30 11:09:51] Random mouse move to (232, 481)
+[2024-12-30 11:09:51] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:09:53] Moved mouse to (977, 113) smoothly
+[2024-12-30 11:09:53] Random mouse move to (977, 113)
+[2024-12-30 11:09:54] Moved mouse to (1068, 761) smoothly
+[2024-12-30 11:09:54] Random mouse move to (1068, 761)
+[2024-12-30 11:09:57] Waited for 0.05 minutes
+[2024-12-30 11:09:57] Skipping randos scenario: viewevents
+[2024-12-30 11:09:57] Error: Scenario file for 'viewevents' not found.
+[2024-12-30 11:09:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:09:59] Moved mouse to (1543, 754) smoothly
+[2024-12-30 11:09:59] Random mouse move to (1543, 754)
+[2024-12-30 11:10:00] Moved mouse to (820, 256) smoothly
+[2024-12-30 11:10:00] Random mouse move to (820, 256)
+[2024-12-30 11:10:04] Waited for 0.08 minutes
+[2024-12-30 11:10:06] Moved mouse to (428, 459) smoothly
+[2024-12-30 11:10:06] Clicked on component 'button_fleet' at (428, 459)
+[2024-12-30 11:10:07] Moved mouse to (1273, 267) smoothly
+[2024-12-30 11:10:07] Clicked on component 'planet1' at (1273, 267)
+[2024-12-30 11:10:07] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:10:09] Moved mouse to (637, 756) smoothly
+[2024-12-30 11:10:09] Random mouse move to (637, 756)
+[2024-12-30 11:10:10] Moved mouse to (37, 407) smoothly
+[2024-12-30 11:10:10] Random mouse move to (37, 407)
+[2024-12-30 11:10:13] Moved mouse to (704, 719) smoothly
+[2024-12-30 11:10:13] Clicked on component 'button_selectexpocargos' at (704, 719)
+[2024-12-30 11:10:13] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:10:15] Moved mouse to (174, 592) smoothly
+[2024-12-30 11:10:15] Random mouse move to (174, 592)
+[2024-12-30 11:10:17] Moved mouse to (640, 266) smoothly
+[2024-12-30 11:10:17] Random mouse move to (640, 266)
+[2024-12-30 11:10:19] Moved mouse to (705, 725) smoothly
+[2024-12-30 11:10:19] Clicked on component 'button_selectexpocargos' at (705, 725)
+[2024-12-30 11:10:21] Moved mouse to (1178, 768) smoothly
+[2024-12-30 11:10:21] Clicked on component 'button_continue_fleet' at (1178, 768)
+[2024-12-30 11:10:21] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:10:24] Moved mouse to (695, 784) smoothly
+[2024-12-30 11:10:24] Random mouse move to (695, 784)
+[2024-12-30 11:10:25] Moved mouse to (615, 487) smoothly
+[2024-12-30 11:10:26] Clicked on component 'button_expedition' at (615, 487)
+[2024-12-30 11:10:27] Moved mouse to (1030, 873) smoothly
+[2024-12-30 11:10:27] Clicked on component 'button_send' at (1030, 873)
+[2024-12-30 11:10:27] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:10:30] Waited for 0.05 minutes
+[2024-12-30 11:10:32] Moved mouse to (1260, 304) smoothly
+[2024-12-30 11:10:32] Clicked on component 'planet2' at (1260, 304)
+[2024-12-30 11:10:32] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:10:35] Waited for 0.05 minutes
+[2024-12-30 11:10:36] Moved mouse to (707, 723) smoothly
+[2024-12-30 11:10:36] Clicked on component 'button_selectexpocargos' at (707, 723)
+[2024-12-30 11:10:36] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:10:38] Moved mouse to (112, 163) smoothly
+[2024-12-30 11:10:38] Random mouse move to (112, 163)
+[2024-12-30 11:10:40] Moved mouse to (295, 859) smoothly
+[2024-12-30 11:10:40] Random mouse move to (295, 859)
+[2024-12-30 11:10:42] Moved mouse to (704, 722) smoothly
+[2024-12-30 11:10:42] Clicked on component 'button_selectexpocargos' at (704, 722)
+[2024-12-30 11:10:44] Moved mouse to (1144, 751) smoothly
+[2024-12-30 11:10:44] Clicked on component 'button_continue_fleet' at (1144, 751)
+[2024-12-30 11:10:44] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:10:46] Moved mouse to (379, 31) smoothly
+[2024-12-30 11:10:46] Random mouse move to (379, 31)
+[2024-12-30 11:10:47] Moved mouse to (1902, 505) smoothly
+[2024-12-30 11:10:47] Random mouse move to (1902, 505)
+[2024-12-30 11:10:51] Waited for 0.06 minutes
+[2024-12-30 11:10:53] Moved mouse to (610, 474) smoothly
+[2024-12-30 11:10:53] Clicked on component 'button_expedition' at (610, 474)
+[2024-12-30 11:10:55] Moved mouse to (980, 860) smoothly
+[2024-12-30 11:10:55] Clicked on component 'button_send' at (980, 860)
+[2024-12-30 11:10:55] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:10:58] Waited for 0.05 minutes
+[2024-12-30 11:10:59] Moved mouse to (1258, 355) smoothly
+[2024-12-30 11:10:59] Clicked on component 'planet3' at (1258, 355)
+[2024-12-30 11:11:01] Moved mouse to (699, 716) smoothly
+[2024-12-30 11:11:01] Clicked on component 'button_selectexpocargos' at (699, 716)
+[2024-12-30 11:11:03] Moved mouse to (688, 728) smoothly
+[2024-12-30 11:11:03] Clicked on component 'button_selectexpocargos' at (688, 728)
+[2024-12-30 11:11:06] Moved mouse to (1137, 743) smoothly
+[2024-12-30 11:11:06] Clicked on component 'button_continue_fleet' at (1137, 743)
+[2024-12-30 11:11:08] Moved mouse to (588, 491) smoothly
+[2024-12-30 11:11:08] Clicked on component 'button_expedition' at (588, 491)
+[2024-12-30 11:11:08] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:11:10] Moved mouse to (1448, 1009) smoothly
+[2024-12-30 11:11:10] Random mouse move to (1448, 1009)
+[2024-12-30 11:11:12] Moved mouse to (1165, 856) smoothly
+[2024-12-30 11:11:12] Clicked on component 'button_send' at (1165, 856)
+[2024-12-30 11:11:12] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:11:15] Waited for 0.05 minutes
+[2024-12-30 11:11:17] Moved mouse to (1260, 402) smoothly
+[2024-12-30 11:11:17] Clicked on component 'planet4' at (1260, 402)
+[2024-12-30 11:11:17] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:11:19] Moved mouse to (108, 934) smoothly
+[2024-12-30 11:11:19] Random mouse move to (108, 934)
+[2024-12-30 11:11:21] Moved mouse to (702, 718) smoothly
+[2024-12-30 11:11:21] Clicked on component 'button_selectexpocargos' at (702, 718)
+[2024-12-30 11:11:23] Moved mouse to (702, 728) smoothly
+[2024-12-30 11:11:23] Clicked on component 'button_selectexpocargos' at (702, 728)
+[2024-12-30 11:11:26] Moved mouse to (1185, 742) smoothly
+[2024-12-30 11:11:26] Clicked on component 'button_continue_fleet' at (1185, 742)
+[2024-12-30 11:11:27] Moved mouse to (598, 475) smoothly
+[2024-12-30 11:11:27] Clicked on component 'button_expedition' at (598, 475)
+[2024-12-30 11:11:29] Moved mouse to (1123, 864) smoothly
+[2024-12-30 11:11:29] Clicked on component 'button_send' at (1123, 864)
+[2024-12-30 11:11:29] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:11:31] Moved mouse to (718, 634) smoothly
+[2024-12-30 11:11:31] Random mouse move to (718, 634)
+[2024-12-30 11:11:33] Moved mouse to (1612, 964) smoothly
+[2024-12-30 11:11:33] Random mouse move to (1612, 964)
+[2024-12-30 11:11:34] Moved mouse to (1261, 435) smoothly
+[2024-12-30 11:11:34] Clicked on component 'planet5' at (1261, 435)
+[2024-12-30 11:11:37] Moved mouse to (708, 717) smoothly
+[2024-12-30 11:11:37] Clicked on component 'button_selectexpocargos' at (708, 717)
+[2024-12-30 11:11:37] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:11:42] Waited for 0.09 minutes
+[2024-12-30 11:11:43] Moved mouse to (698, 721) smoothly
+[2024-12-30 11:11:44] Clicked on component 'button_selectexpocargos' at (698, 721)
+[2024-12-30 11:11:44] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:11:49] Waited for 0.09 minutes
+[2024-12-30 11:11:50] Moved mouse to (1172, 751) smoothly
+[2024-12-30 11:11:50] Clicked on component 'button_continue_fleet' at (1172, 751)
+[2024-12-30 11:11:53] Moved mouse to (616, 504) smoothly
+[2024-12-30 11:11:53] Clicked on component 'button_expedition' at (616, 504)
+[2024-12-30 11:11:53] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:11:55] Moved mouse to (478, 335) smoothly
+[2024-12-30 11:11:55] Random mouse move to (478, 335)
+[2024-12-30 11:11:56] Moved mouse to (1347, 892) smoothly
+[2024-12-30 11:11:56] Random mouse move to (1347, 892)
+[2024-12-30 11:11:58] Moved mouse to (1052, 860) smoothly
+[2024-12-30 11:11:59] Clicked on component 'button_send' at (1052, 860)
+[2024-12-30 11:12:00] Moved mouse to (1289, 481) smoothly
+[2024-12-30 11:12:00] Clicked on component 'planet6' at (1289, 481)
+[2024-12-30 11:12:00] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:12:08] Waited for 0.12 minutes
+[2024-12-30 11:12:09] Moved mouse to (698, 728) smoothly
+[2024-12-30 11:12:09] Clicked on component 'button_selectexpocargos' at (698, 728)
+[2024-12-30 11:12:09] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:12:11] Moved mouse to (275, 278) smoothly
+[2024-12-30 11:12:11] Random mouse move to (275, 278)
+[2024-12-30 11:12:13] Moved mouse to (709, 720) smoothly
+[2024-12-30 11:12:14] Clicked on component 'button_selectexpocargos' at (709, 720)
+[2024-12-30 11:12:14] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:12:15] Moved mouse to (912, 266) smoothly
+[2024-12-30 11:12:15] Random mouse move to (912, 266)
+[2024-12-30 11:12:18] Moved mouse to (240, 718) smoothly
+[2024-12-30 11:12:18] Random mouse move to (240, 718)
+[2024-12-30 11:12:24] Waited for 0.11 minutes
+[2024-12-30 11:12:26] Moved mouse to (1129, 743) smoothly
+[2024-12-30 11:12:26] Clicked on component 'button_continue_fleet' at (1129, 743)
+[2024-12-30 11:12:26] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:12:28] Moved mouse to (878, 897) smoothly
+[2024-12-30 11:12:28] Random mouse move to (878, 897)
+[2024-12-30 11:12:30] Moved mouse to (1691, 756) smoothly
+[2024-12-30 11:12:30] Random mouse move to (1691, 756)
+[2024-12-30 11:12:32] Moved mouse to (580, 496) smoothly
+[2024-12-30 11:12:32] Clicked on component 'button_expedition' at (580, 496)
+[2024-12-30 11:12:32] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:12:34] Moved mouse to (977, 468) smoothly
+[2024-12-30 11:12:34] Random mouse move to (977, 468)
+[2024-12-30 11:12:36] Moved mouse to (1001, 858) smoothly
+[2024-12-30 11:12:36] Clicked on component 'button_send' at (1001, 858)
+[2024-12-30 11:12:38] Moved mouse to (1257, 524) smoothly
+[2024-12-30 11:12:38] Clicked on component 'planet7' at (1257, 524)
+[2024-12-30 11:12:38] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:12:42] Waited for 0.08 minutes
+[2024-12-30 11:12:44] Moved mouse to (693, 722) smoothly
+[2024-12-30 11:12:44] Clicked on component 'button_selectexpocargos' at (693, 722)
+[2024-12-30 11:12:46] Moved mouse to (708, 729) smoothly
+[2024-12-30 11:12:46] Clicked on component 'button_selectexpocargos' at (708, 729)
+[2024-12-30 11:12:46] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:12:48] Moved mouse to (1536, 440) smoothly
+[2024-12-30 11:12:48] Random mouse move to (1536, 440)
+[2024-12-30 11:12:49] Moved mouse to (1897, 797) smoothly
+[2024-12-30 11:12:49] Random mouse move to (1897, 797)
+[2024-12-30 11:12:49] Waited for 0.01 minutes
+[2024-12-30 11:12:52] Moved mouse to (1112, 756) smoothly
+[2024-12-30 11:12:52] Clicked on component 'button_continue_fleet' at (1112, 756)
+[2024-12-30 11:12:54] Moved mouse to (581, 494) smoothly
+[2024-12-30 11:12:54] Clicked on component 'button_expedition' at (581, 494)
+[2024-12-30 11:12:54] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:12:56] Moved mouse to (689, 910) smoothly
+[2024-12-30 11:12:56] Random mouse move to (689, 910)
+[2024-12-30 11:12:57] Moved mouse to (1007, 877) smoothly
+[2024-12-30 11:12:58] Clicked on component 'button_send' at (1007, 877)
+[2024-12-30 11:12:59] Moved mouse to (1296, 587) smoothly
+[2024-12-30 11:13:00] Clicked on component 'planet8' at (1296, 587)
+[2024-12-30 11:13:02] Moved mouse to (700, 725) smoothly
+[2024-12-30 11:13:02] Clicked on component 'button_selectexpocargos' at (700, 725)
+[2024-12-30 11:13:02] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:13:04] Moved mouse to (409, 12) smoothly
+[2024-12-30 11:13:04] Random mouse move to (409, 12)
+[2024-12-30 11:13:05] Moved mouse to (695, 728) smoothly
+[2024-12-30 11:13:05] Clicked on component 'button_selectexpocargos' at (695, 728)
+[2024-12-30 11:13:07] Moved mouse to (1167, 744) smoothly
+[2024-12-30 11:13:07] Clicked on component 'button_continue_fleet' at (1167, 744)
+[2024-12-30 11:13:07] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:13:09] Moved mouse to (427, 747) smoothly
+[2024-12-30 11:13:09] Random mouse move to (427, 747)
+[2024-12-30 11:13:11] Moved mouse to (1380, 43) smoothly
+[2024-12-30 11:13:11] Random mouse move to (1380, 43)
+[2024-12-30 11:13:17] Waited for 0.10 minutes
+[2024-12-30 11:13:18] Moved mouse to (580, 498) smoothly
+[2024-12-30 11:13:19] Clicked on component 'button_expedition' at (580, 498)
+[2024-12-30 11:13:21] Moved mouse to (1055, 881) smoothly
+[2024-12-30 11:13:21] Clicked on component 'button_send' at (1055, 881)
+[2024-12-30 11:13:21] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:13:23] Moved mouse to (913, 322) smoothly
+[2024-12-30 11:13:23] Random mouse move to (913, 322)
+[2024-12-30 11:13:25] Moved mouse to (1220, 246) smoothly
+[2024-12-30 11:13:25] Random mouse move to (1220, 246)
+[2024-12-30 11:13:26] Moved mouse to (1287, 618) smoothly
+[2024-12-30 11:13:26] Clicked on component 'planet9' at (1287, 618)
+[2024-12-30 11:13:26] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:13:28] Moved mouse to (1145, 13) smoothly
+[2024-12-30 11:13:28] Random mouse move to (1145, 13)
+[2024-12-30 11:13:30] Moved mouse to (26, 232) smoothly
+[2024-12-30 11:13:30] Random mouse move to (26, 232)
+[2024-12-30 11:13:32] Moved mouse to (476, 464) smoothly
+[2024-12-30 11:13:32] Clicked on component 'button_fleet' at (476, 464)
+[2024-12-30 11:13:34] Moved mouse to (702, 728) smoothly
+[2024-12-30 11:13:34] Clicked on component 'button_selectexpocargos' at (702, 728)
+[2024-12-30 11:13:34] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:13:35] Moved mouse to (1295, 278) smoothly
+[2024-12-30 11:13:35] Random mouse move to (1295, 278)
+[2024-12-30 11:13:37] Moved mouse to (1055, 366) smoothly
+[2024-12-30 11:13:37] Random mouse move to (1055, 366)
+[2024-12-30 11:13:40] Waited for 0.05 minutes
+[2024-12-30 11:13:42] Moved mouse to (710, 722) smoothly
+[2024-12-30 11:13:42] Clicked on component 'button_selectexpocargos' at (710, 722)
+[2024-12-30 11:13:44] Moved mouse to (1133, 748) smoothly
+[2024-12-30 11:13:44] Clicked on component 'button_continue_fleet' at (1133, 748)
+[2024-12-30 11:13:44] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:13:48] Waited for 0.08 minutes
+[2024-12-30 11:13:50] Moved mouse to (601, 478) smoothly
+[2024-12-30 11:13:50] Clicked on component 'button_expedition' at (601, 478)
+[2024-12-30 11:13:52] Moved mouse to (1184, 872) smoothly
+[2024-12-30 11:13:53] Clicked on component 'button_send' at (1184, 872)
+[2024-12-30 11:13:53] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:13:55] Moved mouse to (1243, 300) smoothly
+[2024-12-30 11:13:55] Random mouse move to (1243, 300)
+[2024-12-30 11:13:57] Moved mouse to (1018, 599) smoothly
+[2024-12-30 11:13:57] Random mouse move to (1018, 599)
+[2024-12-30 11:14:03] Waited for 0.11 minutes
+[2024-12-30 11:14:06] Moved mouse to (1272, 671) smoothly
+[2024-12-30 11:14:06] Clicked on component 'planet10' at (1272, 671)
+[2024-12-30 11:14:06] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:14:08] Moved mouse to (776, 435) smoothly
+[2024-12-30 11:14:08] Random mouse move to (776, 435)
+[2024-12-30 11:14:10] Moved mouse to (1652, 412) smoothly
+[2024-12-30 11:14:10] Random mouse move to (1652, 412)
+[2024-12-30 11:14:16] Waited for 0.11 minutes
+[2024-12-30 11:14:18] Moved mouse to (690, 717) smoothly
+[2024-12-30 11:14:18] Clicked on component 'button_selectexpocargos' at (690, 717)
+[2024-12-30 11:14:21] Moved mouse to (702, 727) smoothly
+[2024-12-30 11:14:21] Clicked on component 'button_selectexpocargos' at (702, 727)
+[2024-12-30 11:14:21] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:14:29] Waited for 0.15 minutes
+[2024-12-30 11:14:31] Moved mouse to (1143, 751) smoothly
+[2024-12-30 11:14:31] Clicked on component 'button_continue_fleet' at (1143, 751)
+[2024-12-30 11:14:31] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:14:33] Moved mouse to (1879, 180) smoothly
+[2024-12-30 11:14:33] Random mouse move to (1879, 180)
+[2024-12-30 11:14:35] Moved mouse to (615, 485) smoothly
+[2024-12-30 11:14:35] Clicked on component 'button_expedition' at (615, 485)
+[2024-12-30 11:14:36] Moved mouse to (1165, 887) smoothly
+[2024-12-30 11:14:37] Clicked on component 'button_send' at (1165, 887)
+[2024-12-30 11:14:37] Calling scenario: mustdo\shortexpounigaspara.txt
+[2024-12-30 11:14:39] Moved mouse to (888, 20) smoothly
+[2024-12-30 11:14:39] Clicked on component 'chrometab3' at (888, 20)
+[2024-12-30 11:14:39] Last Chrome tab set to: chrometab3
+[2024-12-30 11:14:39] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:14:41] Moved mouse to (1773, 738) smoothly
+[2024-12-30 11:14:41] Random mouse move to (1773, 738)
+[2024-12-30 11:14:42] Moved mouse to (400, 170) smoothly
+[2024-12-30 11:14:42] Random mouse move to (400, 170)
+[2024-12-30 11:14:48] Waited for 0.10 minutes
+[2024-12-30 11:14:48] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:14:50] Moved mouse to (255, 568) smoothly
+[2024-12-30 11:14:50] Random mouse move to (255, 568)
+[2024-12-30 11:14:53] Moved mouse to (421, 267) smoothly
+[2024-12-30 11:14:53] Clicked on component 'overview' at (421, 267)
+[2024-12-30 11:14:53] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:14:55] Moved mouse to (276, 397) smoothly
+[2024-12-30 11:14:55] Random mouse move to (276, 397)
+[2024-12-30 11:14:57] Moved mouse to (109, 441) smoothly
+[2024-12-30 11:14:57] Clicked on component 'empty_area' at (109, 441)
+[2024-12-30 11:14:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:15:00] Moved mouse to (24, 657) smoothly
+[2024-12-30 11:15:00] Random mouse move to (24, 657)
+[2024-12-30 11:15:01] Moved mouse to (1516, 148) smoothly
+[2024-12-30 11:15:01] Random mouse move to (1516, 148)
+[2024-12-30 11:15:05] Waited for 0.07 minutes
+[2024-12-30 11:15:07] Moved mouse to (1247, 258) smoothly
+[2024-12-30 11:15:07] Clicked on component 'planet1' at (1247, 258)
+[2024-12-30 11:15:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:15:09] Moved mouse to (1716, 225) smoothly
+[2024-12-30 11:15:09] Random mouse move to (1716, 225)
+[2024-12-30 11:15:11] Moved mouse to (431, 459) smoothly
+[2024-12-30 11:15:11] Clicked on component 'button_fleet' at (431, 459)
+[2024-12-30 11:15:12] Moved mouse to (707, 724) smoothly
+[2024-12-30 11:15:12] Clicked on component 'button_selectexpocargos' at (707, 724)
+[2024-12-30 11:15:14] Moved mouse to (701, 716) smoothly
+[2024-12-30 11:15:14] Clicked on component 'button_selectexpocargos' at (701, 716)
+[2024-12-30 11:15:14] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:15:16] Moved mouse to (1466, 620) smoothly
+[2024-12-30 11:15:16] Random mouse move to (1466, 620)
+[2024-12-30 11:15:18] Moved mouse to (414, 677) smoothly
+[2024-12-30 11:15:18] Random mouse move to (414, 677)
+[2024-12-30 11:15:22] Waited for 0.07 minutes
+[2024-12-30 11:15:23] Moved mouse to (1108, 765) smoothly
+[2024-12-30 11:15:23] Clicked on component 'button_continue_fleet' at (1108, 765)
+[2024-12-30 11:15:25] Moved mouse to (609, 498) smoothly
+[2024-12-30 11:15:25] Clicked on component 'button_expedition' at (609, 498)
+[2024-12-30 11:15:25] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:15:26] Moved mouse to (598, 820) smoothly
+[2024-12-30 11:15:26] Random mouse move to (598, 820)
+[2024-12-30 11:15:28] Moved mouse to (1551, 41) smoothly
+[2024-12-30 11:15:28] Random mouse move to (1551, 41)
+[2024-12-30 11:15:34] Waited for 0.12 minutes
+[2024-12-30 11:15:37] Moved mouse to (1002, 855) smoothly
+[2024-12-30 11:15:37] Clicked on component 'button_send' at (1002, 855)
+[2024-12-30 11:15:37] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:15:39] Moved mouse to (1278, 552) smoothly
+[2024-12-30 11:15:39] Random mouse move to (1278, 552)
+[2024-12-30 11:15:41] Moved mouse to (199, 667) smoothly
+[2024-12-30 11:15:41] Random mouse move to (199, 667)
+[2024-12-30 11:15:43] Waited for 0.04 minutes
+[2024-12-30 11:15:46] Moved mouse to (1263, 312) smoothly
+[2024-12-30 11:15:46] Clicked on component 'planet2' at (1263, 312)
+[2024-12-30 11:15:47] Moved mouse to (710, 723) smoothly
+[2024-12-30 11:15:47] Clicked on component 'button_selectexpocargos' at (710, 723)
+[2024-12-30 11:15:49] Moved mouse to (705, 721) smoothly
+[2024-12-30 11:15:49] Clicked on component 'button_selectexpocargos' at (705, 721)
+[2024-12-30 11:15:49] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:15:51] Moved mouse to (865, 668) smoothly
+[2024-12-30 11:15:51] Random mouse move to (865, 668)
+[2024-12-30 11:15:53] Moved mouse to (1566, 278) smoothly
+[2024-12-30 11:15:53] Random mouse move to (1566, 278)
+[2024-12-30 11:15:55] Moved mouse to (1106, 741) smoothly
+[2024-12-30 11:15:55] Clicked on component 'button_continue_fleet' at (1106, 741)
+[2024-12-30 11:15:55] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:15:56] Moved mouse to (1093, 584) smoothly
+[2024-12-30 11:15:56] Random mouse move to (1093, 584)
+[2024-12-30 11:15:58] Moved mouse to (1899, 664) smoothly
+[2024-12-30 11:15:58] Random mouse move to (1899, 664)
+[2024-12-30 11:16:01] Moved mouse to (579, 474) smoothly
+[2024-12-30 11:16:01] Clicked on component 'button_expedition' at (579, 474)
+[2024-12-30 11:16:01] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:16:02] Moved mouse to (1546, 905) smoothly
+[2024-12-30 11:16:02] Random mouse move to (1546, 905)
+[2024-12-30 11:16:04] Moved mouse to (1171, 866) smoothly
+[2024-12-30 11:16:04] Clicked on component 'button_send' at (1171, 866)
+[2024-12-30 11:16:04] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:16:11] Waited for 0.13 minutes
+[2024-12-30 11:16:14] Moved mouse to (1283, 352) smoothly
+[2024-12-30 11:16:14] Clicked on component 'planet3' at (1283, 352)
+[2024-12-30 11:16:15] Moved mouse to (695, 728) smoothly
+[2024-12-30 11:16:16] Clicked on component 'button_selectexpocargos' at (695, 728)
+[2024-12-30 11:16:16] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:16:17] Moved mouse to (489, 605) smoothly
+[2024-12-30 11:16:17] Random mouse move to (489, 605)
+[2024-12-30 11:16:19] Moved mouse to (695, 727) smoothly
+[2024-12-30 11:16:19] Clicked on component 'button_selectexpocargos' at (695, 727)
+[2024-12-30 11:16:21] Moved mouse to (1189, 765) smoothly
+[2024-12-30 11:16:21] Clicked on component 'button_continue_fleet' at (1189, 765)
+[2024-12-30 11:16:23] Moved mouse to (588, 505) smoothly
+[2024-12-30 11:16:23] Clicked on component 'button_expedition' at (588, 505)
+[2024-12-30 11:16:23] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:16:24] Moved mouse to (129, 865) smoothly
+[2024-12-30 11:16:24] Random mouse move to (129, 865)
+[2024-12-30 11:16:26] Moved mouse to (211, 653) smoothly
+[2024-12-30 11:16:26] Random mouse move to (211, 653)
+[2024-12-30 11:16:28] Moved mouse to (1138, 855) smoothly
+[2024-12-30 11:16:28] Clicked on component 'button_send' at (1138, 855)
+[2024-12-30 11:16:28] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:16:36] Waited for 0.14 minutes
+[2024-12-30 11:16:39] Moved mouse to (1286, 393) smoothly
+[2024-12-30 11:16:39] Clicked on component 'planet4' at (1286, 393)
+[2024-12-30 11:16:39] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:16:41] Moved mouse to (1807, 641) smoothly
+[2024-12-30 11:16:41] Random mouse move to (1807, 641)
+[2024-12-30 11:16:43] Moved mouse to (958, 176) smoothly
+[2024-12-30 11:16:43] Random mouse move to (958, 176)
+[2024-12-30 11:16:45] Moved mouse to (701, 720) smoothly
+[2024-12-30 11:16:45] Clicked on component 'button_selectexpocargos' at (701, 720)
+[2024-12-30 11:16:46] Moved mouse to (688, 716) smoothly
+[2024-12-30 11:16:46] Clicked on component 'button_selectexpocargos' at (688, 716)
+[2024-12-30 11:16:46] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:16:48] Moved mouse to (1155, 759) smoothly
+[2024-12-30 11:16:48] Random mouse move to (1155, 759)
+[2024-12-30 11:16:50] Moved mouse to (98, 301) smoothly
+[2024-12-30 11:16:50] Random mouse move to (98, 301)
+[2024-12-30 11:16:52] Moved mouse to (1114, 764) smoothly
+[2024-12-30 11:16:52] Clicked on component 'button_continue_fleet' at (1114, 764)
+[2024-12-30 11:16:52] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:16:54] Moved mouse to (42, 996) smoothly
+[2024-12-30 11:16:54] Random mouse move to (42, 996)
+[2024-12-30 11:16:56] Moved mouse to (600, 494) smoothly
+[2024-12-30 11:16:56] Clicked on component 'button_expedition' at (600, 494)
+[2024-12-30 11:16:56] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:16:59] Moved mouse to (758, 38) smoothly
+[2024-12-30 11:16:59] Random mouse move to (758, 38)
+[2024-12-30 11:17:01] Moved mouse to (1135, 886) smoothly
+[2024-12-30 11:17:01] Clicked on component 'button_send' at (1135, 886)
+[2024-12-30 11:17:01] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:17:03] Moved mouse to (1837, 463) smoothly
+[2024-12-30 11:17:03] Random mouse move to (1837, 463)
+[2024-12-30 11:17:05] Moved mouse to (1894, 1004) smoothly
+[2024-12-30 11:17:05] Random mouse move to (1894, 1004)
+[2024-12-30 11:17:07] Moved mouse to (1271, 440) smoothly
+[2024-12-30 11:17:07] Clicked on component 'planet5' at (1271, 440)
+[2024-12-30 11:17:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:17:09] Moved mouse to (1462, 664) smoothly
+[2024-12-30 11:17:09] Random mouse move to (1462, 664)
+[2024-12-30 11:17:10] Moved mouse to (710, 725) smoothly
+[2024-12-30 11:17:10] Clicked on component 'button_selectexpocargos' at (710, 725)
+[2024-12-30 11:17:10] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:17:14] Waited for 0.07 minutes
+[2024-12-30 11:17:16] Moved mouse to (698, 721) smoothly
+[2024-12-30 11:17:16] Clicked on component 'button_selectexpocargos' at (698, 721)
+[2024-12-30 11:17:18] Moved mouse to (1116, 756) smoothly
+[2024-12-30 11:17:18] Clicked on component 'button_continue_fleet' at (1116, 756)
+[2024-12-30 11:17:19] Moved mouse to (607, 487) smoothly
+[2024-12-30 11:17:19] Clicked on component 'button_expedition' at (607, 487)
+[2024-12-30 11:17:21] Moved mouse to (1066, 891) smoothly
+[2024-12-30 11:17:22] Clicked on component 'button_send' at (1066, 891)
+[2024-12-30 11:17:22] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:17:24] Moved mouse to (1615, 510) smoothly
+[2024-12-30 11:17:24] Random mouse move to (1615, 510)
+[2024-12-30 11:17:26] Moved mouse to (1629, 446) smoothly
+[2024-12-30 11:17:26] Random mouse move to (1629, 446)
+[2024-12-30 11:17:28] Moved mouse to (1257, 489) smoothly
+[2024-12-30 11:17:28] Clicked on component 'planet6' at (1257, 489)
+[2024-12-30 11:17:30] Moved mouse to (700, 724) smoothly
+[2024-12-30 11:17:30] Clicked on component 'button_selectexpocargos' at (700, 724)
+[2024-12-30 11:17:31] Moved mouse to (696, 724) smoothly
+[2024-12-30 11:17:32] Clicked on component 'button_selectexpocargos' at (696, 724)
+[2024-12-30 11:17:32] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:17:34] Moved mouse to (1690, 843) smoothly
+[2024-12-30 11:17:34] Random mouse move to (1690, 843)
+[2024-12-30 11:17:35] Moved mouse to (836, 309) smoothly
+[2024-12-30 11:17:35] Random mouse move to (836, 309)
+[2024-12-30 11:17:37] Moved mouse to (1104, 759) smoothly
+[2024-12-30 11:17:37] Clicked on component 'button_continue_fleet' at (1104, 759)
+[2024-12-30 11:17:37] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:17:45] Waited for 0.15 minutes
+[2024-12-30 11:17:47] Moved mouse to (612, 474) smoothly
+[2024-12-30 11:17:47] Clicked on component 'button_expedition' at (612, 474)
+[2024-12-30 11:17:47] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:17:49] Moved mouse to (1100, 563) smoothly
+[2024-12-30 11:17:49] Random mouse move to (1100, 563)
+[2024-12-30 11:17:51] Moved mouse to (1174, 858) smoothly
+[2024-12-30 11:17:51] Clicked on component 'button_send' at (1174, 858)
+[2024-12-30 11:17:51] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:17:53] Moved mouse to (1062, 1011) smoothly
+[2024-12-30 11:17:53] Random mouse move to (1062, 1011)
+[2024-12-30 11:17:55] Moved mouse to (1624, 843) smoothly
+[2024-12-30 11:17:55] Random mouse move to (1624, 843)
+[2024-12-30 11:17:55] Waited for 0.01 minutes
+[2024-12-30 11:17:57] Moved mouse to (1254, 531) smoothly
+[2024-12-30 11:17:57] Clicked on component 'planet7' at (1254, 531)
+[2024-12-30 11:17:58] Moved mouse to (709, 726) smoothly
+[2024-12-30 11:17:58] Clicked on component 'button_selectexpocargos' at (709, 726)
+[2024-12-30 11:18:00] Moved mouse to (705, 716) smoothly
+[2024-12-30 11:18:00] Clicked on component 'button_selectexpocargos' at (705, 716)
+[2024-12-30 11:18:02] Moved mouse to (1119, 747) smoothly
+[2024-12-30 11:18:02] Clicked on component 'button_continue_fleet' at (1119, 747)
+[2024-12-30 11:18:02] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:18:10] Waited for 0.15 minutes
+[2024-12-30 11:18:12] Moved mouse to (584, 512) smoothly
+[2024-12-30 11:18:12] Clicked on component 'button_expedition' at (584, 512)
+[2024-12-30 11:18:14] Moved mouse to (1142, 882) smoothly
+[2024-12-30 11:18:15] Clicked on component 'button_send' at (1142, 882)
+[2024-12-30 11:18:15] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:18:19] Waited for 0.07 minutes
+[2024-12-30 11:18:21] Moved mouse to (1267, 586) smoothly
+[2024-12-30 11:18:21] Clicked on component 'planet8' at (1267, 586)
+[2024-12-30 11:18:21] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:18:25] Waited for 0.07 minutes
+[2024-12-30 11:18:27] Moved mouse to (688, 725) smoothly
+[2024-12-30 11:18:27] Clicked on component 'button_selectexpocargos' at (688, 725)
+[2024-12-30 11:18:28] Moved mouse to (695, 719) smoothly
+[2024-12-30 11:18:29] Clicked on component 'button_selectexpocargos' at (695, 719)
+[2024-12-30 11:18:29] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:18:30] Moved mouse to (213, 929) smoothly
+[2024-12-30 11:18:30] Random mouse move to (213, 929)
+[2024-12-30 11:18:32] Moved mouse to (1304, 694) smoothly
+[2024-12-30 11:18:32] Random mouse move to (1304, 694)
+[2024-12-30 11:18:34] Waited for 0.04 minutes
+[2024-12-30 11:18:36] Moved mouse to (1175, 758) smoothly
+[2024-12-30 11:18:36] Clicked on component 'button_continue_fleet' at (1175, 758)
+[2024-12-30 11:18:36] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:18:39] Moved mouse to (1438, 360) smoothly
+[2024-12-30 11:18:39] Random mouse move to (1438, 360)
+[2024-12-30 11:18:41] Moved mouse to (229, 267) smoothly
+[2024-12-30 11:18:41] Random mouse move to (229, 267)
+[2024-12-30 11:18:46] Waited for 0.09 minutes
+[2024-12-30 11:18:48] Moved mouse to (605, 482) smoothly
+[2024-12-30 11:18:48] Clicked on component 'button_expedition' at (605, 482)
+[2024-12-30 11:18:48] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:18:50] Moved mouse to (300, 549) smoothly
+[2024-12-30 11:18:50] Random mouse move to (300, 549)
+[2024-12-30 11:18:52] Moved mouse to (1749, 1002) smoothly
+[2024-12-30 11:18:52] Random mouse move to (1749, 1002)
+[2024-12-30 11:18:54] Moved mouse to (1177, 872) smoothly
+[2024-12-30 11:18:54] Clicked on component 'button_send' at (1177, 872)
+[2024-12-30 11:18:54] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:18:56] Moved mouse to (1766, 679) smoothly
+[2024-12-30 11:18:56] Random mouse move to (1766, 679)
+[2024-12-30 11:18:58] Moved mouse to (1456, 350) smoothly
+[2024-12-30 11:18:58] Random mouse move to (1456, 350)
+[2024-12-30 11:18:59] Moved mouse to (1251, 630) smoothly
+[2024-12-30 11:18:59] Clicked on component 'planet9' at (1251, 630)
+[2024-12-30 11:19:02] Moved mouse to (692, 721) smoothly
+[2024-12-30 11:19:02] Clicked on component 'button_selectexpocargos' at (692, 721)
+[2024-12-30 11:19:03] Moved mouse to (1158, 751) smoothly
+[2024-12-30 11:19:03] Clicked on component 'button_continue_fleet' at (1158, 751)
+[2024-12-30 11:19:03] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:19:11] Waited for 0.15 minutes
+[2024-12-30 11:19:14] Moved mouse to (612, 477) smoothly
+[2024-12-30 11:19:14] Clicked on component 'button_expedition' at (612, 477)
+[2024-12-30 11:19:14] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:19:15] Moved mouse to (74, 455) smoothly
+[2024-12-30 11:19:15] Random mouse move to (74, 455)
+[2024-12-30 11:19:16] Moved mouse to (1081, 726) smoothly
+[2024-12-30 11:19:16] Random mouse move to (1081, 726)
+[2024-12-30 11:19:23] Waited for 0.11 minutes
+[2024-12-30 11:19:25] Moved mouse to (1104, 852) smoothly
+[2024-12-30 11:19:25] Clicked on component 'button_send' at (1104, 852)
+[2024-12-30 11:19:25] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:19:27] Moved mouse to (778, 860) smoothly
+[2024-12-30 11:19:27] Random mouse move to (778, 860)
+[2024-12-30 11:19:29] Moved mouse to (1284, 666) smoothly
+[2024-12-30 11:19:29] Clicked on component 'planet10' at (1284, 666)
+[2024-12-30 11:19:29] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:19:31] Moved mouse to (1857, 714) smoothly
+[2024-12-30 11:19:31] Random mouse move to (1857, 714)
+[2024-12-30 11:19:32] Moved mouse to (688, 730) smoothly
+[2024-12-30 11:19:32] Clicked on component 'button_selectexpocargos' at (688, 730)
+[2024-12-30 11:19:34] Moved mouse to (697, 719) smoothly
+[2024-12-30 11:19:34] Clicked on component 'button_selectexpocargos' at (697, 719)
+[2024-12-30 11:19:36] Moved mouse to (1129, 758) smoothly
+[2024-12-30 11:19:36] Clicked on component 'button_continue_fleet' at (1129, 758)
+[2024-12-30 11:19:36] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:19:43] Waited for 0.12 minutes
+[2024-12-30 11:19:45] Moved mouse to (609, 490) smoothly
+[2024-12-30 11:19:45] Clicked on component 'button_expedition' at (609, 490)
+[2024-12-30 11:19:47] Moved mouse to (964, 850) smoothly
+[2024-12-30 11:19:47] Clicked on component 'button_send' at (964, 850)
+[2024-12-30 11:19:50] Moved mouse to (609, 26) smoothly
+[2024-12-30 11:19:50] Clicked on component 'chrometab2' at (609, 26)
+[2024-12-30 11:19:50] Last Chrome tab set to: chrometab2
+[2024-12-30 11:19:50] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:19:51] Moved mouse to (402, 614) smoothly
+[2024-12-30 11:19:51] Random mouse move to (402, 614)
+[2024-12-30 11:19:53] Moved mouse to (1128, 905) smoothly
+[2024-12-30 11:19:53] Random mouse move to (1128, 905)
+[2024-12-30 11:19:58] Waited for 0.10 minutes
+[2024-12-30 11:19:58] Executing randos scenario: longwait
+[2024-12-30 11:19:58] Calling scenario: randos\longwait.txt
+[2024-12-30 11:22:30] Waited for 2.53 minutes
+[2024-12-30 11:22:30] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:22:32] Moved mouse to (389, 883) smoothly
+[2024-12-30 11:22:32] Random mouse move to (389, 883)
+[2024-12-30 11:22:32] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:22:35] Moved mouse to (362, 147) smoothly
+[2024-12-30 11:22:35] Random mouse move to (362, 147)
+[2024-12-30 11:22:36] Moved mouse to (1051, 170) smoothly
+[2024-12-30 11:22:36] Random mouse move to (1051, 170)
+[2024-12-30 11:22:36] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 11:22:36] Executing randos scenario: navigateallmoons
+[2024-12-30 11:22:36] Calling scenario: randos\navigateallmoons.txt
+[2024-12-30 11:22:48] Waited for 0.21 minutes
+[2024-12-30 11:22:48] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:22:50] Moved mouse to (1706, 203) smoothly
+[2024-12-30 11:22:50] Random mouse move to (1706, 203)
+[2024-12-30 11:22:52] Moved mouse to (1266, 861) smoothly
+[2024-12-30 11:22:52] Random mouse move to (1266, 861)
+[2024-12-30 11:22:52] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:22:54] Moved mouse to (1323, 376) smoothly
+[2024-12-30 11:22:54] Random mouse move to (1323, 376)
+[2024-12-30 11:22:56] Moved mouse to (1449, 129) smoothly
+[2024-12-30 11:22:56] Random mouse move to (1449, 129)
+[2024-12-30 11:22:58] Moved mouse to (395, 262) smoothly
+[2024-12-30 11:22:58] Clicked on component 'overview' at (395, 262)
+[2024-12-30 11:22:58] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:23:00] Moved mouse to (919, 543) smoothly
+[2024-12-30 11:23:00] Random mouse move to (919, 543)
+[2024-12-30 11:23:02] Moved mouse to (1425, 697) smoothly
+[2024-12-30 11:23:02] Random mouse move to (1425, 697)
+[2024-12-30 11:23:10] Waited for 0.12 minutes
+[2024-12-30 11:23:10] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 11:23:10] Executing randos scenario: navigatetomoon1
+[2024-12-30 11:23:10] Calling scenario: randos\navigatetomoon1.txt
+[2024-12-30 11:23:17] Waited for 0.13 minutes
+[2024-12-30 11:23:17] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:23:18] Moved mouse to (1851, 114) smoothly
+[2024-12-30 11:23:18] Random mouse move to (1851, 114)
+[2024-12-30 11:23:20] Moved mouse to (821, 345) smoothly
+[2024-12-30 11:23:20] Random mouse move to (821, 345)
+[2024-12-30 11:23:20] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:23:24] Waited for 0.07 minutes
+[2024-12-30 11:23:25] Moved mouse to (1414, 271) smoothly
+[2024-12-30 11:23:25] Clicked on component 'moon1' at (1414, 271)
+[2024-12-30 11:23:27] Moved mouse to (1797, 790) smoothly
+[2024-12-30 11:23:27] Random mouse move to (1797, 790)
+[2024-12-30 11:23:27] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:23:29] Moved mouse to (1758, 189) smoothly
+[2024-12-30 11:23:29] Random mouse move to (1758, 189)
+[2024-12-30 11:23:30] Moved mouse to (1703, 263) smoothly
+[2024-12-30 11:23:30] Random mouse move to (1703, 263)
+[2024-12-30 11:23:35] Waited for 0.09 minutes
+[2024-12-30 11:23:37] Moved mouse to (1000, 443) smoothly
+[2024-12-30 11:23:37] Random mouse move to (1000, 443)
+[2024-12-30 11:23:37] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:23:40] Waited for 0.06 minutes
+[2024-12-30 11:23:40] Skipping randos scenario: navigatetomoon2
+[2024-12-30 11:23:40] Error: Scenario file for 'navigatetomoon2' not found.
+[2024-12-30 11:23:40] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:23:42] Moved mouse to (756, 445) smoothly
+[2024-12-30 11:23:42] Random mouse move to (756, 445)
+[2024-12-30 11:23:43] Moved mouse to (1510, 458) smoothly
+[2024-12-30 11:23:43] Random mouse move to (1510, 458)
+[2024-12-30 11:23:45] Waited for 0.03 minutes
+[2024-12-30 11:23:47] Moved mouse to (161, 457) smoothly
+[2024-12-30 11:23:47] Random mouse move to (161, 457)
+[2024-12-30 11:23:47] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:23:49] Moved mouse to (1544, 807) smoothly
+[2024-12-30 11:23:49] Random mouse move to (1544, 807)
+[2024-12-30 11:23:50] Moved mouse to (912, 460) smoothly
+[2024-12-30 11:23:50] Random mouse move to (912, 460)
+[2024-12-30 11:23:53] Waited for 0.05 minutes
+[2024-12-30 11:23:53] Skipping randos scenario: navigatetomoon3
+[2024-12-30 11:23:53] Error: Scenario file for 'navigatetomoon3' not found.
+[2024-12-30 11:23:55] Moved mouse to (439, 553) smoothly
+[2024-12-30 11:23:55] Random mouse move to (439, 553)
+[2024-12-30 11:23:55] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:23:57] Moved mouse to (85, 857) smoothly
+[2024-12-30 11:23:57] Random mouse move to (85, 857)
+[2024-12-30 11:23:57] Executing randos scenario: navigatetomoon4
+[2024-12-30 11:23:57] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 11:24:04] Waited for 0.12 minutes
+[2024-12-30 11:24:05] Moved mouse to (37, 604) smoothly
+[2024-12-30 11:24:05] Random mouse move to (37, 604)
+[2024-12-30 11:24:07] Moved mouse to (1413, 396) smoothly
+[2024-12-30 11:24:07] Clicked on component 'moon4' at (1413, 396)
+[2024-12-30 11:24:07] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:24:09] Moved mouse to (1359, 921) smoothly
+[2024-12-30 11:24:09] Random mouse move to (1359, 921)
+[2024-12-30 11:24:11] Moved mouse to (534, 631) smoothly
+[2024-12-30 11:24:11] Random mouse move to (534, 631)
+[2024-12-30 11:24:12] Waited for 0.03 minutes
+[2024-12-30 11:24:14] Moved mouse to (230, 680) smoothly
+[2024-12-30 11:24:14] Random mouse move to (230, 680)
+[2024-12-30 11:24:14] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:24:16] Moved mouse to (1003, 876) smoothly
+[2024-12-30 11:24:16] Random mouse move to (1003, 876)
+[2024-12-30 11:24:18] Moved mouse to (723, 95) smoothly
+[2024-12-30 11:24:18] Random mouse move to (723, 95)
+[2024-12-30 11:24:23] Waited for 0.10 minutes
+[2024-12-30 11:24:25] Moved mouse to (1068, 783) smoothly
+[2024-12-30 11:24:25] Random mouse move to (1068, 783)
+[2024-12-30 11:24:25] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:24:27] Moved mouse to (570, 1001) smoothly
+[2024-12-30 11:24:27] Random mouse move to (570, 1001)
+[2024-12-30 11:24:27] Executing randos scenario: navigatetomoon5
+[2024-12-30 11:24:27] Calling scenario: randos\navigatetomoon5.txt
+[2024-12-30 11:24:38] Waited for 0.20 minutes
+[2024-12-30 11:24:40] Moved mouse to (975, 873) smoothly
+[2024-12-30 11:24:40] Random mouse move to (975, 873)
+[2024-12-30 11:24:42] Moved mouse to (1420, 439) smoothly
+[2024-12-30 11:24:42] Clicked on component 'moon5' at (1420, 439)
+[2024-12-30 11:24:42] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:24:45] Waited for 0.06 minutes
+[2024-12-30 11:24:47] Moved mouse to (1294, 361) smoothly
+[2024-12-30 11:24:47] Random mouse move to (1294, 361)
+[2024-12-30 11:24:49] Moved mouse to (822, 90) smoothly
+[2024-12-30 11:24:49] Random mouse move to (822, 90)
+[2024-12-30 11:24:49] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:24:51] Moved mouse to (752, 964) smoothly
+[2024-12-30 11:24:51] Random mouse move to (752, 964)
+[2024-12-30 11:24:53] Moved mouse to (324, 269) smoothly
+[2024-12-30 11:24:53] Random mouse move to (324, 269)
+[2024-12-30 11:24:53] Skipping randos scenario: navigatetomoon6
+[2024-12-30 11:24:53] Error: Scenario file for 'navigatetomoon6' not found.
+[2024-12-30 11:24:53] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:24:54] Moved mouse to (173, 613) smoothly
+[2024-12-30 11:24:54] Random mouse move to (173, 613)
+[2024-12-30 11:24:56] Moved mouse to (609, 975) smoothly
+[2024-12-30 11:24:56] Random mouse move to (609, 975)
+[2024-12-30 11:24:56] Skipping randos scenario: navigatetomoon7
+[2024-12-30 11:24:56] Error: Scenario file for 'navigatetomoon7' not found.
+[2024-12-30 11:24:57] Moved mouse to (441, 482) smoothly
+[2024-12-30 11:24:57] Random mouse move to (441, 482)
+[2024-12-30 11:24:57] Skipping randos scenario: navigatetomoon8
+[2024-12-30 11:24:57] Error: Scenario file for 'navigatetomoon8' not found.
+[2024-12-30 11:24:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:24:59] Moved mouse to (202, 684) smoothly
+[2024-12-30 11:24:59] Random mouse move to (202, 684)
+[2024-12-30 11:25:00] Moved mouse to (122, 579) smoothly
+[2024-12-30 11:25:00] Random mouse move to (122, 579)
+[2024-12-30 11:25:02] Waited for 0.04 minutes
+[2024-12-30 11:25:04] Moved mouse to (12, 171) smoothly
+[2024-12-30 11:25:04] Random mouse move to (12, 171)
+[2024-12-30 11:25:04] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:25:11] Waited for 0.12 minutes
+[2024-12-30 11:25:11] Executing randos scenario: navigatetomoon9
+[2024-12-30 11:25:11] Calling scenario: randos\navigatetomoon9.txt
+[2024-12-30 11:25:19] Waited for 0.15 minutes
+[2024-12-30 11:25:19] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:25:27] Waited for 0.13 minutes
+[2024-12-30 11:25:29] Moved mouse to (1890, 240) smoothly
+[2024-12-30 11:25:29] Random mouse move to (1890, 240)
+[2024-12-30 11:25:29] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:25:31] Moved mouse to (1482, 1015) smoothly
+[2024-12-30 11:25:31] Random mouse move to (1482, 1015)
+[2024-12-30 11:25:33] Moved mouse to (1918, 238) smoothly
+[2024-12-30 11:25:33] Random mouse move to (1918, 238)
+[2024-12-30 11:25:35] Moved mouse to (1426, 623) smoothly
+[2024-12-30 11:25:35] Clicked on component 'moon9' at (1426, 623)
+[2024-12-30 11:25:35] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:25:37] Moved mouse to (1063, 630) smoothly
+[2024-12-30 11:25:37] Random mouse move to (1063, 630)
+[2024-12-30 11:25:38] Moved mouse to (944, 854) smoothly
+[2024-12-30 11:25:38] Random mouse move to (944, 854)
+[2024-12-30 11:25:40] Moved mouse to (1863, 647) smoothly
+[2024-12-30 11:25:40] Random mouse move to (1863, 647)
+[2024-12-30 11:25:42] Moved mouse to (635, 297) smoothly
+[2024-12-30 11:25:42] Random mouse move to (635, 297)
+[2024-12-30 11:25:42] Executing randos scenario: navigatetomoon10
+[2024-12-30 11:25:42] Calling scenario: randos\navigatetomoon10.txt
+[2024-12-30 11:25:53] Waited for 0.19 minutes
+[2024-12-30 11:25:55] Moved mouse to (448, 692) smoothly
+[2024-12-30 11:25:55] Random mouse move to (448, 692)
+[2024-12-30 11:25:56] Moved mouse to (1422, 666) smoothly
+[2024-12-30 11:25:56] Clicked on component 'moon10' at (1422, 666)
+[2024-12-30 11:25:58] Moved mouse to (765, 9) smoothly
+[2024-12-30 11:25:58] Random mouse move to (765, 9)
+[2024-12-30 11:25:58] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:26:00] Moved mouse to (1002, 263) smoothly
+[2024-12-30 11:26:00] Random mouse move to (1002, 263)
+[2024-12-30 11:26:02] Moved mouse to (186, 210) smoothly
+[2024-12-30 11:26:02] Random mouse move to (186, 210)
+[2024-12-30 11:26:02] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:26:04] Moved mouse to (438, 555) smoothly
+[2024-12-30 11:26:04] Random mouse move to (438, 555)
+[2024-12-30 11:26:04] Skipping randos scenario: navigatetomoon11
+[2024-12-30 11:26:04] Error: Scenario file for 'navigatetomoon11' not found.
+[2024-12-30 11:26:06] Moved mouse to (257, 515) smoothly
+[2024-12-30 11:26:06] Random mouse move to (257, 515)
+[2024-12-30 11:26:06] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:26:08] Moved mouse to (389, 124) smoothly
+[2024-12-30 11:26:08] Random mouse move to (389, 124)
+[2024-12-30 11:26:10] Moved mouse to (1696, 750) smoothly
+[2024-12-30 11:26:10] Random mouse move to (1696, 750)
+[2024-12-30 11:26:15] Waited for 0.09 minutes
+[2024-12-30 11:26:16] Moved mouse to (1141, 706) smoothly
+[2024-12-30 11:26:16] Random mouse move to (1141, 706)
+[2024-12-30 11:26:16] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:26:18] Moved mouse to (937, 822) smoothly
+[2024-12-30 11:26:18] Random mouse move to (937, 822)
+[2024-12-30 11:26:18] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:26:20] Moved mouse to (1265, 367) smoothly
+[2024-12-30 11:26:20] Random mouse move to (1265, 367)
+[2024-12-30 11:26:20] Executing randos scenario: navigateallplanets
+[2024-12-30 11:26:20] Calling scenario: randos\navigateallplanets.txt
+[2024-12-30 11:26:27] Waited for 0.13 minutes
+[2024-12-30 11:26:27] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:26:30] Waited for 0.06 minutes
+[2024-12-30 11:26:33] Moved mouse to (519, 353) smoothly
+[2024-12-30 11:26:33] Random mouse move to (519, 353)
+[2024-12-30 11:26:35] Moved mouse to (474, 263) smoothly
+[2024-12-30 11:26:35] Clicked on component 'overview' at (474, 263)
+[2024-12-30 11:26:35] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:26:36] Moved mouse to (1854, 91) smoothly
+[2024-12-30 11:26:36] Random mouse move to (1854, 91)
+[2024-12-30 11:26:38] Moved mouse to (56, 809) smoothly
+[2024-12-30 11:26:38] Random mouse move to (56, 809)
+[2024-12-30 11:26:38] Error: Component 'emptyarea' not found in mapping. Skipping.
+[2024-12-30 11:26:38] Executing randos scenario: navigatetoplanet1
+[2024-12-30 11:26:38] Calling scenario: randos\navigatetoplanet1.txt
+[2024-12-30 11:26:51] Waited for 0.22 minutes
+[2024-12-30 11:26:53] Moved mouse to (1917, 313) smoothly
+[2024-12-30 11:26:53] Random mouse move to (1917, 313)
+[2024-12-30 11:26:55] Moved mouse to (132, 738) smoothly
+[2024-12-30 11:26:55] Clicked on component 'empty_area' at (132, 738)
+[2024-12-30 11:26:58] Moved mouse to (1276, 263) smoothly
+[2024-12-30 11:26:58] Clicked on component 'planet1' at (1276, 263)
+[2024-12-30 11:26:59] Moved mouse to (311, 304) smoothly
+[2024-12-30 11:26:59] Clicked on component 'empty_area' at (311, 304)
+[2024-12-30 11:26:59] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:27:01] Moved mouse to (160, 581) smoothly
+[2024-12-30 11:27:01] Random mouse move to (160, 581)
+[2024-12-30 11:27:02] Moved mouse to (1447, 834) smoothly
+[2024-12-30 11:27:02] Random mouse move to (1447, 834)
+[2024-12-30 11:27:04] Moved mouse to (1227, 814) smoothly
+[2024-12-30 11:27:04] Random mouse move to (1227, 814)
+[2024-12-30 11:27:06] Moved mouse to (663, 397) smoothly
+[2024-12-30 11:27:06] Random mouse move to (663, 397)
+[2024-12-30 11:27:06] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:27:07] Moved mouse to (1332, 262) smoothly
+[2024-12-30 11:27:07] Random mouse move to (1332, 262)
+[2024-12-30 11:27:07] Executing randos scenario: navigatetoplanet2
+[2024-12-30 11:27:07] Calling scenario: randos\navigatetoplanet2.txt
+[2024-12-30 11:27:15] Waited for 0.15 minutes
+[2024-12-30 11:27:15] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:27:17] Moved mouse to (1476, 344) smoothly
+[2024-12-30 11:27:17] Random mouse move to (1476, 344)
+[2024-12-30 11:27:19] Moved mouse to (73, 319) smoothly
+[2024-12-30 11:27:19] Random mouse move to (73, 319)
+[2024-12-30 11:27:21] Moved mouse to (1503, 859) smoothly
+[2024-12-30 11:27:21] Random mouse move to (1503, 859)
+[2024-12-30 11:27:21] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:27:25] Waited for 0.08 minutes
+[2024-12-30 11:27:27] Moved mouse to (272, 950) smoothly
+[2024-12-30 11:27:27] Clicked on component 'empty_area' at (272, 950)
+[2024-12-30 11:27:27] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:27:32] Waited for 0.09 minutes
+[2024-12-30 11:27:34] Moved mouse to (1262, 315) smoothly
+[2024-12-30 11:27:34] Clicked on component 'planet2' at (1262, 315)
+[2024-12-30 11:27:34] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:27:36] Moved mouse to (820, 481) smoothly
+[2024-12-30 11:27:36] Random mouse move to (820, 481)
+[2024-12-30 11:27:39] Moved mouse to (980, 247) smoothly
+[2024-12-30 11:27:39] Random mouse move to (980, 247)
+[2024-12-30 11:27:44] Waited for 0.09 minutes
+[2024-12-30 11:27:46] Moved mouse to (82, 579) smoothly
+[2024-12-30 11:27:46] Clicked on component 'empty_area' at (82, 579)
+[2024-12-30 11:27:46] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:27:48] Moved mouse to (693, 288) smoothly
+[2024-12-30 11:27:48] Random mouse move to (693, 288)
+[2024-12-30 11:27:49] Moved mouse to (25, 768) smoothly
+[2024-12-30 11:27:49] Random mouse move to (25, 768)
+[2024-12-30 11:27:49] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:27:56] Waited for 0.12 minutes
+[2024-12-30 11:27:58] Moved mouse to (1382, 1012) smoothly
+[2024-12-30 11:27:58] Random mouse move to (1382, 1012)
+[2024-12-30 11:27:58] Executing randos scenario: navigatetoplanet3
+[2024-12-30 11:27:58] Calling scenario: randos\navigatetoplanet3.txt
+[2024-12-30 11:28:09] Waited for 0.19 minutes
+[2024-12-30 11:28:11] Moved mouse to (1401, 629) smoothly
+[2024-12-30 11:28:11] Random mouse move to (1401, 629)
+[2024-12-30 11:28:11] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:28:14] Waited for 0.05 minutes
+[2024-12-30 11:28:15] Moved mouse to (75, 511) smoothly
+[2024-12-30 11:28:16] Clicked on component 'empty_area' at (75, 511)
+[2024-12-30 11:28:17] Moved mouse to (1286, 361) smoothly
+[2024-12-30 11:28:17] Clicked on component 'planet3' at (1286, 361)
+[2024-12-30 11:28:17] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:28:20] Moved mouse to (509, 228) smoothly
+[2024-12-30 11:28:20] Random mouse move to (509, 228)
+[2024-12-30 11:28:22] Moved mouse to (185, 624) smoothly
+[2024-12-30 11:28:22] Clicked on component 'empty_area' at (185, 624)
+[2024-12-30 11:28:24] Moved mouse to (1243, 94) smoothly
+[2024-12-30 11:28:24] Random mouse move to (1243, 94)
+[2024-12-30 11:28:24] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:28:26] Moved mouse to (422, 202) smoothly
+[2024-12-30 11:28:26] Random mouse move to (422, 202)
+[2024-12-30 11:28:28] Moved mouse to (1407, 791) smoothly
+[2024-12-30 11:28:28] Random mouse move to (1407, 791)
+[2024-12-30 11:28:29] Moved mouse to (972, 223) smoothly
+[2024-12-30 11:28:29] Random mouse move to (972, 223)
+[2024-12-30 11:28:29] Executing randos scenario: navigatetoplanet4
+[2024-12-30 11:28:29] Calling scenario: randos\navigatetoplanet4.txt
+[2024-12-30 11:28:41] Waited for 0.20 minutes
+[2024-12-30 11:28:41] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 11:28:42] Moved mouse to (1698, 922) smoothly
+[2024-12-30 11:28:42] Random mouse move to (1698, 922)
+[2024-12-30 11:28:44] Moved mouse to (639, 269) smoothly
+[2024-12-30 11:28:44] Random mouse move to (639, 269)
+[2024-12-30 11:28:46] Moved mouse to (563, 764) smoothly
+[2024-12-30 11:28:46] Random mouse move to (563, 764)
+[2024-12-30 11:28:48] Moved mouse to (189, 412) smoothly
+[2024-12-30 11:28:48] Clicked on component 'empty_area' at (189, 412)
+[2024-12-30 11:28:48] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:28:50] Moved mouse to (194, 575) smoothly
+[2024-12-30 11:28:50] Random mouse move to (194, 575)
+[2024-12-30 11:28:52] Moved mouse to (1273, 402) smoothly
+[2024-12-30 11:28:52] Clicked on component 'planet4' at (1273, 402)
+[2024-12-30 11:28:52] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:28:54] Moved mouse to (643, 452) smoothly
+[2024-12-30 11:28:54] Random mouse move to (643, 452)
+[2024-12-30 11:28:56] Moved mouse to (1698, 447) smoothly
+[2024-12-30 11:28:56] Random mouse move to (1698, 447)
+[2024-12-30 11:28:58] Waited for 0.04 minutes
+[2024-12-30 11:29:00] Moved mouse to (40, 730) smoothly
+[2024-12-30 11:29:00] Clicked on component 'empty_area' at (40, 730)
+[2024-12-30 11:29:02] Moved mouse to (262, 517) smoothly
+[2024-12-30 11:29:02] Random mouse move to (262, 517)
+[2024-12-30 11:29:02] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:29:07] Waited for 0.10 minutes
+[2024-12-30 11:29:07] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:29:08] Moved mouse to (499, 502) smoothly
+[2024-12-30 11:29:08] Random mouse move to (499, 502)
+[2024-12-30 11:29:10] Moved mouse to (720, 391) smoothly
+[2024-12-30 11:29:10] Random mouse move to (720, 391)
+[2024-12-30 11:29:10] Executing randos scenario: navigatetoplanet5
+[2024-12-30 11:29:10] Calling scenario: randos\navigatetoplanet5.txt
+[2024-12-30 11:29:19] Waited for 0.16 minutes
+[2024-12-30 11:29:21] Moved mouse to (1888, 939) smoothly
+[2024-12-30 11:29:21] Random mouse move to (1888, 939)
+[2024-12-30 11:29:21] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:29:23] Moved mouse to (1732, 986) smoothly
+[2024-12-30 11:29:23] Random mouse move to (1732, 986)
+[2024-12-30 11:29:25] Moved mouse to (288, 253) smoothly
+[2024-12-30 11:29:25] Clicked on component 'empty_area' at (288, 253)
+[2024-12-30 11:29:27] Moved mouse to (1288, 450) smoothly
+[2024-12-30 11:29:27] Clicked on component 'planet5' at (1288, 450)
+[2024-12-30 11:29:29] Moved mouse to (219, 973) smoothly
+[2024-12-30 11:29:29] Clicked on component 'empty_area' at (219, 973)
+[2024-12-30 11:29:29] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:29:32] Moved mouse to (1433, 323) smoothly
+[2024-12-30 11:29:32] Random mouse move to (1433, 323)
+[2024-12-30 11:29:33] Moved mouse to (215, 971) smoothly
+[2024-12-30 11:29:33] Random mouse move to (215, 971)
+[2024-12-30 11:29:35] Moved mouse to (482, 100) smoothly
+[2024-12-30 11:29:35] Random mouse move to (482, 100)
+[2024-12-30 11:29:35] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:29:38] Moved mouse to (163, 778) smoothly
+[2024-12-30 11:29:38] Random mouse move to (163, 778)
+[2024-12-30 11:29:38] Skipping randos scenario: navigatetoplanet6
+[2024-12-30 11:29:38] Error: Scenario file for 'navigatetoplanet6' not found.
+[2024-12-30 11:29:38] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:29:40] Moved mouse to (1489, 299) smoothly
+[2024-12-30 11:29:40] Random mouse move to (1489, 299)
+[2024-12-30 11:29:41] Moved mouse to (1542, 679) smoothly
+[2024-12-30 11:29:41] Random mouse move to (1542, 679)
+[2024-12-30 11:29:41] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:29:44] Moved mouse to (1907, 449) smoothly
+[2024-12-30 11:29:44] Random mouse move to (1907, 449)
+[2024-12-30 11:29:45] Moved mouse to (1737, 861) smoothly
+[2024-12-30 11:29:45] Random mouse move to (1737, 861)
+[2024-12-30 11:29:50] Waited for 0.10 minutes
+[2024-12-30 11:29:50] Executing randos scenario: navigatetoplanet7
+[2024-12-30 11:29:50] Calling scenario: randos\navigatetoplanet7.txt
+[2024-12-30 11:30:02] Waited for 0.21 minutes
+[2024-12-30 11:30:02] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 11:30:04] Moved mouse to (1257, 98) smoothly
+[2024-12-30 11:30:04] Random mouse move to (1257, 98)
+[2024-12-30 11:30:06] Moved mouse to (853, 775) smoothly
+[2024-12-30 11:30:06] Random mouse move to (853, 775)
+[2024-12-30 11:30:06] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 11:30:11] Waited for 0.08 minutes
+[2024-12-30 11:30:13] Moved mouse to (142, 796) smoothly
+[2024-12-30 11:30:13] Clicked on component 'empty_area' at (142, 796)
+[2024-12-30 11:30:13] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:30:15] Moved mouse to (1625, 411) smoothly
+[2024-12-30 11:30:15] Random mouse move to (1625, 411)
+[2024-12-30 11:30:17] Moved mouse to (281, 439) smoothly
+[2024-12-30 11:30:17] Random mouse move to (281, 439)
+[2024-12-30 11:30:21] Waited for 0.08 minutes
+[2024-12-30 11:30:23] Moved mouse to (1262, 528) smoothly
+[2024-12-30 11:30:23] Clicked on component 'planet7' at (1262, 528)
+[2024-12-30 11:30:25] Moved mouse to (25, 318) smoothly
+[2024-12-30 11:30:25] Clicked on component 'empty_area' at (25, 318)
+[2024-12-30 11:30:25] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:30:28] Moved mouse to (203, 965) smoothly
+[2024-12-30 11:30:28] Random mouse move to (203, 965)
+[2024-12-30 11:30:30] Moved mouse to (813, 224) smoothly
+[2024-12-30 11:30:30] Random mouse move to (813, 224)
+[2024-12-30 11:30:33] Waited for 0.05 minutes
+[2024-12-30 11:30:35] Moved mouse to (1808, 878) smoothly
+[2024-12-30 11:30:35] Random mouse move to (1808, 878)
+[2024-12-30 11:30:37] Moved mouse to (629, 564) smoothly
+[2024-12-30 11:30:37] Random mouse move to (629, 564)
+[2024-12-30 11:30:37] Executing randos scenario: navigatetoplanet8
+[2024-12-30 11:30:37] Calling scenario: randos\navigatetoplanet8.txt
+[2024-12-30 11:30:50] Waited for 0.22 minutes
+[2024-12-30 11:30:52] Moved mouse to (769, 729) smoothly
+[2024-12-30 11:30:52] Random mouse move to (769, 729)
+[2024-12-30 11:30:54] Moved mouse to (263, 658) smoothly
+[2024-12-30 11:30:54] Clicked on component 'empty_area' at (263, 658)
+[2024-12-30 11:30:54] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:30:56] Moved mouse to (1150, 618) smoothly
+[2024-12-30 11:30:56] Random mouse move to (1150, 618)
+[2024-12-30 11:30:58] Moved mouse to (1233, 360) smoothly
+[2024-12-30 11:30:58] Random mouse move to (1233, 360)
+[2024-12-30 11:31:03] Waited for 0.08 minutes
+[2024-12-30 11:31:04] Moved mouse to (1278, 588) smoothly
+[2024-12-30 11:31:04] Clicked on component 'planet8' at (1278, 588)
+[2024-12-30 11:31:04] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 11:31:07] Moved mouse to (1611, 792) smoothly
+[2024-12-30 11:31:07] Random mouse move to (1611, 792)
+[2024-12-30 11:31:08] Moved mouse to (1670, 529) smoothly
+[2024-12-30 11:31:08] Random mouse move to (1670, 529)

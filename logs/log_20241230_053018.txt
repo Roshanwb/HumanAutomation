@@ -1,0 +1,41 @@
+[2024-12-30 05:30:18] No last Chrome tab recorded. Skipping.
+[2024-12-30 05:30:18] Set TOTALTIME to 205.24 minutes
+[2024-12-30 05:30:18] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 05:30:20] Moved mouse to (105, 840) smoothly
+[2024-12-30 05:30:20] Random mouse move to (105, 840)
+[2024-12-30 05:30:21] Moved mouse to (1018, 739) smoothly
+[2024-12-30 05:30:21] Random mouse move to (1018, 739)
+[2024-12-30 05:30:25] Waited for 0.07 minutes
+[2024-12-30 05:30:25] Calling scenario: mustdo\spend_time1.txt
+[2024-12-30 05:30:25] Skipping randos scenario: navigateallmoons
+[2024-12-30 05:30:25] Error: Scenario file for 'navigateallmoons' not found.
+[2024-12-30 05:30:25] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-30 05:30:26] Moved mouse to (1642, 758) smoothly
+[2024-12-30 05:30:26] Random mouse move to (1642, 758)
+[2024-12-30 05:30:28] Moved mouse to (1652, 161) smoothly
+[2024-12-30 05:30:28] Random mouse move to (1652, 161)
+[2024-12-30 05:30:33] Waited for 0.10 minutes
+[2024-12-30 05:30:33] Skipping randos scenario: navigateallplanets
+[2024-12-30 05:30:33] Error: Scenario file for 'navigateallplanets' not found.
+[2024-12-30 05:30:33] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-30 05:30:35] Moved mouse to (13, 990) smoothly
+[2024-12-30 05:30:35] Random mouse move to (13, 990)
+[2024-12-30 05:30:37] Moved mouse to (645, 339) smoothly
+[2024-12-30 05:30:37] Random mouse move to (645, 339)
+[2024-12-30 05:30:37] Executing randos scenario: navigatetomoon4
+[2024-12-30 05:30:37] Calling scenario: randos\navigatetomoon4.txt
+[2024-12-30 05:30:46] Waited for 0.14 minutes
+[2024-12-30 05:30:47] Moved mouse to (1720, 779) smoothly
+[2024-12-30 05:30:47] Random mouse move to (1720, 779)
+[2024-12-30 05:30:47] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 05:30:49] Moved mouse to (1649, 289) smoothly
+[2024-12-30 05:30:49] Random mouse move to (1649, 289)
+[2024-12-30 05:30:51] Moved mouse to (1431, 404) smoothly
+[2024-12-30 05:30:51] Clicked on component 'moon4' at (1431, 404)
+[2024-12-30 05:30:51] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 05:30:53] Moved mouse to (701, 1003) smoothly
+[2024-12-30 05:30:53] Random mouse move to (701, 1003)
+[2024-12-30 05:30:54] Moved mouse to (439, 8) smoothly
+[2024-12-30 05:30:54] Random mouse move to (439, 8)
+[2024-12-30 05:30:54] Executing randos scenario: navigatetomoon11
+[2024-12-30 05:30:54] Calling scenario: randos\navigatetomoon11.txt

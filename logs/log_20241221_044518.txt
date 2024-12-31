@@ -1,0 +1,7 @@
+[2024-12-21 04:45:23] Moved mouse to (1285, 178)
+[2024-12-21 04:45:23] Clicked on component 'planet1' at (1285, 178)
+[2024-12-21 04:45:26] Waited for 2.70 seconds
+[2024-12-21 04:45:30] Moved mouse to (440, 379)
+[2024-12-21 04:45:30] Clicked on component 'button_fleet' at (440, 379)
+[2024-12-21 04:45:32] Waited for 2.12 seconds
+[2024-12-21 04:45:32] Error: empty range for randrange() (685, 684, -1)

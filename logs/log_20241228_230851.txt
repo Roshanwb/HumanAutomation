@@ -1,0 +1,37 @@
+[2024-12-28 23:08:51] No last Chrome tab recorded. Skipping.
+[2024-12-28 23:08:51] Set TOTALTIME to 10.52 minutes
+[2024-12-28 23:08:51] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-28 23:08:54] Moved mouse to (1205, 92) smoothly
+[2024-12-28 23:08:54] Random mouse move to (1205, 92)
+[2024-12-28 23:08:56] Moved mouse to (1150, 16) smoothly
+[2024-12-28 23:08:56] Clicked on component 'chrometab4' at (1150, 16)
+[2024-12-28 23:08:56] Last Chrome tab set to: chrometab4
+[2024-12-28 23:08:58] Moved mouse to (419, 262) smoothly
+[2024-12-28 23:08:58] Clicked on component 'overview' at (419, 262)
+[2024-12-28 23:08:58] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-28 23:09:00] Moved mouse to (1098, 117) smoothly
+[2024-12-28 23:09:00] Random mouse move to (1098, 117)
+[2024-12-28 23:09:01] Moved mouse to (1265, 483) smoothly
+[2024-12-28 23:09:01] Clicked on component 'planet6' at (1265, 483)
+[2024-12-28 23:09:04] Moved mouse to (461, 462) smoothly
+[2024-12-28 23:09:04] Clicked on component 'button_fleet' at (461, 462)
+[2024-12-28 23:09:08] Waited for 0.08 minutes
+[2024-12-28 23:09:08] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-28 23:09:14] Waited for 0.11 minutes
+[2024-12-28 23:09:16] Moved mouse to (636, 724) smoothly
+[2024-12-28 23:09:16] Clicked on component 'fleet_select_all' at (636, 724)
+[2024-12-28 23:09:18] Moved mouse to (949, 654) smoothly
+[2024-12-28 23:09:18] Clicked on component 'fleet_res_all' at (949, 654)
+[2024-12-28 23:09:19] Moved mouse to (1137, 758) smoothly
+[2024-12-28 23:09:20] Clicked on component 'button_continue_fleet' at (1137, 758)
+[2024-12-28 23:09:21] Moved mouse to (981, 376) smoothly
+[2024-12-28 23:09:21] Clicked on component 'fleet2_place' at (981, 376)
+[2024-12-28 23:09:21] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-28 23:09:24] Moved mouse to (1341, 55) smoothly
+[2024-12-28 23:09:24] Random mouse move to (1341, 55)
+[2024-12-28 23:09:26] Typed text: "16"
+[2024-12-28 23:09:26] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-28 23:09:28] Moved mouse to (1064, 707) smoothly
+[2024-12-28 23:09:28] Random mouse move to (1064, 707)
+[2024-12-28 23:09:30] Moved mouse to (1376, 148) smoothly
+[2024-12-28 23:09:30] Random mouse move to (1376, 148)

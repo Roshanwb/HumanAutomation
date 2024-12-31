@@ -1,0 +1,12 @@
+[2024-12-21 15:33:47] Moved mouse to (404, 257) smoothly
+[2024-12-21 15:33:47] Clicked on component 'overview' at (404, 257)
+[2024-12-21 15:33:48] Waited for 0.60 seconds
+[2024-12-21 15:33:50] Moved mouse to (1310, 247) smoothly
+[2024-12-21 15:33:50] Clicked on component 'planet1' at (1310, 247)
+[2024-12-21 15:33:52] Waited for 1.76 seconds
+[2024-12-21 15:33:54] Moved mouse to (483, 457) smoothly
+[2024-12-21 15:33:54] Clicked on component 'button_fleet' at (483, 457)
+[2024-12-21 15:33:55] Waited for 0.88 seconds
+[2024-12-21 15:33:57] Moved mouse to (692, 723) smoothly
+[2024-12-21 15:33:57] Clicked on component 'button_selectexpocargos' at (692, 723)
+[2024-12-21 15:33:58] Waited for 1.19 seconds

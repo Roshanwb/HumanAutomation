@@ -1,0 +1,3 @@
+[2024-12-22 00:34:08] Calling scenario: randos\readmessages.txt
+[2024-12-22 00:34:10] Moved mouse to (614, 220) smoothly
+[2024-12-22 00:34:10] Clicked on component 'messages' at (614, 220)

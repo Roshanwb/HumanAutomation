@@ -1,0 +1,27 @@
+[2024-12-30 13:41:27] No last Chrome tab recorded. Skipping.
+[2024-12-30 13:41:27] Set TOTALTIME to 206.00 minutes
+[2024-12-30 13:41:28] Moved mouse to (456, 20) smoothly
+[2024-12-30 13:41:28] Clicked on component 'chrometab1' at (456, 20)
+[2024-12-30 13:41:28] Last Chrome tab set to: chrometab1
+[2024-12-30 13:41:28] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 13:41:30] Moved mouse to (137, 626) smoothly
+[2024-12-30 13:41:30] Random mouse move to (137, 626)
+[2024-12-30 13:41:31] Moved mouse to (1300, 270) smoothly
+[2024-12-30 13:41:31] Clicked on component 'planet1' at (1300, 270)
+[2024-12-30 13:41:31] Calling scenario: mustdo\initbuild_with_res_officer.txt
+[2024-12-30 13:41:33] Moved mouse to (454, 282) smoothly
+[2024-12-30 13:41:33] Clicked on component 'resources' at (454, 282)
+[2024-12-30 13:41:35] Moved mouse to (931, 633) smoothly
+[2024-12-30 13:41:35] Clicked on component 'resources_s' at (931, 633)
+[2024-12-30 13:41:37] Moved mouse to (1185, 309) smoothly
+[2024-12-30 13:41:37] Clicked on component 'resources_improve_button' at (1185, 309)
+[2024-12-30 13:43:23] Waited for 1.75 minutes
+[2024-12-30 13:43:23] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-30 13:43:25] Moved mouse to (1091, 731) smoothly
+[2024-12-30 13:43:25] Random mouse move to (1091, 731)
+[2024-12-30 13:43:27] Moved mouse to (624, 630) smoothly
+[2024-12-30 13:43:27] Clicked on component 'resources_m' at (624, 630)
+[2024-12-30 13:43:29] Moved mouse to (1157, 314) smoothly
+[2024-12-30 13:43:29] Clicked on component 'resources_improve_button' at (1157, 314)
+[2024-12-30 13:43:29] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-30 13:43:33] Waited for 0.08 minutes

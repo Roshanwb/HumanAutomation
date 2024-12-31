@@ -1,0 +1,53 @@
+[2024-12-27 13:14:52] No last Chrome tab recorded. Skipping.
+[2024-12-27 13:14:52] Set TOTALTIME to 104.21 minutes
+[2024-12-27 13:14:52] Executing filler: fillers\MOVEMOUSEmid.txt
+[2024-12-27 13:14:54] Moved mouse to (223, 595) smoothly
+[2024-12-27 13:14:54] Random mouse move to (223, 595)
+[2024-12-27 13:14:56] Moved mouse to (463, 14) smoothly
+[2024-12-27 13:14:56] Random mouse move to (463, 14)
+[2024-12-27 13:14:58] Moved mouse to (404, 16) smoothly
+[2024-12-27 13:14:58] Clicked on component 'chrometab1' at (404, 16)
+[2024-12-27 13:14:58] Last Chrome tab set to: chrometab1
+[2024-12-27 13:14:58] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-27 13:15:00] Moved mouse to (257, 358) smoothly
+[2024-12-27 13:15:00] Random mouse move to (257, 358)
+[2024-12-27 13:15:08] Waited for 0.15 minutes
+[2024-12-27 13:15:08] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-27 13:15:14] Waited for 0.10 minutes
+[2024-12-27 13:15:16] Moved mouse to (1293, 389) smoothly
+[2024-12-27 13:15:16] Clicked on component 'planet4' at (1293, 389)
+[2024-12-27 13:15:16] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-27 13:15:19] Moved mouse to (1038, 131) smoothly
+[2024-12-27 13:15:19] Random mouse move to (1038, 131)
+[2024-12-27 13:15:20] Moved mouse to (472, 287) smoothly
+[2024-12-27 13:15:21] Clicked on component 'resources' at (472, 287)
+[2024-12-27 13:15:21] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-27 13:15:22] Moved mouse to (657, 901) smoothly
+[2024-12-27 13:15:22] Random mouse move to (657, 901)
+[2024-12-27 13:15:24] Moved mouse to (810, 842) smoothly
+[2024-12-27 13:15:24] Random mouse move to (810, 842)
+[2024-12-27 13:15:30] Waited for 0.11 minutes
+[2024-12-27 13:18:37] Waited for 3.09 minutes
+[2024-12-27 13:18:37] Executing filler: fillers\MOVEMOUSE.txt
+[2024-12-27 13:18:38] Moved mouse to (567, 923) smoothly
+[2024-12-27 13:18:38] Random mouse move to (567, 923)
+[2024-12-27 13:18:38] Calling scenario: mustdo\initbuild_with_res_officer.txt
+[2024-12-27 13:18:40] Moved mouse to (502, 282) smoothly
+[2024-12-27 13:18:40] Clicked on component 'resources' at (502, 282)
+[2024-12-27 13:18:40] Executing filler: fillers\SMALLWAIT.txt
+[2024-12-27 13:18:45] Waited for 0.09 minutes
+[2024-12-27 13:18:47] Moved mouse to (933, 622) smoothly
+[2024-12-27 13:18:47] Clicked on component 'resources_s' at (933, 622)
+[2024-12-27 13:18:47] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-27 13:18:49] Moved mouse to (1919, 379) smoothly
+[2024-12-27 13:18:49] Random mouse move to (1919, 379)
+[2024-12-27 13:18:51] Moved mouse to (77, 524) smoothly
+[2024-12-27 13:18:51] Random mouse move to (77, 524)
+[2024-12-27 13:18:55] Waited for 0.08 minutes
+[2024-12-27 13:18:57] Moved mouse to (1133, 304) smoothly
+[2024-12-27 13:18:57] Clicked on component 'resources_improve_button' at (1133, 304)
+[2024-12-27 13:18:57] Executing filler: fillers\MOVEMOUSEadv.txt
+[2024-12-27 13:18:59] Moved mouse to (837, 709) smoothly
+[2024-12-27 13:18:59] Random mouse move to (837, 709)
+[2024-12-27 13:19:00] Moved mouse to (929, 703) smoothly
+[2024-12-27 13:19:00] Random mouse move to (929, 703)

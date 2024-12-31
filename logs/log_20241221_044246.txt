@@ -1,0 +1,1 @@
+[2024-12-21 04:42:46] Error: Component 'planet1' not found in mapping.
