@@ -3,15 +3,15 @@
         "screenBoundaries": {
             "minX": 402,
             "minY": 493,
-            "maxX": 505,
-            "maxY": 504
+            "maxX": 498,
+            "maxY": 496
         }
     },
     "BUTTON_SELECTEXPOCARGOS": {
         "screenBoundaries": {
             "minX": 694,
             "minY": 754,
-            "maxX": 711,
+            "maxX": 703,
             "maxY": 766
         }
     },
@@ -41,82 +41,82 @@
     },
     "PLANET1": {
         "screenBoundaries": {
-            "minX": 1249,
-            "minY": 287,
-            "maxX": 1300,
-            "maxY": 315
+            "minX": 1247,
+            "minY": 257,
+            "maxX": 1307,
+            "maxY": 271
         }
     },
     "PLANET2": {
         "screenBoundaries": {
             "minX": 1253,
-            "minY": 331,
+            "minY": 296,
             "maxX": 1298,
-            "maxY": 360
+            "maxY": 319
         }
     },
     "PLANET3": {
         "screenBoundaries": {
             "minX": 1251,
-            "minY": 378,
+            "minY": 347,
             "maxX": 1302,
-            "maxY": 405
+            "maxY": 361
         }
     },
     "PLANET4": {
         "screenBoundaries": {
             "minX": 1251,
-            "minY": 421,
+            "minY": 386,
             "maxX": 1301,
-            "maxY": 447
+            "maxY": 407
         }
     },
     "PLANET5": {
         "screenBoundaries": {
-            "minX": 1248,
-            "minY": 467,
+            "minX": 1250,
+            "minY": 433,
             "maxX": 1293,
-            "maxY": 493
+            "maxY": 452
         }
     },
     "PLANET6": {
         "screenBoundaries": {
             "minX": 1253,
-            "minY": 515,
+            "minY": 481,
             "maxX": 1294,
-            "maxY": 530
+            "maxY": 496
         }
     },
     "PLANET7": {
         "screenBoundaries": {
             "minX": 1254,
-            "minY": 561,
+            "minY": 524,
             "maxX": 1294,
-            "maxY": 576
+            "maxY": 539
         }
     },
     "PLANET8": {
         "screenBoundaries": {
             "minX": 1250,
-            "minY": 607,
+            "minY": 571,
             "maxX": 1304,
-            "maxY": 625
+            "maxY": 589
         }
     },
     "PLANET9": {
         "screenBoundaries": {
-            "minX": 1249,
-            "minY": 648,
+            "minX": 1248,
+            "minY": 617,
             "maxX": 1302,
-            "maxY": 667
+            "maxY": 631
         }
     },
     "PLANET10": {
         "screenBoundaries": {
             "minX": 1250,
-            "minY": 696,
+            "minY": 662,
             "maxX": 1299,
-            "maxY": 712
+            "maxY": 678
         }
     },
     "PLANET11": {
@@ -130,137 +130,137 @@
     "MESSAGES": {
         "screenBoundaries": {
             "minX": 593,
-            "minY": 240,
+            "minY": 204,
             "maxX": 618,
-            "maxY": 260
+            "maxY": 224
         }
     },
     "MESSAGES_FLEET": {
         "screenBoundaries": {
             "minX": 586,
-            "minY": 315,
+            "minY": 282,
             "maxX": 627,
-            "maxY": 361
+            "maxY": 328
         }
     },
     "MESSAGES_ESP": {
         "screenBoundaries": {
             "minX": 574,
-            "minY": 402,
+            "minY": 363,
             "maxX": 666,
-            "maxY": 417
+            "maxY": 378
         }
     },
     "MESSAGES_COMBAT": {
         "screenBoundaries": {
             "minX": 694,
-            "minY": 401,
+            "minY": 365,
             "maxX": 813,
-            "maxY": 416
+            "maxY": 380
         }
     },
     "MESSAGES_EXPO": {
         "screenBoundaries": {
-            "minX": 833,
-            "minY": 397,
-            "maxX": 934,
-            "maxY": 420
+            "minX": 828,
+            "minY": 362,
+            "maxX": 929,
+            "maxY": 385
         }
     },
     "MESSAGES_TRANSPORT": {
         "screenBoundaries": {
-            "minX": 961,
-            "minY": 397,
-            "maxX": 1100,
-            "maxY": 418
+            "minX": 954,
+            "minY": 362,
+            "maxX": 1093,
+            "maxY": 383
         }
     },
     "MESSAGES_OTHER": {
         "screenBoundaries": {
             "minX": 1113,
-            "minY": 399,
+            "minY": 363,
             "maxX": 1202,
-            "maxY": 418
+            "maxY": 382
         }
     },
     "CHAT": {
         "screenBoundaries": {
             "minX": 647,
-            "minY": 241,
+            "minY": 205,
             "maxX": 676,
-            "maxY": 258
+            "maxY": 222
         }
     },
     "CHAT_ALLY": {
         "screenBoundaries": {
             "minX": 582,
-            "minY": 379,
+            "minY": 345,
             "maxX": 973,
-            "maxY": 421
+            "maxY": 405
         }
     },
     "EVENTS_LIST": {
         "screenBoundaries": {
             "minX": 711,
-            "minY": 242,
+            "minY": 202,
             "maxX": 1017,
-            "maxY": 268
+            "maxY": 228
         }
     },
     "OVERVIEW": {
         "screenBoundaries": {
             "minX": 394,
-            "minY": 287,
+            "minY": 253,
             "maxX": 503,
-            "maxY": 303
+            "maxY": 269
         }
     },
     "RESOURCES": {
         "screenBoundaries": {
             "minX": 398,
-            "minY": 315,
+            "minY": 279,
             "maxX": 504,
-            "maxY": 327
+            "maxY": 291
         }
     },
     "LIFEFORM": {
         "screenBoundaries": {
             "minX": 393,
-            "minY": 341,
+            "minY": 306,
             "maxX": 499,
-            "maxY": 351
+            "maxY": 316
         }
     },
     "FACILITIES": {
         "screenBoundaries": {
             "minX": 396,
-            "minY": 365,
+            "minY": 327,
             "maxX": 507,
-            "maxY": 378
+            "maxY": 340
         }
     },
     "TRADER": {
         "screenBoundaries": {
             "minX": 396,
-            "minY": 390,
+            "minY": 354,
             "maxX": 501,
-            "maxY": 401
+            "maxY": 365
         }
     },
     "RESEARCH": {
         "screenBoundaries": {
             "minX": 395,
-            "minY": 414,
+            "minY": 379,
             "maxX": 503,
-            "maxY": 428
+            "maxY": 393
         }
     },
     "SHIPYARD": {
         "screenBoundaries": {
             "minX": 393,
-            "minY": 440,
+            "minY": 403,
             "maxX": 504,
-            "maxY": 452
+            "maxY": 415
         }
     },
     "WHOLESCREEN": {
@@ -282,73 +282,73 @@
     "DEFENCE": {
         "screenBoundaries": {
             "minX": 396,
-            "minY": 466,
+            "minY": 431,
             "maxX": 506,
-            "maxY": 478
+            "maxY": 443
         }
     },
     "GALAXY": {
         "screenBoundaries": {
             "minX": 396,
-            "minY": 518,
+            "minY": 482,
             "maxX": 505,
-            "maxY": 526
+            "maxY": 490
         }
     },
     "EMPIRE": {
         "screenBoundaries": {
             "minX": 394,
-            "minY": 541,
+            "minY": 509,
             "maxX": 500,
-            "maxY": 549
+            "maxY": 517
         }
     },
     "ALLIANCE": {
         "screenBoundaries": {
             "minX": 397,
-            "minY": 565,
+            "minY": 531,
             "maxX": 506,
-            "maxY": 577
+            "maxY": 543
         }
     },
     "DESCOVERIES": {
         "screenBoundaries": {
             "minX": 1119,
-            "minY": 289,
+            "minY": 253,
             "maxX": 1199,
-            "maxY": 298
+            "maxY": 262
         }
     },
     "GALAXY_NEXT": {
         "screenBoundaries": {
-            "minX": 752,
-            "minY": 287,
-            "maxX": 759,
-            "maxY": 295
+            "minX": 751,
+            "minY": 249,
+            "maxX": 758,
+            "maxY": 257
         }
     },
     "GALAXY_PREVIOUS": {
         "screenBoundaries": {
-            "minX": 692,
-            "minY": 286,
-            "maxX": 702,
-            "maxY": 294
+            "minX": 691,
+            "minY": 250,
+            "maxX": 701,
+            "maxY": 258
         }
     },
     "GALAXY_DF_EXPO": {
         "screenBoundaries": {
             "minX": 809,
-            "minY": 900,
+            "minY": 863,
             "maxX": 839,
-            "maxY": 912
+            "maxY": 875
         }
     },
     "GALAXY_DF_EXPO_MINE": {
         "screenBoundaries": {
             "minX": 926,
-            "minY": 953,
+            "minY": 917,
             "maxX": 944,
-            "maxY": 956
+            "maxY": 920
         }
     },
     "EMPTY_AREA": {
@@ -385,9 +385,9 @@
     },
     "CHROMETAB1_CLOSE": {
         "screenBoundaries": {
-            "minX": 486,
+            "minX": 483,
             "minY": 17,
-            "maxX": 492,
+            "maxX": 489,
             "maxY": 22
         }
     },
@@ -433,10 +433,10 @@
     },
     "CHROMETAB4_CLOSE": {
         "screenBoundaries": {
-            "minX": 1204,
-            "minY": 20,
-            "maxX": 1208,
-            "maxY": 22
+            "minX": 1198,
+            "minY": 18,
+            "maxX": 1202,
+            "maxY": 20
         }
     },
     "CHROMETAB5": {
@@ -506,89 +506,89 @@
     "MOON1": {
         "screenBoundaries": {
             "minX": 1414,
-            "minY": 291,
+            "minY": 257,
             "maxX": 1425,
-            "maxY": 311
+            "maxY": 277
         }
     },
     "MOON2": {
         "screenBoundaries": {
             "minX": 1414,
-            "minY": 335,
+            "minY": 299,
             "maxX": 1434,
-            "maxY": 356
+            "maxY": 320
         }
     },
     "MOON3": {
         "screenBoundaries": {
             "minX": 1413,
-            "minY": 376,
+            "minY": 346,
             "maxX": 1427,
-            "maxY": 393
+            "maxY": 363
         }
     },
     "MOON4": {
         "screenBoundaries": {
             "minX": 1413,
-            "minY": 426,
+            "minY": 389,
             "maxX": 1432,
-            "maxY": 447
+            "maxY": 410
         }
     },
     "MOON5": {
         "screenBoundaries": {
             "minX": 1414,
-            "minY": 475,
+            "minY": 435,
             "maxX": 1433,
-            "maxY": 493
+            "maxY": 453
         }
     },
     "MOON6": {
         "screenBoundaries": {
             "minX": 1413,
-            "minY": 514,
+            "minY": 478,
             "maxX": 1430,
-            "maxY": 531
+            "maxY": 495
         }
     },
     "MOON7": {
         "screenBoundaries": {
             "minX": 1414,
-            "minY": 559,
+            "minY": 523,
             "maxX": 1431,
-            "maxY": 577
+            "maxY": 541
         }
     },
     "MOON8": {
         "screenBoundaries": {
             "minX": 1412,
-            "minY": 605,
+            "minY": 573,
             "maxX": 1433,
-            "maxY": 618
+            "maxY": 586
         }
     },
     "MOON9": {
         "screenBoundaries": {
             "minX": 1412,
-            "minY": 645,
+            "minY": 610,
             "maxX": 1431,
-            "maxY": 665
+            "maxY": 630
         }
     },
     "MOON10": {
         "screenBoundaries": {
             "minX": 1414,
-            "minY": 694,
+            "minY": 659,
             "maxX": 1431,
-            "maxY": 714
+            "maxY": 679
         }
     },
     "MOON11": {
         "screenBoundaries": {
             "minX": 1413,
-            "minY": 744,
+            "minY": 707,
             "maxX": 1432,
-            "maxY": 762
+            "maxY": 725
         }
     },
     "EEE": {
@@ -602,217 +602,217 @@
     "DEF_RL": {
         "screenBoundaries": {
             "minX": 591,
-            "minY": 584,
+            "minY": 552,
             "maxX": 641,
-            "maxY": 637
+            "maxY": 605
         }
     },
     "DEF_LL": {
         "screenBoundaries": {
             "minX": 697,
-            "minY": 576,
+            "minY": 546,
             "maxX": 755,
-            "maxY": 638
+            "maxY": 608
         }
     },
     "DEF_HL": {
         "screenBoundaries": {
             "minX": 807,
-            "minY": 576,
+            "minY": 546,
             "maxX": 857,
-            "maxY": 642
+            "maxY": 612
         }
     },
     "DEF_GAUSS": {
         "screenBoundaries": {
             "minX": 911,
-            "minY": 580,
+            "minY": 545,
             "maxX": 968,
-            "maxY": 645
+            "maxY": 610
         }
     },
     "DEF_IC": {
         "screenBoundaries": {
             "minX": 1021,
-            "minY": 584,
+            "minY": 543,
             "maxX": 1078,
-            "maxY": 642
+            "maxY": 601
         }
     },
     "DEF_PT": {
         "screenBoundaries": {
             "minX": 1132,
-            "minY": 580,
+            "minY": 543,
             "maxX": 1186,
-            "maxY": 640
+            "maxY": 603
         }
     },
     "DEF_SSD": {
         "screenBoundaries": {
             "minX": 591,
-            "minY": 689,
+            "minY": 650,
             "maxX": 639,
-            "maxY": 739
+            "maxY": 700
         }
     },
     "DEF_LSD": {
         "screenBoundaries": {
             "minX": 696,
-            "minY": 686,
+            "minY": 651,
             "maxX": 745,
-            "maxY": 741
+            "maxY": 706
         }
     },
     "DEF_ABM": {
         "screenBoundaries": {
             "minX": 809,
-            "minY": 681,
+            "minY": 649,
             "maxX": 857,
-            "maxY": 738
+            "maxY": 706
         }
     },
     "DEF_IPM": {
         "screenBoundaries": {
             "minX": 911,
-            "minY": 684,
+            "minY": 655,
             "maxX": 965,
-            "maxY": 731
+            "maxY": 702
         }
     },
     "DEF_TEXT": {
         "screenBoundaries": {
             "minX": 1121,
-            "minY": 436,
+            "minY": 394,
             "maxX": 1183,
-            "maxY": 447
+            "maxY": 405
         }
     },
     "DEF_BUILD": {
         "screenBoundaries": {
             "minX": 1125,
-            "minY": 333,
+            "minY": 300,
             "maxX": 1189,
-            "maxY": 347
+            "maxY": 314
         }
     },
     "DEF_OPTIMAL": {
         "screenBoundaries": {
-            "minX": 1120,
-            "minY": 466,
-            "maxX": 1160,
-            "maxY": 471
+            "minX": 1113,
+            "minY": 429,
+            "maxX": 1153,
+            "maxY": 434
         }
     },
     "FLEET_SELECT_MOST": {
         "screenBoundaries": {
             "minX": 589,
-            "minY": 752,
+            "minY": 715,
             "maxX": 601,
-            "maxY": 768
+            "maxY": 731
         }
     },
     "FLEET_SELECT_ALL": {
         "screenBoundaries": {
             "minX": 625,
-            "minY": 753,
+            "minY": 717,
             "maxX": 638,
-            "maxY": 767
+            "maxY": 731
         }
     },
     "FLEET_SELECT_NONE": {
         "screenBoundaries": {
             "minX": 660,
-            "minY": 752,
+            "minY": 715,
             "maxX": 673,
-            "maxY": 766
+            "maxY": 729
         }
     },
     "FLEET_RES_MOST": {
         "screenBoundaries": {
             "minX": 921,
-            "minY": 685,
+            "minY": 648,
             "maxX": 929,
-            "maxY": 692
+            "maxY": 655
         }
     },
     "FLEET_RES_ALL": {
         "screenBoundaries": {
             "minX": 948,
-            "minY": 683,
+            "minY": 645,
             "maxX": 955,
-            "maxY": 694
+            "maxY": 656
         }
     },
     "FLEET_RES_NONE": {
         "screenBoundaries": {
             "minX": 974,
-            "minY": 684,
+            "minY": 647,
             "maxX": 982,
-            "maxY": 691
+            "maxY": 654
         }
     },
     "FLEET_TO_PLANET": {
         "screenBoundaries": {
             "minX": 733,
-            "minY": 526,
+            "minY": 490,
             "maxX": 738,
-            "maxY": 533
+            "maxY": 497
         }
     },
     "FLEET_TO_MOON": {
         "screenBoundaries": {
             "minX": 758,
-            "minY": 525,
+            "minY": 486,
             "maxX": 765,
-            "maxY": 533
+            "maxY": 494
         }
     },
     "FLEET_TO_DF": {
         "screenBoundaries": {
             "minX": 785,
-            "minY": 528,
+            "minY": 488,
             "maxX": 793,
-            "maxY": 536
+            "maxY": 496
         }
     },
     "FLEET_SEND_LC": {
         "screenBoundaries": {
             "minX": 1109,
-            "minY": 557,
+            "minY": 520,
             "maxX": 1117,
-            "maxY": 566
+            "maxY": 529
         }
     },
     "FLEET_SEND_SC": {
         "screenBoundaries": {
             "minX": 1108,
-            "minY": 529,
+            "minY": 490,
             "maxX": 1116,
-            "maxY": 537
+            "maxY": 498
         }
     },
     "FLEET_SEND_PF": {
         "screenBoundaries": {
             "minX": 1110,
-            "minY": 588,
+            "minY": 550,
             "maxX": 1118,
-            "maxY": 596
+            "maxY": 558
         }
     },
     "FLEET_SEND_RECS": {
         "screenBoundaries": {
             "minX": 1107,
-            "minY": 616,
+            "minY": 581,
             "maxX": 1115,
-            "maxY": 626
+            "maxY": 591
         }
     },
     "FLEET_SEND_PROBS": {
         "screenBoundaries": {
             "minX": 1106,
-            "minY": 646,
+            "minY": 607,
             "maxX": 1116,
-            "maxY": 657
+            "maxY": 618
         }
     },
     "FLEET2_COLONIZATION": {
@@ -874,177 +874,177 @@
     "FLEET2_JOIN": {
         "screenBoundaries": {
             "minX": 1103,
-            "minY": 521,
+            "minY": 480,
             "maxX": 1124,
-            "maxY": 544
+            "maxY": 503
         }
     },
     "FLEET2_MD": {
         "screenBoundaries": {
             "minX": 1164,
-            "minY": 522,
+            "minY": 482,
             "maxX": 1188,
-            "maxY": 547
+            "maxY": 507
         }
     },
     "FLEET2_GAL": {
         "screenBoundaries": {
             "minX": 882,
-            "minY": 411,
+            "minY": 376,
             "maxX": 886,
-            "maxY": 411
+            "maxY": 376
         }
     },
     "FLEET2_SYS": {
         "screenBoundaries": {
-            "minX": 931,
-            "minY": 411,
-            "maxX": 945,
-            "maxY": 411
+            "minX": 923,
+            "minY": 371,
+            "maxX": 937,
+            "maxY": 371
         }
     },
     "FLEET2_PLACE": {
         "screenBoundaries": {
-            "minX": 976,
-            "minY": 413,
-            "maxX": 991,
-            "maxY": 413
+            "minX": 975,
+            "minY": 376,
+            "maxX": 990,
+            "maxY": 376
         }
     },
     "FLEET2_PLANET": {
         "screenBoundaries": {
             "minX": 890,
-            "minY": 375,
+            "minY": 340,
             "maxX": 902,
-            "maxY": 385
+            "maxY": 350
         }
     },
     "FLEET2_MOON": {
         "screenBoundaries": {
             "minX": 934,
-            "minY": 373,
+            "minY": 340,
             "maxX": 942,
-            "maxY": 384
+            "maxY": 351
         }
     },
     "FLEET2_MOST_RES": {
         "screenBoundaries": {
             "minX": 1096,
-            "minY": 653,
+            "minY": 617,
             "maxX": 1104,
-            "maxY": 667
+            "maxY": 631
         }
     },
     "FLEET2_ALL_RES": {
         "screenBoundaries": {
             "minX": 1133,
-            "minY": 653,
+            "minY": 618,
             "maxX": 1143,
-            "maxY": 663
+            "maxY": 628
         }
     },
     "FLEET2_NO_RES": {
         "screenBoundaries": {
             "minX": 1164,
-            "minY": 651,
+            "minY": 617,
             "maxX": 1177,
-            "maxY": 663
+            "maxY": 629
         }
     },
     "FLEET2_ALL_M": {
         "screenBoundaries": {
             "minX": 942,
-            "minY": 662,
-            "maxX": 949,
-            "maxY": 664
+            "minY": 625,
+            "maxX": 944,
+            "maxY": 627
         }
     },
     "FLEET2_MOST_M": {
         "screenBoundaries": {
             "minX": 924,
-            "minY": 659,
+            "minY": 624,
             "maxX": 928,
-            "maxY": 663
+            "maxY": 628
         }
     },
     "FLEET2_NO_M": {
         "screenBoundaries": {
-            "minX": 908,
-            "minY": 660,
-            "maxX": 911,
-            "maxY": 664
+            "minX": 906,
+            "minY": 623,
+            "maxX": 909,
+            "maxY": 627
         }
     },
     "FLEET2_ALL_C": {
         "screenBoundaries": {
             "minX": 940,
-            "minY": 706,
+            "minY": 669,
             "maxX": 946,
-            "maxY": 710
+            "maxY": 673
         }
     },
     "FLEET2_MOST_C": {
         "screenBoundaries": {
             "minX": 924,
-            "minY": 704,
+            "minY": 670,
             "maxX": 927,
-            "maxY": 710
+            "maxY": 676
         }
     },
     "FLEET2_NO_C": {
         "screenBoundaries": {
-            "minX": 907,
-            "minY": 708,
-            "maxX": 910,
-            "maxY": 709
+            "minX": 905,
+            "minY": 672,
+            "maxX": 908,
+            "maxY": 673
         }
     },
     "FLEET2_ALL_D": {
         "screenBoundaries": {
             "minX": 942,
-            "minY": 752,
+            "minY": 714,
             "maxX": 947,
-            "maxY": 756
+            "maxY": 718
         }
     },
     "FLEET2_MOST_D": {
         "screenBoundaries": {
             "minX": 925,
-            "minY": 754,
+            "minY": 715,
             "maxX": 929,
-            "maxY": 756
+            "maxY": 717
         }
     },
     "FLEET2_NO_D": {
         "screenBoundaries": {
             "minX": 906,
-            "minY": 752,
+            "minY": 714,
             "maxX": 911,
-            "maxY": 757
+            "maxY": 719
         }
     },
     "FLEET2_TXT_M": {
         "screenBoundaries": {
             "minX": 965,
-            "minY": 645,
+            "minY": 605,
             "maxX": 1034,
-            "maxY": 650
+            "maxY": 610
         }
     },
     "FLEET2_TXT_C": {
         "screenBoundaries": {
-            "minX": 962,
-            "minY": 692,
-            "maxX": 1038,
-            "maxY": 697
+            "minX": 957,
+            "minY": 652,
+            "maxX": 1033,
+            "maxY": 657
         }
     },
     "FLEET2_TXT_D": {
         "screenBoundaries": {
             "minX": 963,
-            "minY": 736,
+            "minY": 697,
             "maxX": 1039,
-            "maxY": 743
+            "maxY": 704
         }
     },
     "FLEET2_TXT_F": {
@@ -1058,265 +1058,265 @@
     "FLEET2_ALL_F": {
         "screenBoundaries": {
             "minX": 942,
-            "minY": 800,
+            "minY": 763,
             "maxX": 945,
-            "maxY": 802
+            "maxY": 765
         }
     },
     "FLEET2_NO_F": {
         "screenBoundaries": {
-            "minX": 908,
-            "minY": 798,
-            "maxX": 912,
-            "maxY": 803
+            "minX": 906,
+            "minY": 762,
+            "maxX": 910,
+            "maxY": 767
         }
     },
     "FLEET2_MOST_F": {
         "screenBoundaries": {
             "minX": 923,
-            "minY": 799,
+            "minY": 762,
             "maxX": 929,
-            "maxY": 803
+            "maxY": 766
         }
     },
     "FLEET2_10P": {
         "screenBoundaries": {
             "minX": 591,
-            "minY": 844,
+            "minY": 809,
             "maxX": 623,
-            "maxY": 853
+            "maxY": 818
         }
     },
     "FLEET2_20P": {
         "screenBoundaries": {
             "minX": 652,
-            "minY": 844,
+            "minY": 806,
             "maxX": 685,
-            "maxY": 852
+            "maxY": 814
         }
     },
     "FLEET2_30P": {
         "screenBoundaries": {
             "minX": 713,
-            "minY": 847,
+            "minY": 809,
             "maxX": 751,
-            "maxY": 850
+            "maxY": 812
         }
     },
     "FLEET2_40P": {
         "screenBoundaries": {
             "minX": 778,
-            "minY": 844,
+            "minY": 808,
             "maxX": 811,
-            "maxY": 850
+            "maxY": 814
         }
     },
     "FLEET2_50P": {
         "screenBoundaries": {
             "minX": 837,
-            "minY": 843,
+            "minY": 804,
             "maxX": 874,
-            "maxY": 852
+            "maxY": 813
         }
     },
     "FLEET2_60P": {
         "screenBoundaries": {
             "minX": 898,
-            "minY": 844,
+            "minY": 807,
             "maxX": 938,
-            "maxY": 854
+            "maxY": 817
         }
     },
     "FLEET2_70P": {
         "screenBoundaries": {
             "minX": 963,
-            "minY": 844,
+            "minY": 805,
             "maxX": 997,
-            "maxY": 852
+            "maxY": 813
         }
     },
     "FLEET2_80P": {
         "screenBoundaries": {
             "minX": 1024,
-            "minY": 844,
+            "minY": 808,
             "maxX": 1057,
-            "maxY": 853
+            "maxY": 817
         }
     },
     "FLEET2_90P": {
         "screenBoundaries": {
             "minX": 1080,
-            "minY": 845,
+            "minY": 807,
             "maxX": 1122,
-            "maxY": 854
+            "maxY": 816
         }
     },
     "FLEET2_100P": {
         "screenBoundaries": {
             "minX": 1150,
-            "minY": 845,
+            "minY": 805,
             "maxX": 1186,
-            "maxY": 854
+            "maxY": 814
         }
     },
     "RESOURCES_M": {
         "screenBoundaries": {
             "minX": 611,
-            "minY": 658,
+            "minY": 612,
             "maxX": 639,
-            "maxY": 683
+            "maxY": 637
         }
     },
     "RESOURCES_C": {
         "screenBoundaries": {
             "minX": 714,
-            "minY": 657,
+            "minY": 616,
             "maxX": 747,
-            "maxY": 687
+            "maxY": 646
         }
     },
     "RESOURCES_D": {
         "screenBoundaries": {
             "minX": 824,
-            "minY": 652,
+            "minY": 611,
             "maxX": 850,
-            "maxY": 689
+            "maxY": 648
         }
     },
     "RESOURCES_S": {
         "screenBoundaries": {
             "minX": 922,
-            "minY": 656,
+            "minY": 611,
             "maxX": 959,
-            "maxY": 690
+            "maxY": 645
         }
     },
     "RESOURCES_FR": {
         "screenBoundaries": {
             "minX": 1034,
-            "minY": 648,
+            "minY": 604,
             "maxX": 1065,
-            "maxY": 684
+            "maxY": 640
         }
     },
     "RESOURCES_MS": {
         "screenBoundaries": {
             "minX": 618,
-            "minY": 743,
+            "minY": 701,
             "maxX": 638,
-            "maxY": 775
+            "maxY": 733
         }
     },
     "RESOURCES_CS": {
         "screenBoundaries": {
             "minX": 725,
-            "minY": 747,
+            "minY": 710,
             "maxX": 740,
-            "maxY": 776
+            "maxY": 739
         }
     },
     "RESOURCES_DS": {
         "screenBoundaries": {
             "minX": 832,
-            "minY": 744,
+            "minY": 704,
             "maxX": 850,
-            "maxY": 773
+            "maxY": 733
         }
     },
     "RESOURCES_IMPROVE_BUTTON": {
         "screenBoundaries": {
             "minX": 1130,
-            "minY": 337,
+            "minY": 303,
             "maxX": 1189,
-            "maxY": 348
+            "maxY": 314
         }
     },
     "FACILITIES_ROBO": {
         "screenBoundaries": {
             "minX": 609,
-            "minY": 657,
+            "minY": 618,
             "maxX": 640,
-            "maxY": 693
+            "maxY": 654
         }
     },
     "FACILITIES_SHIP": {
         "screenBoundaries": {
             "minX": 710,
-            "minY": 649,
+            "minY": 609,
             "maxX": 745,
-            "maxY": 689
+            "maxY": 649
         }
     },
     "FACILITIES_LAB": {
         "screenBoundaries": {
             "minX": 823,
-            "minY": 643,
+            "minY": 605,
             "maxX": 862,
-            "maxY": 685
+            "maxY": 647
         }
     },
     "FACILITIES_ALLIACE_DEPOT": {
         "screenBoundaries": {
             "minX": 930,
-            "minY": 643,
+            "minY": 607,
             "maxX": 960,
-            "maxY": 687
+            "maxY": 651
         }
     },
     "FACILITIES_MISSILE": {
         "screenBoundaries": {
             "minX": 1037,
-            "minY": 639,
+            "minY": 605,
             "maxX": 1077,
-            "maxY": 686
+            "maxY": 652
         }
     },
     "FACILITIES_NANITE": {
         "screenBoundaries": {
             "minX": 1142,
-            "minY": 649,
+            "minY": 615,
             "maxX": 1180,
-            "maxY": 689
+            "maxY": 655
         }
     },
     "FACILITIES_TERRAFORMER": {
         "screenBoundaries": {
             "minX": 603,
-            "minY": 760,
+            "minY": 726,
             "maxX": 636,
-            "maxY": 790
+            "maxY": 756
         }
     },
     "FACILITIES_SPACEDOCK": {
         "screenBoundaries": {
             "minX": 719,
-            "minY": 750,
+            "minY": 712,
             "maxX": 751,
-            "maxY": 790
+            "maxY": 752
         }
     },
     "FACILITIES_IMPROVE": {
         "screenBoundaries": {
             "minX": 1134,
-            "minY": 339,
+            "minY": 303,
             "maxX": 1177,
-            "maxY": 346
+            "maxY": 310
         }
     },
     "FLEET2_SHORTCUTS": {
         "screenBoundaries": {
             "minX": 1057,
-            "minY": 363,
+            "minY": 326,
             "maxX": 1144,
-            "maxY": 370
+            "maxY": 333
         }
     },
     "FLEET2_SHORTCUTS_PLANET1": {
         "screenBoundaries": {
             "minX": 889,
-            "minY": 443,
+            "minY": 438,
             "maxX": 980,
-            "maxY": 454
+            "maxY": 449
         }
     },
     "FLEET2_SHORTCUTS_MOON1": {
@@ -1346,129 +1346,129 @@
     "FLEET2_SHORTCUTS_PLANET4": {
         "screenBoundaries": {
             "minX": 892,
-            "minY": 520,
+            "minY": 516,
             "maxX": 981,
-            "maxY": 526
+            "maxY": 522
         }
     },
     "FLEET2_SHORTCUTS_PLANET5": {
         "screenBoundaries": {
             "minX": 889,
-            "minY": 543,
+            "minY": 538,
             "maxX": 978,
-            "maxY": 552
+            "maxY": 547
         }
     },
     "FLEET2_SHORTCUTS_PLANET6": {
         "screenBoundaries": {
             "minX": 887,
-            "minY": 567,
+            "minY": 565,
             "maxX": 981,
-            "maxY": 576
+            "maxY": 574
         }
     },
     "FLEET2_SHORTCUTS_PLANET7": {
         "screenBoundaries": {
             "minX": 889,
-            "minY": 592,
+            "minY": 588,
             "maxX": 982,
-            "maxY": 602
+            "maxY": 598
         }
     },
     "FLEET2_SHORTCUTS_PLANET8": {
         "screenBoundaries": {
             "minX": 885,
-            "minY": 618,
+            "minY": 613,
             "maxX": 982,
-            "maxY": 627
+            "maxY": 622
         }
     },
     "FLEET2_SHORTCUTS_PLANET9": {
         "screenBoundaries": {
             "minX": 885,
-            "minY": 644,
+            "minY": 638,
             "maxX": 972,
-            "maxY": 651
+            "maxY": 645
         }
     },
     "FLEET2_SHORTCUTS_PLANET10": {
         "screenBoundaries": {
             "minX": 889,
-            "minY": 667,
+            "minY": 664,
             "maxX": 975,
-            "maxY": 677
+            "maxY": 674
         }
     },
     "FLEET2_SHORTCUTS_MOON2": {
         "screenBoundaries": {
             "minX": 1004,
-            "minY": 469,
+            "minY": 464,
             "maxX": 1026,
-            "maxY": 478
+            "maxY": 473
         }
     },
     "FLEET2_SHORTCUTS_MOON3": {
         "screenBoundaries": {
             "minX": 1001,
-            "minY": 495,
+            "minY": 492,
             "maxX": 1024,
-            "maxY": 502
+            "maxY": 499
         }
     },
     "FLEET2_SHORTCUTS_MOON4": {
         "screenBoundaries": {
             "minX": 1000,
-            "minY": 518,
+            "minY": 515,
             "maxX": 1025,
-            "maxY": 526
+            "maxY": 523
         }
     },
     "FLEET2_SHORTCUTS_MOON5": {
         "screenBoundaries": {
             "minX": 1004,
-            "minY": 543,
+            "minY": 539,
             "maxX": 1022,
-            "maxY": 550
+            "maxY": 546
         }
     },
     "FLEET2_SHORTCUTS_MOON6": {
         "screenBoundaries": {
             "minX": 1004,
-            "minY": 567,
+            "minY": 561,
             "maxX": 1023,
-            "maxY": 576
+            "maxY": 570
         }
     },
     "FLEET2_SHORTCUTS_MOON7": {
         "screenBoundaries": {
             "minX": 1003,
-            "minY": 596,
+            "minY": 587,
             "maxX": 1022,
-            "maxY": 603
+            "maxY": 594
         }
     },
     "FLEET2_SHORTCUTS_MOON8": {
         "screenBoundaries": {
             "minX": 1002,
-            "minY": 620,
+            "minY": 611,
             "maxX": 1024,
-            "maxY": 628
+            "maxY": 619
         }
     },
     "FLEET2_SHORTCUTS_MOON9": {
         "screenBoundaries": {
             "minX": 1002,
-            "minY": 645,
+            "minY": 638,
             "maxX": 1026,
-            "maxY": 653
+            "maxY": 646
         }
     },
     "FLEET2_SHORTCUTS_MOON10": {
         "screenBoundaries": {
             "minX": 1006,
-            "minY": 668,
+            "minY": 664,
             "maxX": 1025,
-            "maxY": 677
+            "maxY": 673
         }
     },
     "EEEE": {
@@ -1490,49 +1490,49 @@
     "JUMP_GATE": {
         "screenBoundaries": {
             "minX": 533,
-            "minY": 368,
+            "minY": 330,
             "maxX": 537,
-            "maxY": 373
+            "maxY": 335
         }
     },
     "JUMP_MOST": {
         "screenBoundaries": {
             "minX": 690,
-            "minY": 786,
+            "minY": 769,
             "maxX": 704,
-            "maxY": 802
+            "maxY": 785
         }
     },
     "JUMP_ALL": {
         "screenBoundaries": {
             "minX": 655,
-            "minY": 785,
+            "minY": 770,
             "maxX": 665,
-            "maxY": 801
+            "maxY": 786
         }
     },
     "JUMP_NONE": {
         "screenBoundaries": {
             "minX": 740,
-            "minY": 784,
+            "minY": 770,
             "maxX": 750,
-            "maxY": 800
+            "maxY": 786
         }
     },
     "JUMP_STANDARD_TGT": {
         "screenBoundaries": {
             "minX": 939,
-            "minY": 393,
+            "minY": 375,
             "maxX": 942,
-            "maxY": 396
+            "maxY": 378
         }
     },
     "JUMP_JUMP": {
         "screenBoundaries": {
             "minX": 1211,
-            "minY": 787,
+            "minY": 771,
             "maxX": 1258,
-            "maxY": 798
+            "maxY": 782
         }
     }
 }
