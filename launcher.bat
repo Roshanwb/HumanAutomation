@@ -10,7 +10,9 @@ echo ==============================
 echo 1. Run Automation
 echo 2. Scenario Maker
 echo 3. Mapper
-echo 4. Exit
+echo 4. Adjust Mapper
+echo 5. Make Scenario with user interactions
+echo 0. Exit
 echo ==============================
 set /p choice="Select an option: "
 
@@ -27,6 +29,14 @@ if "%choice%"=="3" (
     goto menu
 )
 if "%choice%"=="4" (
+    call :run_program "python mapper_gui.py"
+    goto menu
+)
+if "%choice%"=="5" (
+    call :run_program "python mapperAI.py"
+    goto menu
+)
+if "%choice%"=="0" (
     exit
 )
 
