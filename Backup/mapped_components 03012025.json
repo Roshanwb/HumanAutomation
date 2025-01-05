@@ -1,0 +1,1538 @@
+{
+    "BUTTON_FLEET": {
+        "screenBoundaries": {
+            "minX": 402,
+            "minY": 493,
+            "maxX": 498,
+            "maxY": 496
+        }
+    },
+    "BUTTON_SELECTEXPOCARGOS": {
+        "screenBoundaries": {
+            "minX": 694,
+            "minY": 754,
+            "maxX": 703,
+            "maxY": 766
+        }
+    },
+    "BUTTON_CONTINUE_FLEET": {
+        "screenBoundaries": {
+            "minX": 1115,
+            "minY": 748,
+            "maxX": 1181,
+            "maxY": 762
+        }
+    },
+    "BUTTON_EXPEDITION": {
+        "screenBoundaries": {
+            "minX": 588,
+            "minY": 515,
+            "maxX": 606,
+            "maxY": 536
+        }
+    },
+    "BUTTON_SEND": {
+        "screenBoundaries": {
+            "minX": 962,
+            "minY": 894,
+            "maxX": 1165,
+            "maxY": 914
+        }
+    },
+    "PLANET1": {
+        "screenBoundaries": {
+            "minX": 1247,
+            "minY": 257,
+            "maxX": 1307,
+            "maxY": 271
+        }
+    },
+    "PLANET2": {
+        "screenBoundaries": {
+            "minX": 1253,
+            "minY": 296,
+            "maxX": 1298,
+            "maxY": 319
+        }
+    },
+    "PLANET3": {
+        "screenBoundaries": {
+            "minX": 1251,
+            "minY": 347,
+            "maxX": 1302,
+            "maxY": 361
+        }
+    },
+    "PLANET4": {
+        "screenBoundaries": {
+            "minX": 1251,
+            "minY": 386,
+            "maxX": 1301,
+            "maxY": 407
+        }
+    },
+    "PLANET5": {
+        "screenBoundaries": {
+            "minX": 1250,
+            "minY": 433,
+            "maxX": 1293,
+            "maxY": 452
+        }
+    },
+    "PLANET6": {
+        "screenBoundaries": {
+            "minX": 1253,
+            "minY": 481,
+            "maxX": 1294,
+            "maxY": 496
+        }
+    },
+    "PLANET7": {
+        "screenBoundaries": {
+            "minX": 1254,
+            "minY": 524,
+            "maxX": 1294,
+            "maxY": 539
+        }
+    },
+    "PLANET8": {
+        "screenBoundaries": {
+            "minX": 1250,
+            "minY": 571,
+            "maxX": 1304,
+            "maxY": 589
+        }
+    },
+    "PLANET9": {
+        "screenBoundaries": {
+            "minX": 1248,
+            "minY": 617,
+            "maxX": 1302,
+            "maxY": 631
+        }
+    },
+    "PLANET10": {
+        "screenBoundaries": {
+            "minX": 1250,
+            "minY": 662,
+            "maxX": 1299,
+            "maxY": 678
+        }
+    },
+    "PLANET11": {
+        "screenBoundaries": {
+            "minX": 1246,
+            "minY": 703,
+            "maxX": 1336,
+            "maxY": 725
+        }
+    },
+    "MESSAGES": {
+        "screenBoundaries": {
+            "minX": 593,
+            "minY": 204,
+            "maxX": 618,
+            "maxY": 224
+        }
+    },
+    "MESSAGES_FLEET": {
+        "screenBoundaries": {
+            "minX": 586,
+            "minY": 282,
+            "maxX": 627,
+            "maxY": 328
+        }
+    },
+    "MESSAGES_ESP": {
+        "screenBoundaries": {
+            "minX": 574,
+            "minY": 363,
+            "maxX": 666,
+            "maxY": 378
+        }
+    },
+    "MESSAGES_COMBAT": {
+        "screenBoundaries": {
+            "minX": 694,
+            "minY": 365,
+            "maxX": 813,
+            "maxY": 380
+        }
+    },
+    "MESSAGES_EXPO": {
+        "screenBoundaries": {
+            "minX": 828,
+            "minY": 362,
+            "maxX": 929,
+            "maxY": 385
+        }
+    },
+    "MESSAGES_TRANSPORT": {
+        "screenBoundaries": {
+            "minX": 954,
+            "minY": 362,
+            "maxX": 1093,
+            "maxY": 383
+        }
+    },
+    "MESSAGES_OTHER": {
+        "screenBoundaries": {
+            "minX": 1113,
+            "minY": 363,
+            "maxX": 1202,
+            "maxY": 382
+        }
+    },
+    "CHAT": {
+        "screenBoundaries": {
+            "minX": 647,
+            "minY": 205,
+            "maxX": 676,
+            "maxY": 222
+        }
+    },
+    "CHAT_ALLY": {
+        "screenBoundaries": {
+            "minX": 582,
+            "minY": 345,
+            "maxX": 973,
+            "maxY": 405
+        }
+    },
+    "EVENTS_LIST": {
+        "screenBoundaries": {
+            "minX": 711,
+            "minY": 202,
+            "maxX": 1017,
+            "maxY": 228
+        }
+    },
+    "OVERVIEW": {
+        "screenBoundaries": {
+            "minX": 394,
+            "minY": 253,
+            "maxX": 503,
+            "maxY": 269
+        }
+    },
+    "RESOURCES": {
+        "screenBoundaries": {
+            "minX": 398,
+            "minY": 279,
+            "maxX": 504,
+            "maxY": 291
+        }
+    },
+    "LIFEFORM": {
+        "screenBoundaries": {
+            "minX": 393,
+            "minY": 306,
+            "maxX": 499,
+            "maxY": 316
+        }
+    },
+    "FACILITIES": {
+        "screenBoundaries": {
+            "minX": 396,
+            "minY": 327,
+            "maxX": 507,
+            "maxY": 340
+        }
+    },
+    "TRADER": {
+        "screenBoundaries": {
+            "minX": 396,
+            "minY": 354,
+            "maxX": 501,
+            "maxY": 365
+        }
+    },
+    "RESEARCH": {
+        "screenBoundaries": {
+            "minX": 395,
+            "minY": 379,
+            "maxX": 503,
+            "maxY": 393
+        }
+    },
+    "SHIPYARD": {
+        "screenBoundaries": {
+            "minX": 393,
+            "minY": 403,
+            "maxX": 504,
+            "maxY": 415
+        }
+    },
+    "WHOLESCREEN": {
+        "screenBoundaries": {
+            "minX": 0,
+            "minY": 0,
+            "maxX": 1920,
+            "maxY": 1024
+        }
+    },
+    "MINISCREEN": {
+        "screenBoundaries": {
+            "minX": 377,
+            "minY": 176,
+            "maxX": 1554,
+            "maxY": 701
+        }
+    },
+    "DEFENCE": {
+        "screenBoundaries": {
+            "minX": 396,
+            "minY": 431,
+            "maxX": 506,
+            "maxY": 443
+        }
+    },
+    "GALAXY": {
+        "screenBoundaries": {
+            "minX": 396,
+            "minY": 482,
+            "maxX": 505,
+            "maxY": 490
+        }
+    },
+    "EMPIRE": {
+        "screenBoundaries": {
+            "minX": 394,
+            "minY": 509,
+            "maxX": 500,
+            "maxY": 517
+        }
+    },
+    "ALLIANCE": {
+        "screenBoundaries": {
+            "minX": 397,
+            "minY": 531,
+            "maxX": 506,
+            "maxY": 543
+        }
+    },
+    "DESCOVERIES": {
+        "screenBoundaries": {
+            "minX": 1119,
+            "minY": 253,
+            "maxX": 1199,
+            "maxY": 262
+        }
+    },
+    "GALAXY_NEXT": {
+        "screenBoundaries": {
+            "minX": 751,
+            "minY": 249,
+            "maxX": 758,
+            "maxY": 257
+        }
+    },
+    "GALAXY_PREVIOUS": {
+        "screenBoundaries": {
+            "minX": 691,
+            "minY": 250,
+            "maxX": 701,
+            "maxY": 258
+        }
+    },
+    "GALAXY_DF_EXPO": {
+        "screenBoundaries": {
+            "minX": 809,
+            "minY": 863,
+            "maxX": 839,
+            "maxY": 875
+        }
+    },
+    "GALAXY_DF_EXPO_MINE": {
+        "screenBoundaries": {
+            "minX": 926,
+            "minY": 917,
+            "maxX": 944,
+            "maxY": 920
+        }
+    },
+    "EMPTY_AREA": {
+        "screenBoundaries": {
+            "minX": 10,
+            "minY": 189,
+            "maxX": 315,
+            "maxY": 1001
+        }
+    },
+    "CHROMETAB0": {
+        "screenBoundaries": {
+            "minX": 46,
+            "minY": 17,
+            "maxX": 222,
+            "maxY": 29
+        }
+    },
+    "CHROMETAB1": {
+        "screenBoundaries": {
+            "minX": 291,
+            "minY": 15,
+            "maxX": 463,
+            "maxY": 23
+        }
+    },
+    "CHROMETAB0_CLOSE": {
+        "screenBoundaries": {
+            "minX": 248,
+            "minY": 17,
+            "maxX": 252,
+            "maxY": 20
+        }
+    },
+    "CHROMETAB1_CLOSE": {
+        "screenBoundaries": {
+            "minX": 483,
+            "minY": 17,
+            "maxX": 489,
+            "maxY": 22
+        }
+    },
+    "CHROMETAB2": {
+        "screenBoundaries": {
+            "minX": 524,
+            "minY": 11,
+            "maxX": 697,
+            "maxY": 26
+        }
+    },
+    "CHROMETAB2_CLOSE": {
+        "screenBoundaries": {
+            "minX": 723,
+            "minY": 18,
+            "maxX": 727,
+            "maxY": 20
+        }
+    },
+    "CHROMETAB3": {
+        "screenBoundaries": {
+            "minX": 761,
+            "minY": 10,
+            "maxX": 938,
+            "maxY": 27
+        }
+    },
+    "CHROMETAB3_CLOSE": {
+        "screenBoundaries": {
+            "minX": 959,
+            "minY": 17,
+            "maxX": 964,
+            "maxY": 21
+        }
+    },
+    "CHROMETAB4": {
+        "screenBoundaries": {
+            "minX": 1002,
+            "minY": 11,
+            "maxX": 1174,
+            "maxY": 24
+        }
+    },
+    "CHROMETAB4_CLOSE": {
+        "screenBoundaries": {
+            "minX": 1198,
+            "minY": 18,
+            "maxX": 1202,
+            "maxY": 20
+        }
+    },
+    "CHROMETAB5": {
+        "screenBoundaries": {
+            "minX": 1238,
+            "minY": 12,
+            "maxX": 1404,
+            "maxY": 26
+        }
+    },
+    "CHROMETAB5_CLOSE": {
+        "screenBoundaries": {
+            "minX": 1434,
+            "minY": 17,
+            "maxX": 1439,
+            "maxY": 19
+        }
+    },
+    "ACCOUNT1": {
+        "screenBoundaries": {
+            "minX": 1332,
+            "minY": 326,
+            "maxX": 1447,
+            "maxY": 340
+        }
+    },
+    "ACCOUNT2": {
+        "screenBoundaries": {
+            "minX": 1328,
+            "minY": 363,
+            "maxX": 1437,
+            "maxY": 375
+        }
+    },
+    "ACCOUNT3": {
+        "screenBoundaries": {
+            "minX": 1328,
+            "minY": 397,
+            "maxX": 1443,
+            "maxY": 413
+        }
+    },
+    "ACCOUNT4": {
+        "screenBoundaries": {
+            "minX": 1325,
+            "minY": 436,
+            "maxX": 1444,
+            "maxY": 454
+        }
+    },
+    "ACCOUNT5": {
+        "screenBoundaries": {
+            "minX": 1330,
+            "minY": 476,
+            "maxX": 1444,
+            "maxY": 484
+        }
+    },
+    "CHROME_REFRESH": {
+        "screenBoundaries": {
+            "minX": 106,
+            "minY": 55,
+            "maxX": 128,
+            "maxY": 70
+        }
+    },
+    "MOON1": {
+        "screenBoundaries": {
+            "minX": 1414,
+            "minY": 257,
+            "maxX": 1425,
+            "maxY": 277
+        }
+    },
+    "MOON2": {
+        "screenBoundaries": {
+            "minX": 1414,
+            "minY": 299,
+            "maxX": 1434,
+            "maxY": 320
+        }
+    },
+    "MOON3": {
+        "screenBoundaries": {
+            "minX": 1413,
+            "minY": 346,
+            "maxX": 1427,
+            "maxY": 363
+        }
+    },
+    "MOON4": {
+        "screenBoundaries": {
+            "minX": 1413,
+            "minY": 389,
+            "maxX": 1432,
+            "maxY": 410
+        }
+    },
+    "MOON5": {
+        "screenBoundaries": {
+            "minX": 1414,
+            "minY": 435,
+            "maxX": 1433,
+            "maxY": 453
+        }
+    },
+    "MOON6": {
+        "screenBoundaries": {
+            "minX": 1413,
+            "minY": 478,
+            "maxX": 1430,
+            "maxY": 495
+        }
+    },
+    "MOON7": {
+        "screenBoundaries": {
+            "minX": 1414,
+            "minY": 523,
+            "maxX": 1431,
+            "maxY": 541
+        }
+    },
+    "MOON8": {
+        "screenBoundaries": {
+            "minX": 1412,
+            "minY": 573,
+            "maxX": 1433,
+            "maxY": 586
+        }
+    },
+    "MOON9": {
+        "screenBoundaries": {
+            "minX": 1412,
+            "minY": 610,
+            "maxX": 1431,
+            "maxY": 630
+        }
+    },
+    "MOON10": {
+        "screenBoundaries": {
+            "minX": 1414,
+            "minY": 659,
+            "maxX": 1431,
+            "maxY": 679
+        }
+    },
+    "MOON11": {
+        "screenBoundaries": {
+            "minX": 1413,
+            "minY": 707,
+            "maxX": 1432,
+            "maxY": 725
+        }
+    },
+    "EEE": {
+        "screenBoundaries": {
+            "minX": 1058,
+            "minY": 529,
+            "maxX": 1061,
+            "maxY": 544
+        }
+    },
+    "DEF_RL": {
+        "screenBoundaries": {
+            "minX": 591,
+            "minY": 552,
+            "maxX": 641,
+            "maxY": 605
+        }
+    },
+    "DEF_LL": {
+        "screenBoundaries": {
+            "minX": 697,
+            "minY": 546,
+            "maxX": 755,
+            "maxY": 608
+        }
+    },
+    "DEF_HL": {
+        "screenBoundaries": {
+            "minX": 807,
+            "minY": 546,
+            "maxX": 857,
+            "maxY": 612
+        }
+    },
+    "DEF_GAUSS": {
+        "screenBoundaries": {
+            "minX": 911,
+            "minY": 545,
+            "maxX": 968,
+            "maxY": 610
+        }
+    },
+    "DEF_IC": {
+        "screenBoundaries": {
+            "minX": 1021,
+            "minY": 543,
+            "maxX": 1078,
+            "maxY": 601
+        }
+    },
+    "DEF_PT": {
+        "screenBoundaries": {
+            "minX": 1132,
+            "minY": 543,
+            "maxX": 1186,
+            "maxY": 603
+        }
+    },
+    "DEF_SSD": {
+        "screenBoundaries": {
+            "minX": 591,
+            "minY": 650,
+            "maxX": 639,
+            "maxY": 700
+        }
+    },
+    "DEF_LSD": {
+        "screenBoundaries": {
+            "minX": 696,
+            "minY": 651,
+            "maxX": 745,
+            "maxY": 706
+        }
+    },
+    "DEF_ABM": {
+        "screenBoundaries": {
+            "minX": 809,
+            "minY": 649,
+            "maxX": 857,
+            "maxY": 706
+        }
+    },
+    "DEF_IPM": {
+        "screenBoundaries": {
+            "minX": 911,
+            "minY": 655,
+            "maxX": 965,
+            "maxY": 702
+        }
+    },
+    "DEF_TEXT": {
+        "screenBoundaries": {
+            "minX": 1121,
+            "minY": 394,
+            "maxX": 1183,
+            "maxY": 405
+        }
+    },
+    "DEF_BUILD": {
+        "screenBoundaries": {
+            "minX": 1125,
+            "minY": 300,
+            "maxX": 1189,
+            "maxY": 314
+        }
+    },
+    "DEF_OPTIMAL": {
+        "screenBoundaries": {
+            "minX": 1113,
+            "minY": 429,
+            "maxX": 1153,
+            "maxY": 434
+        }
+    },
+    "FLEET_SELECT_MOST": {
+        "screenBoundaries": {
+            "minX": 589,
+            "minY": 715,
+            "maxX": 601,
+            "maxY": 731
+        }
+    },
+    "FLEET_SELECT_ALL": {
+        "screenBoundaries": {
+            "minX": 625,
+            "minY": 717,
+            "maxX": 638,
+            "maxY": 731
+        }
+    },
+    "FLEET_SELECT_NONE": {
+        "screenBoundaries": {
+            "minX": 660,
+            "minY": 715,
+            "maxX": 673,
+            "maxY": 729
+        }
+    },
+    "FLEET_RES_MOST": {
+        "screenBoundaries": {
+            "minX": 921,
+            "minY": 648,
+            "maxX": 929,
+            "maxY": 655
+        }
+    },
+    "FLEET_RES_ALL": {
+        "screenBoundaries": {
+            "minX": 948,
+            "minY": 645,
+            "maxX": 955,
+            "maxY": 656
+        }
+    },
+    "FLEET_RES_NONE": {
+        "screenBoundaries": {
+            "minX": 974,
+            "minY": 647,
+            "maxX": 982,
+            "maxY": 654
+        }
+    },
+    "FLEET_TO_PLANET": {
+        "screenBoundaries": {
+            "minX": 733,
+            "minY": 490,
+            "maxX": 738,
+            "maxY": 497
+        }
+    },
+    "FLEET_TO_MOON": {
+        "screenBoundaries": {
+            "minX": 758,
+            "minY": 486,
+            "maxX": 765,
+            "maxY": 494
+        }
+    },
+    "FLEET_TO_DF": {
+        "screenBoundaries": {
+            "minX": 785,
+            "minY": 488,
+            "maxX": 793,
+            "maxY": 496
+        }
+    },
+    "FLEET_SEND_LC": {
+        "screenBoundaries": {
+            "minX": 1109,
+            "minY": 520,
+            "maxX": 1117,
+            "maxY": 529
+        }
+    },
+    "FLEET_SEND_SC": {
+        "screenBoundaries": {
+            "minX": 1108,
+            "minY": 490,
+            "maxX": 1116,
+            "maxY": 498
+        }
+    },
+    "FLEET_SEND_PF": {
+        "screenBoundaries": {
+            "minX": 1110,
+            "minY": 550,
+            "maxX": 1118,
+            "maxY": 558
+        }
+    },
+    "FLEET_SEND_RECS": {
+        "screenBoundaries": {
+            "minX": 1107,
+            "minY": 581,
+            "maxX": 1115,
+            "maxY": 591
+        }
+    },
+    "FLEET_SEND_PROBS": {
+        "screenBoundaries": {
+            "minX": 1106,
+            "minY": 607,
+            "maxX": 1116,
+            "maxY": 618
+        }
+    },
+    "FLEET2_COLONIZATION": {
+        "screenBoundaries": {
+            "minX": 651,
+            "minY": 516,
+            "maxX": 672,
+            "maxY": 534
+        }
+    },
+    "FLEET2_RECDF": {
+        "screenBoundaries": {
+            "minX": 715,
+            "minY": 513,
+            "maxX": 734,
+            "maxY": 534
+        }
+    },
+    "FLEET2_TRANSPORT": {
+        "screenBoundaries": {
+            "minX": 782,
+            "minY": 513,
+            "maxX": 798,
+            "maxY": 533
+        }
+    },
+    "FLEET2_DEPLOY": {
+        "screenBoundaries": {
+            "minX": 846,
+            "minY": 512,
+            "maxX": 868,
+            "maxY": 534
+        }
+    },
+    "FLEET2_SPY": {
+        "screenBoundaries": {
+            "minX": 907,
+            "minY": 516,
+            "maxX": 927,
+            "maxY": 539
+        }
+    },
+    "FLEET2_ACS": {
+        "screenBoundaries": {
+            "minX": 976,
+            "minY": 518,
+            "maxX": 995,
+            "maxY": 538
+        }
+    },
+    "FLEET2_ATTACK": {
+        "screenBoundaries": {
+            "minX": 1038,
+            "minY": 516,
+            "maxX": 1058,
+            "maxY": 537
+        }
+    },
+    "FLEET2_JOIN": {
+        "screenBoundaries": {
+            "minX": 1103,
+            "minY": 480,
+            "maxX": 1124,
+            "maxY": 503
+        }
+    },
+    "FLEET2_MD": {
+        "screenBoundaries": {
+            "minX": 1164,
+            "minY": 482,
+            "maxX": 1188,
+            "maxY": 507
+        }
+    },
+    "FLEET2_GAL": {
+        "screenBoundaries": {
+            "minX": 882,
+            "minY": 376,
+            "maxX": 886,
+            "maxY": 376
+        }
+    },
+    "FLEET2_SYS": {
+        "screenBoundaries": {
+            "minX": 923,
+            "minY": 371,
+            "maxX": 937,
+            "maxY": 371
+        }
+    },
+    "FLEET2_PLACE": {
+        "screenBoundaries": {
+            "minX": 975,
+            "minY": 376,
+            "maxX": 990,
+            "maxY": 376
+        }
+    },
+    "FLEET2_PLANET": {
+        "screenBoundaries": {
+            "minX": 890,
+            "minY": 340,
+            "maxX": 902,
+            "maxY": 350
+        }
+    },
+    "FLEET2_MOON": {
+        "screenBoundaries": {
+            "minX": 934,
+            "minY": 340,
+            "maxX": 942,
+            "maxY": 351
+        }
+    },
+    "FLEET2_MOST_RES": {
+        "screenBoundaries": {
+            "minX": 1096,
+            "minY": 617,
+            "maxX": 1104,
+            "maxY": 631
+        }
+    },
+    "FLEET2_ALL_RES": {
+        "screenBoundaries": {
+            "minX": 1133,
+            "minY": 618,
+            "maxX": 1143,
+            "maxY": 628
+        }
+    },
+    "FLEET2_NO_RES": {
+        "screenBoundaries": {
+            "minX": 1164,
+            "minY": 617,
+            "maxX": 1177,
+            "maxY": 629
+        }
+    },
+    "FLEET2_ALL_M": {
+        "screenBoundaries": {
+            "minX": 942,
+            "minY": 625,
+            "maxX": 944,
+            "maxY": 627
+        }
+    },
+    "FLEET2_MOST_M": {
+        "screenBoundaries": {
+            "minX": 924,
+            "minY": 624,
+            "maxX": 928,
+            "maxY": 628
+        }
+    },
+    "FLEET2_NO_M": {
+        "screenBoundaries": {
+            "minX": 906,
+            "minY": 623,
+            "maxX": 909,
+            "maxY": 627
+        }
+    },
+    "FLEET2_ALL_C": {
+        "screenBoundaries": {
+            "minX": 940,
+            "minY": 669,
+            "maxX": 946,
+            "maxY": 673
+        }
+    },
+    "FLEET2_MOST_C": {
+        "screenBoundaries": {
+            "minX": 924,
+            "minY": 670,
+            "maxX": 927,
+            "maxY": 676
+        }
+    },
+    "FLEET2_NO_C": {
+        "screenBoundaries": {
+            "minX": 905,
+            "minY": 672,
+            "maxX": 908,
+            "maxY": 673
+        }
+    },
+    "FLEET2_ALL_D": {
+        "screenBoundaries": {
+            "minX": 942,
+            "minY": 714,
+            "maxX": 947,
+            "maxY": 718
+        }
+    },
+    "FLEET2_MOST_D": {
+        "screenBoundaries": {
+            "minX": 925,
+            "minY": 715,
+            "maxX": 929,
+            "maxY": 717
+        }
+    },
+    "FLEET2_NO_D": {
+        "screenBoundaries": {
+            "minX": 906,
+            "minY": 714,
+            "maxX": 911,
+            "maxY": 719
+        }
+    },
+    "FLEET2_TXT_M": {
+        "screenBoundaries": {
+            "minX": 965,
+            "minY": 605,
+            "maxX": 1034,
+            "maxY": 610
+        }
+    },
+    "FLEET2_TXT_C": {
+        "screenBoundaries": {
+            "minX": 957,
+            "minY": 652,
+            "maxX": 1033,
+            "maxY": 657
+        }
+    },
+    "FLEET2_TXT_D": {
+        "screenBoundaries": {
+            "minX": 963,
+            "minY": 697,
+            "maxX": 1039,
+            "maxY": 704
+        }
+    },
+    "FLEET2_TXT_F": {
+        "screenBoundaries": {
+            "minX": 958,
+            "minY": 744,
+            "maxX": 1038,
+            "maxY": 746
+        }
+    },
+    "FLEET2_ALL_F": {
+        "screenBoundaries": {
+            "minX": 942,
+            "minY": 763,
+            "maxX": 945,
+            "maxY": 765
+        }
+    },
+    "FLEET2_NO_F": {
+        "screenBoundaries": {
+            "minX": 906,
+            "minY": 762,
+            "maxX": 910,
+            "maxY": 767
+        }
+    },
+    "FLEET2_MOST_F": {
+        "screenBoundaries": {
+            "minX": 923,
+            "minY": 762,
+            "maxX": 929,
+            "maxY": 766
+        }
+    },
+    "FLEET2_10P": {
+        "screenBoundaries": {
+            "minX": 591,
+            "minY": 809,
+            "maxX": 623,
+            "maxY": 818
+        }
+    },
+    "FLEET2_20P": {
+        "screenBoundaries": {
+            "minX": 652,
+            "minY": 806,
+            "maxX": 685,
+            "maxY": 814
+        }
+    },
+    "FLEET2_30P": {
+        "screenBoundaries": {
+            "minX": 713,
+            "minY": 809,
+            "maxX": 751,
+            "maxY": 812
+        }
+    },
+    "FLEET2_40P": {
+        "screenBoundaries": {
+            "minX": 778,
+            "minY": 808,
+            "maxX": 811,
+            "maxY": 814
+        }
+    },
+    "FLEET2_50P": {
+        "screenBoundaries": {
+            "minX": 837,
+            "minY": 804,
+            "maxX": 874,
+            "maxY": 813
+        }
+    },
+    "FLEET2_60P": {
+        "screenBoundaries": {
+            "minX": 898,
+            "minY": 807,
+            "maxX": 938,
+            "maxY": 817
+        }
+    },
+    "FLEET2_70P": {
+        "screenBoundaries": {
+            "minX": 963,
+            "minY": 805,
+            "maxX": 997,
+            "maxY": 813
+        }
+    },
+    "FLEET2_80P": {
+        "screenBoundaries": {
+            "minX": 1024,
+            "minY": 808,
+            "maxX": 1057,
+            "maxY": 817
+        }
+    },
+    "FLEET2_90P": {
+        "screenBoundaries": {
+            "minX": 1080,
+            "minY": 807,
+            "maxX": 1122,
+            "maxY": 816
+        }
+    },
+    "FLEET2_100P": {
+        "screenBoundaries": {
+            "minX": 1150,
+            "minY": 805,
+            "maxX": 1186,
+            "maxY": 814
+        }
+    },
+    "RESOURCES_M": {
+        "screenBoundaries": {
+            "minX": 611,
+            "minY": 612,
+            "maxX": 639,
+            "maxY": 637
+        }
+    },
+    "RESOURCES_C": {
+        "screenBoundaries": {
+            "minX": 714,
+            "minY": 616,
+            "maxX": 747,
+            "maxY": 646
+        }
+    },
+    "RESOURCES_D": {
+        "screenBoundaries": {
+            "minX": 824,
+            "minY": 611,
+            "maxX": 850,
+            "maxY": 648
+        }
+    },
+    "RESOURCES_S": {
+        "screenBoundaries": {
+            "minX": 922,
+            "minY": 611,
+            "maxX": 959,
+            "maxY": 645
+        }
+    },
+    "RESOURCES_FR": {
+        "screenBoundaries": {
+            "minX": 1034,
+            "minY": 604,
+            "maxX": 1065,
+            "maxY": 640
+        }
+    },
+    "RESOURCES_MS": {
+        "screenBoundaries": {
+            "minX": 618,
+            "minY": 701,
+            "maxX": 638,
+            "maxY": 733
+        }
+    },
+    "RESOURCES_CS": {
+        "screenBoundaries": {
+            "minX": 725,
+            "minY": 710,
+            "maxX": 740,
+            "maxY": 739
+        }
+    },
+    "RESOURCES_DS": {
+        "screenBoundaries": {
+            "minX": 832,
+            "minY": 704,
+            "maxX": 850,
+            "maxY": 733
+        }
+    },
+    "RESOURCES_IMPROVE_BUTTON": {
+        "screenBoundaries": {
+            "minX": 1130,
+            "minY": 303,
+            "maxX": 1189,
+            "maxY": 314
+        }
+    },
+    "FACILITIES_ROBO": {
+        "screenBoundaries": {
+            "minX": 609,
+            "minY": 618,
+            "maxX": 640,
+            "maxY": 654
+        }
+    },
+    "FACILITIES_SHIP": {
+        "screenBoundaries": {
+            "minX": 710,
+            "minY": 609,
+            "maxX": 745,
+            "maxY": 649
+        }
+    },
+    "FACILITIES_LAB": {
+        "screenBoundaries": {
+            "minX": 823,
+            "minY": 605,
+            "maxX": 862,
+            "maxY": 647
+        }
+    },
+    "FACILITIES_ALLIACE_DEPOT": {
+        "screenBoundaries": {
+            "minX": 930,
+            "minY": 607,
+            "maxX": 960,
+            "maxY": 651
+        }
+    },
+    "FACILITIES_MISSILE": {
+        "screenBoundaries": {
+            "minX": 1037,
+            "minY": 605,
+            "maxX": 1077,
+            "maxY": 652
+        }
+    },
+    "FACILITIES_NANITE": {
+        "screenBoundaries": {
+            "minX": 1142,
+            "minY": 615,
+            "maxX": 1180,
+            "maxY": 655
+        }
+    },
+    "FACILITIES_TERRAFORMER": {
+        "screenBoundaries": {
+            "minX": 603,
+            "minY": 726,
+            "maxX": 636,
+            "maxY": 756
+        }
+    },
+    "FACILITIES_SPACEDOCK": {
+        "screenBoundaries": {
+            "minX": 719,
+            "minY": 712,
+            "maxX": 751,
+            "maxY": 752
+        }
+    },
+    "FACILITIES_IMPROVE": {
+        "screenBoundaries": {
+            "minX": 1134,
+            "minY": 303,
+            "maxX": 1177,
+            "maxY": 310
+        }
+    },
+    "FLEET2_SHORTCUTS": {
+        "screenBoundaries": {
+            "minX": 1057,
+            "minY": 326,
+            "maxX": 1144,
+            "maxY": 333
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET1": {
+        "screenBoundaries": {
+            "minX": 889,
+            "minY": 438,
+            "maxX": 980,
+            "maxY": 449
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON1": {
+        "screenBoundaries": {
+            "minX": 1004,
+            "minY": 441,
+            "maxX": 1023,
+            "maxY": 451
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET2": {
+        "screenBoundaries": {
+            "minX": 888,
+            "minY": 465,
+            "maxX": 980,
+            "maxY": 478
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET3": {
+        "screenBoundaries": {
+            "minX": 893,
+            "minY": 488,
+            "maxX": 975,
+            "maxY": 499
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET4": {
+        "screenBoundaries": {
+            "minX": 892,
+            "minY": 516,
+            "maxX": 981,
+            "maxY": 522
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET5": {
+        "screenBoundaries": {
+            "minX": 889,
+            "minY": 538,
+            "maxX": 978,
+            "maxY": 547
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET6": {
+        "screenBoundaries": {
+            "minX": 887,
+            "minY": 565,
+            "maxX": 981,
+            "maxY": 574
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET7": {
+        "screenBoundaries": {
+            "minX": 889,
+            "minY": 588,
+            "maxX": 982,
+            "maxY": 598
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET8": {
+        "screenBoundaries": {
+            "minX": 885,
+            "minY": 613,
+            "maxX": 982,
+            "maxY": 622
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET9": {
+        "screenBoundaries": {
+            "minX": 885,
+            "minY": 638,
+            "maxX": 972,
+            "maxY": 645
+        }
+    },
+    "FLEET2_SHORTCUTS_PLANET10": {
+        "screenBoundaries": {
+            "minX": 889,
+            "minY": 664,
+            "maxX": 975,
+            "maxY": 674
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON2": {
+        "screenBoundaries": {
+            "minX": 1004,
+            "minY": 464,
+            "maxX": 1026,
+            "maxY": 473
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON3": {
+        "screenBoundaries": {
+            "minX": 1001,
+            "minY": 492,
+            "maxX": 1024,
+            "maxY": 499
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON4": {
+        "screenBoundaries": {
+            "minX": 1000,
+            "minY": 515,
+            "maxX": 1025,
+            "maxY": 523
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON5": {
+        "screenBoundaries": {
+            "minX": 1004,
+            "minY": 539,
+            "maxX": 1022,
+            "maxY": 546
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON6": {
+        "screenBoundaries": {
+            "minX": 1004,
+            "minY": 561,
+            "maxX": 1023,
+            "maxY": 570
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON7": {
+        "screenBoundaries": {
+            "minX": 1003,
+            "minY": 587,
+            "maxX": 1022,
+            "maxY": 594
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON8": {
+        "screenBoundaries": {
+            "minX": 1002,
+            "minY": 611,
+            "maxX": 1024,
+            "maxY": 619
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON9": {
+        "screenBoundaries": {
+            "minX": 1002,
+            "minY": 638,
+            "maxX": 1026,
+            "maxY": 646
+        }
+    },
+    "FLEET2_SHORTCUTS_MOON10": {
+        "screenBoundaries": {
+            "minX": 1006,
+            "minY": 664,
+            "maxX": 1025,
+            "maxY": 673
+        }
+    },
+    "EEEE": {
+        "screenBoundaries": {
+            "minX": -1435,
+            "minY": 242,
+            "maxX": -77,
+            "maxY": 396
+        }
+    },
+    "JUMP_OK": {
+        "screenBoundaries": {
+            "minX": 919,
+            "minY": 575,
+            "maxX": 986,
+            "maxY": 589
+        }
+    },
+    "JUMP_GATE": {
+        "screenBoundaries": {
+            "minX": 533,
+            "minY": 330,
+            "maxX": 537,
+            "maxY": 335
+        }
+    },
+    "JUMP_MOST": {
+        "screenBoundaries": {
+            "minX": 690,
+            "minY": 769,
+            "maxX": 704,
+            "maxY": 785
+        }
+    },
+    "JUMP_ALL": {
+        "screenBoundaries": {
+            "minX": 655,
+            "minY": 770,
+            "maxX": 665,
+            "maxY": 786
+        }
+    },
+    "JUMP_NONE": {
+        "screenBoundaries": {
+            "minX": 740,
+            "minY": 770,
+            "maxX": 750,
+            "maxY": 786
+        }
+    },
+    "JUMP_STANDARD_TGT": {
+        "screenBoundaries": {
+            "minX": 939,
+            "minY": 375,
+            "maxX": 942,
+            "maxY": 378
+        }
+    },
+    "JUMP_JUMP": {
+        "screenBoundaries": {
+            "minX": 1211,
+            "minY": 771,
+            "maxX": 1258,
+            "maxY": 782
+        }
+    }
+}
