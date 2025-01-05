@@ -2,12 +2,12 @@ TOTALTIME, 180-200
 
 wait,1-2
 
-shutdown
- 
+
 CALL main_scenario_p1
 wait, 10-15
 CALL main_scenario_p2
 wait, 10-15
 CALL main_scenario_p3
+CALL main_scenario_p4
 
 REPEAT

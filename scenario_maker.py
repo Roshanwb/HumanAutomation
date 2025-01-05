@@ -68,7 +68,7 @@ class ScenarioCreatorApp:
         ttk.Label(main_frame, text="Scenario Composition:").grid(row=1, column=0, columnspan=5)
         text_frame = ttk.Frame(main_frame)
         text_frame.grid(row=2, column=0, columnspan=5, pady=10, sticky="NSEW")
-        self.composition_text = tk.Text(text_frame, width=100, height=20, wrap="none")
+        self.composition_text = tk.Text(text_frame, width=150, height=20, wrap="none")
         text_scrollbar_y = ttk.Scrollbar(text_frame, orient="vertical", command=self.composition_text.yview)
         text_scrollbar_x = ttk.Scrollbar(text_frame, orient="horizontal", command=self.composition_text.xview)
         self.composition_text.configure(yscrollcommand=text_scrollbar_y.set, xscrollcommand=text_scrollbar_x.set)
@@ -97,7 +97,7 @@ class ScenarioCreatorApp:
         listbox_frame = ttk.Frame(frame)
         listbox_frame.pack(fill="both", expand=True)
 
-        listbox = tk.Listbox(listbox_frame, height=15, width=25, exportselection=False)
+        listbox = tk.Listbox(listbox_frame, height=15, width=30, exportselection=False)
         listbox.pack(side="left", fill="both", expand=True)
 
         scrollbar = ttk.Scrollbar(listbox_frame, orient="vertical", command=listbox.yview)
