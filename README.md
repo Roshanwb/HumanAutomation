@@ -16,7 +16,7 @@ A professional, user-friendly automation framework for creating human-like inter
 ### For Developers:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/humanautomation.git
+git clone https://github.com/Roshanwb/humanautomation.git
 cd humanautomation
 
 # Run setup (Windows)
@@ -63,7 +63,8 @@ HumanAutomation/
 ```bash
 # Windows
 installer.bat
-
+```
+```bash
 # Linux/macOS
 chmod +x installer.sh
 ./installer.sh
@@ -254,7 +255,7 @@ We welcome contributions! Here's how:
 ### Development Setup
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/humanautomation.git
+git clone https://github.com/Roshanwb/humanautomation.git
 cd humanautomation
 setup_project.bat
 installer.bat
@@ -279,9 +280,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Automating!** 🎉
 
 For support, questions, or suggestions:
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/humanautomation/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/humanautomation/discussions)
+- 📧 Email: roshanwb@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/Roshanwb/humanautomation/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Roshanwb/humanautomation/discussions)
 
 ---
 
