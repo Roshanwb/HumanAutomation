@@ -3,4 +3,11 @@ TOTALTIME, 180-200
 
 wait, 0.05-0.40
 
-End
+movemouse
+
+movemouse
+
+movemouse
+
+
+end
