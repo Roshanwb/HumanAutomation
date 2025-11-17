@@ -1,0 +1,14 @@
+{
+  "MAIN_SCENARIO_FILE": "scenarios/main.txt",
+  "LOG_DIR": "logs",
+  "MAPPED_COMPONENTS_FILE": "mapped_components.json",
+  "WHOLESCREEN_KEY": "WHOLESCREEN",
+  "SPECIAL_LOGIN_FILE": "special_login.txt",
+  "SCENARIO_FOLDERS": {
+    "mustdo": "scenarios/mustdo",
+    "randos": "scenarios/randos",
+    "fillers": "scenarios/fillers"
+  },
+  "DeltaX": 0,
+  "DeltaY": 0
+}

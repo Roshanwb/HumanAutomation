@@ -1,6 +1,0 @@
-[2024-12-23 20:19:13] No last Chrome tab recorded. Skipping.
-[2024-12-23 20:19:13] Set TOTALTIME to 100.13 minutes
-[2024-12-23 20:19:13] Calling scenario: randos\viewevents.txt [Total remaining time:100.1317793345611]
-[2024-12-23 20:19:15] Moved mouse to (975, 214) smoothly
-[2024-12-23 20:19:15] Clicked on component 'events_list' at (975, 214)
-[2024-12-23 20:19:18] Waited for 0.07 minutes

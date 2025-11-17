@@ -1,8 +1,0 @@
-
-CALL shortExpoUniSaros
-wait, 10-15
-
-
-CALL LONGWAIT
-CALL SPEND_TIME1
-CALL shortExpoUniGaspara

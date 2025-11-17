@@ -1,6 +1,0 @@
-[2024-12-21 20:49:26] Executing special login scenario.
-[2024-12-21 20:49:28] Moved mouse to (1438, 18) smoothly
-[2024-12-21 20:49:28] Clicked on component 'chrometab5_close' at (1438, 18)
-[2024-12-21 20:49:28] Executing filler: fillers\SMALLWAIT.txt
-[2024-12-21 20:49:32] Waited for 0.07 minutes
-[2024-12-21 20:49:32] Executing filler: fillers\LONGWAIT.txt

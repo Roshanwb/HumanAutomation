@@ -1,2 +1,0 @@
-Click MOON3, 500-1500
-CALL JUMP

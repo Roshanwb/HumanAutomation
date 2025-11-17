@@ -1534,5 +1534,157 @@
             "maxX": 1258,
             "maxY": 798
         }
+    },
+    "SHIPYARD_LC": {
+        "screenBoundaries": {
+            "minX": 1033,
+            "minY": 580,
+            "maxX": 1074,
+            "maxY": 621
+        }
+    },
+    "SHIPYARD_SC": {
+        "screenBoundaries": {
+            "minX": 963,
+            "minY": 583,
+            "maxX": 990,
+            "maxY": 617
+        }
+    },
+    "SHIPYARD_CS": {
+        "screenBoundaries": {
+            "minX": 1117,
+            "minY": 588,
+            "maxX": 1145,
+            "maxY": 623
+        }
+    },
+    "SHIPYARD_REC": {
+        "screenBoundaries": {
+            "minX": 956,
+            "minY": 668,
+            "maxX": 990,
+            "maxY": 709
+        }
+    },
+    "SHIPYARD_PROB": {
+        "screenBoundaries": {
+            "minX": 1041,
+            "minY": 671,
+            "maxX": 1065,
+            "maxY": 698
+        }
+    },
+    "SHIPYARD_SS": {
+        "screenBoundaries": {
+            "minX": 1122,
+            "minY": 667,
+            "maxX": 1141,
+            "maxY": 696
+        }
+    },
+    "SHIPYARD_LF": {
+        "screenBoundaries": {
+            "minX": 598,
+            "minY": 591,
+            "maxX": 625,
+            "maxY": 612
+        }
+    },
+    "SHIPYARD_HF": {
+        "screenBoundaries": {
+            "minX": 678,
+            "minY": 593,
+            "maxX": 706,
+            "maxY": 619
+        }
+    },
+    "SHIPYARD_CRU": {
+        "screenBoundaries": {
+            "minX": 760,
+            "minY": 589,
+            "maxX": 783,
+            "maxY": 614
+        }
+    },
+    "SHIPYARD_BS": {
+        "screenBoundaries": {
+            "minX": 840,
+            "minY": 590,
+            "maxX": 865,
+            "maxY": 622
+        }
+    },
+    "SHIPYARD_BC": {
+        "screenBoundaries": {
+            "minX": 601,
+            "minY": 675,
+            "maxX": 625,
+            "maxY": 707
+        }
+    },
+    "SHIPYARD_BOM": {
+        "screenBoundaries": {
+            "minX": 679,
+            "minY": 671,
+            "maxX": 701,
+            "maxY": 695
+        }
+    },
+    "SHIPYARD_DES": {
+        "screenBoundaries": {
+            "minX": 762,
+            "minY": 667,
+            "maxX": 790,
+            "maxY": 695
+        }
+    },
+    "SHIPYARD_RIP": {
+        "screenBoundaries": {
+            "minX": 848,
+            "minY": 665,
+            "maxX": 866,
+            "maxY": 695
+        }
+    },
+    "SHIPYARD_REAPER": {
+        "screenBoundaries": {
+            "minX": 600,
+            "minY": 752,
+            "maxX": 622,
+            "maxY": 781
+        }
+    },
+    "SHIPYARD_PF": {
+        "screenBoundaries": {
+            "minX": 683,
+            "minY": 745,
+            "maxX": 704,
+            "maxY": 778
+        }
+    },
+    "SHIPYARD_MAX_SHIPS": {
+        "screenBoundaries": {
+            "minX": 1116,
+            "minY": 465,
+            "maxX": 1167,
+            "maxY": 471
+        }
+    },
+    "SHIPYARD_NUMBER": {
+        "screenBoundaries": {
+            "minX": 1124,
+            "minY": 432,
+            "maxX": 1182,
+            "maxY": 446
+        }
+    },
+    "SHIPYARD_BUILD": {
+        "screenBoundaries": {
+            "minX": 1127,
+            "minY": 336,
+            "maxX": 1188,
+            "maxY": 348
+        }
     }
 }
