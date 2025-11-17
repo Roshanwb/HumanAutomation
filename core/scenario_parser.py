@@ -1,6 +1,5 @@
 """
 Parses scenario files and converts them into commands.
-Think of this as a recipe reader that understands your automation language.
 """
 import re
 from typing import Dict, Any, Optional, List
@@ -9,7 +8,6 @@ from typing import Dict, Any, Optional, List
 class ScenarioParser:
     """
     Reads scenario files and converts each line into command data.
-    This understands the special syntax of your scenario files.
     """
     
     @staticmethod
@@ -24,26 +22,45 @@ class ScenarioParser:
         if not line or line.startswith('#'):
             return None
         
-        print(f"📖 Reading line: {line}")
-        
         # Split command part and parameters part
         parts = line.split(',', 1)
         command_part = parts[0].strip()
         params_part = parts[1].strip() if len(parts) > 1 else ""
         
+        # Handle TOTALTIME command specifically (it has different syntax)
+        if command_part.lower().startswith('totaltime'):
+            return ScenarioParser._parse_totaltime_command(command_part, params_part)
+        
         # Figure out what type of command this is
-        if command_part.lower().startswith(('click', 'type', 'press')):
+        if command_part.lower().startswith(('click', 'type', 'press', 'call', 'execute')):
             return ScenarioParser._parse_action_command(command_part, params_part)
-        elif command_part.lower().startswith(('wait', 'totaltime')):
+        elif command_part.lower().startswith('wait'):
             return ScenarioParser._parse_timing_command(command_part, params_part)
+        elif command_part.lower().startswith(('movemouse', 'beep', 'repeat', 'end', 'shutdown')):
+            return ScenarioParser._parse_simple_command(command_part, params_part)
         else:
             return ScenarioParser._parse_simple_command(command_part, params_part)
     
     @staticmethod
+    def _parse_totaltime_command(command: str, params: str) -> Dict[str, Any]:
+        """Parse TOTALTIME command specifically."""
+        # TOTALTIME has format: TOTALTIME,min-max
+        if '-' in params:
+            time_parts = params.split('-')
+            min_time = float(time_parts[0])
+            max_time = float(time_parts[1])
+        else:
+            min_time = max_time = float(params) if params else 60.0
+        
+        return {
+            'type': 'totaltime',
+            'min_value': min_time,
+            'max_value': max_time
+        }
+    
+    @staticmethod
     def _parse_action_command(command: str, params: str) -> Dict[str, Any]:
         """Parse commands like 'click button1' or 'type "hello"'."""
-        # Split the command into type and target
-        # Example: "click button1" -> type="click", target="button1"
         command_parts = command.split(' ', 1)
         command_type = command_parts[0].lower()
         target = command_parts[1] if len(command_parts) > 1 else ""

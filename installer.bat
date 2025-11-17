@@ -1,5 +1,5 @@
 @echo off
-title HumanAutomation Installer
+title HumanAutomation Installer 
 color 0a
 
 :: Set the current directory to the script directory
@@ -77,15 +77,24 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-:: Create necessary directories
+:: Create necessary directories in the right location
 echo.
 echo Creating project directories...
-mkdir logs scenarios mustdo randos fillers >nul 2>&1
+mkdir logs 2>nul
+mkdir scenarios 2>nul
+mkdir scenarios\mustdo 2>nul
+mkdir scenarios\randos 2>nul
+mkdir scenarios\fillers 2>nul
 
-:: Verify installation
+:: Remove any incorrectly created folders in root
+if exist mustdo rmdir /s /q mustdo 2>nul
+if exist randos rmdir /s /q randos 2>nul
+if exist fillers rmdir /s /q fillers 2>nul
+
+:: Verify installation with FIXED command
 echo.
 echo Verifying installation...
-python -c "import pyautogui, pynput, tkinter; print('✅ All imports successful')" >nul 2>&1
+python -c "import pyautogui, pynput, tkinter; print('All imports successful')" >nul 2>&1
 if %errorlevel% equ 0 (
     echo.
     echo ==============================
@@ -93,7 +102,7 @@ if %errorlevel% equ 0 (
     echo ==============================
     echo.
     echo ✅ Python %python_version%
-    echo ✅ tkinter GUI support
+    echo ✅ tkinter GUI support  
     echo ✅ pyautogui automation
     echo ✅ pynput input monitoring
     echo.
@@ -102,6 +111,9 @@ if %errorlevel% equ 0 (
     echo.
     echo ❌ Installation verification failed.
     echo Some packages may not be installed correctly.
+    echo.
+    echo Try running manually:
+    echo python -c "import pyautogui, pynput, tkinter"
 )
 
 echo.

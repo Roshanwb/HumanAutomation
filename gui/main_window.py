@@ -52,7 +52,7 @@ class StatusDisplay(scrolledtext.ScrolledText):
         tag_name = f"color_{message_type}"
         
         # Create tag if it doesn't exist
-        if tag_name not self.tag_names():
+        if tag_name in self.tag_names():
             self.tag_configure(tag_name, foreground=color)
         
         # Add the message
@@ -239,13 +239,102 @@ class MainWindow:
         """Start the application."""
         self.root.mainloop()
 
+# Add these event listeners to the _setup_event_listeners method:
+    def _setup_event_listeners(self):
+        """Set up event listeners for application events."""
+        event_bus.subscribe("automation_started", self._on_automation_started)
+        event_bus.subscribe("automation_stopped", self._on_automation_stopped)
+        event_bus.subscribe("automation_paused", self._on_automation_paused)
+        event_bus.subscribe("automation_resumed", self._on_automation_resumed)
+        event_bus.subscribe("command_executed", self._on_command_executed)
+        event_bus.subscribe("command_started", self._on_command_started)
+        event_bus.subscribe("scenario_loaded", self._on_scenario_loaded)
+        event_bus.subscribe("scenario_completed", self._on_scenario_completed)
+        event_bus.subscribe("automation_error", self._on_automation_error)
+        event_bus.subscribe("total_time_set", self._on_total_time_set)
+        event_bus.subscribe("scenario_repeated", self._on_scenario_repeated)
+
+    def _on_total_time_set(self, data=None):
+        """Update UI when total time is set."""
+        if data:
+            time_limit = data['time_limit']
+            self.status_display.add_message(f"⏰ Total time set: {time_limit:.2f} minutes", "info")
+            self.status_bar.config(text=f"Time limit: {time_limit:.1f} minutes")
+
+    def _on_scenario_repeated(self, data=None):
+        """Update UI when scenario is repeated."""
+        if data:
+            file = data['file']
+            time_remaining = data['time_remaining']
+            self.status_display.add_message(f"🔁 Repeating scenario: {file} ({time_remaining:.1f}m remaining)", "success")
+
+    def _on_command_started(self, data=None):
+        """Update UI when a command starts."""
+        if data:
+            command = data['command']
+            number = data['number']
+            total = data['total']
+            time_remaining = data.get('time_remaining', 'N/A')
+            progress = data.get('progress', 0)
+            
+            status_text = f"Executing {command}... ({number}/{total})"
+            if time_remaining != 'N/A':
+                status_text += f" | Time: {time_remaining:.1f}m | Progress: {progress:.1f}%"
+            
+            self.status_display.add_message(f"🔄 {status_text}", "info")
+            self.status_bar.config(text=status_text)
+
+    def _on_command_executed(self, data=None):
+        """Update UI when a command is executed."""
+        if data:
+            command = data['command']
+            number = data['number']
+            total = data['total']
+            time_remaining = data.get('time_remaining', 'N/A')
+            
+            status_text = f"✅ Executed {command} ({number}/{total})"
+            if time_remaining != 'N/A':
+                status_text += f" | Time left: {time_remaining:.1f}m"
+            
+            self.status_display.add_message(status_text, "command")
+
+            
+    def _on_command_started(self, data=None):
+        """Update UI when a command starts."""
+        if data:
+            command = data['command']
+            number = data['number']
+            total = data['total']
+            self.status_display.add_message(f"🔄 Executing {command} ({number}/{total})...", "info")
+            self.status_bar.config(text=f"Executing {command}... ({number}/{total})")
+
+    def _on_scenario_loaded(self, data=None):
+        """Update UI when scenario is loaded."""
+        if data:
+            file = data['file']
+            count = data['command_count']
+            self.status_display.add_message(f"📁 Loaded scenario: {file} ({count} commands)", "success")
+
+    def _on_scenario_completed(self, data=None):
+        """Update UI when scenario completes."""
+        if data:
+            file = data['file']
+            commands = data['commands_executed']
+            self.status_display.add_message(f"✅ Scenario completed: {file} ({commands} commands executed)", "success")
+            self.status_bar.config(text="Scenario completed!")
+
+    def _on_automation_error(self, data=None):
+        """Update UI when automation error occurs."""
+        if data:
+            self.status_display.add_message(f"❌ Error: {data}", "error")
+            self.status_bar.config(text="Error occurred!")
+
 
 def main():
     """Main entry point for the GUI application."""
     print("Starting HumanAutomation Professional...")
     app = MainWindow()
     app.run()
-
 
 if __name__ == "__main__":
     main()
