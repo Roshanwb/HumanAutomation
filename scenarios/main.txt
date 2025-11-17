@@ -1,0 +1,20 @@
+# Main automation scenario
+# This is a simple test scenario
+
+# Move mouse around
+movemouse
+
+# Click on a component (you would map this first)
+click button1, 500-1500
+
+# Type some text
+type "Hello, World!", 100-300
+
+# Wait for a bit
+wait, 0.1-0.3
+
+# Make a beep sound
+beep, 200-500
+
+# Another click
+click button2, 500-1500

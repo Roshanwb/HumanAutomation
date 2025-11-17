@@ -1,0 +1,15 @@
+# HumanAutomation Professional - Dependencies
+
+# Core automation
+pyautogui>=0.9.53
+pynput>=1.7.6
+
+# Optional enhancements (uncomment if needed)
+# pillow>=8.0.0            # For image processing
+# opencv-python>=4.5.0     # For computer vision
+# numpy>=1.19.0           # For numerical operations
+
+# Development tools (uncomment for development)
+# pylint>=2.12.0          # Code linting
+# black>=21.0.0           # Code formatting
+# pytest>=6.2.0           # Testing framework

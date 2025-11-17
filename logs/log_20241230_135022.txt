@@ -1,7 +1,0 @@
-[2024-12-30 13:50:22] No last Chrome tab recorded. Skipping.
-[2024-12-30 13:50:22] Set TOTALTIME to 218.02 minutes
-[2024-12-30 13:50:22] Executing filler: fillers\MOVEMOUSE.txt
-[2024-12-30 13:50:24] Moved mouse to (1288, 783) smoothly
-[2024-12-30 13:50:24] Random mouse move to (1288, 783)
-[2024-12-30 13:50:24] Calling scenario: mustdo\shortexpounisaros.txt
-[2024-12-30 13:50:26] Moved mouse to (1143, 20) smoothly

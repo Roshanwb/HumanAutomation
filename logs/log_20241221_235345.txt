@@ -1,4 +1,0 @@
-[2024-12-21 23:53:45] Total time for this iteration: 100.00 minutes
-[2024-12-21 23:53:45] Executing filler: fillers\MOVEMOUSEmid.txt
-[2024-12-21 23:53:47] Moved mouse to (886, 87) smoothly
-[2024-12-21 23:53:47] Random mouse move to (886, 87)

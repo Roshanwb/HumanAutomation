@@ -1,6 +1,0 @@
-[2024-12-30 23:59:20] No last Chrome tab recorded. Skipping.
-[2024-12-30 23:59:20] Set TOTALTIME to 189.98 minutes
-[2024-12-30 23:59:20] Executing filler: fillers\SMALLWAIT2.txt
-[2024-12-30 23:59:32] Waited for 0.21 minutes
-[2024-12-31 00:00:39] Waited for 1.11 minutes
-[2024-12-31 00:00:39] Ending program
